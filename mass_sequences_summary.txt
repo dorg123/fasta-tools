@@ -1,0 +1,6408 @@
+
+1. Aplysia juliana mRNA for myoglobin, complete cds
+1,240 bp linear mRNA 
+AB003277.1 GI:2055265
+
+2. Aplysia kurodai mRNA for myoglobin, complete cds
+1,278 bp linear mRNA 
+AB003278.1 GI:3410884
+
+3. Turbo cornutus mRNA for indoleamine dioxygenase like-myoglobin, complete cds
+2,836 bp linear mRNA 
+AB017258.1 GI:3582429
+
+4. Omphalius pfeifferi mRNA for indoleamine dioxygenase like-myoglobin, complete cds
+2,835 bp linear mRNA 
+AB017259.1 GI:3582431
+
+5. Daphnia magna dhb2 mRNA for hemoglobin, complete cds
+1,167 bp linear mRNA 
+AB021136.1 GI:4589709
+
+6. Daphnia magna dhb3 mRNA for hemoglobin, complete cds
+1,180 bp linear mRNA 
+AB021137.1 GI:4589711
+
+7. Moina macrocopa mhb1 mRNA for hemoglobin chain, complete cds
+1,144 bp linear mRNA 
+AB055113.1 GI:15080666
+
+8. Moina macrocopa mhb2 mRNA for hemoglobin chain, complete cds
+1,145 bp linear mRNA 
+AB055114.1 GI:15080668
+
+9. Thunnus obesus mRNA for Myoglobin, complete cds
+792 bp linear mRNA 
+AB104433.1 GI:34097975
+
+10. Macrobdella decora HbIIA mRNA for hemoglobin, chain IIA, complete cds
+967 bp linear mRNA 
+AB118638.1 GI:34330140
+
+11. Macrobdella decora HbIIB mRNA for hemoglobin, chain IIB, complete cds
+889 bp linear mRNA 
+AB118639.1 GI:34330142
+
+12. Macrobdella decora HbB mRNA for hemoglobin, chain B, complete cds
+708 bp linear mRNA 
+AB118640.1 GI:34330144
+
+13. Macrobdella decora HbC mRNA for hemoglobin, chain C, complete cds
+723 bp linear mRNA 
+AB118641.1 GI:34330146
+
+14. Haemadipsa zeylanica mRNA for globin M1 precursor, complete cds
+501 bp linear mRNA 
+AB119122.1 GI:34447125
+
+15. Haemadipsa zeylanica mRNA for globin M2 precursor, complete cds
+495 bp linear mRNA 
+AB119123.1 GI:34447127
+
+16. Haemadipsa zeylanica mRNA for globin D1 precursor, complete cds
+516 bp linear mRNA 
+AB119124.1 GI:34447129
+
+17. Haemadipsa zeylanica mRNA for globin D2 precursor, complete cds
+495 bp linear mRNA 
+AB119125.1 GI:34447131
+
+18. Auxis rochei mRNA for myoglobin, complete cds
+766 bp linear mRNA 
+AB154423.1 GI:48843363
+
+19. Oligobrachia mashikoi ghbA2 mRNA for giant hemoglobin A2 globin chain, complete cds
+569 bp linear mRNA 
+AB185391.1 GI:57207891
+
+20. Oligobrachia mashikoi ghbA1 mRNA for giant hemoglobin A1 globin chain, complete cds
+551 bp linear mRNA 
+AB185392.1 GI:57207893
+
+21. Oligobrachia mashikoi ghbB2 mRNA for giant hemoglobin B2 globin chain, complete cds
+570 bp linear mRNA 
+AB185393.1 GI:57207895
+
+22. Oligobrachia mashikoi ghbB1a mRNA for giant hemoglobin B1a globin chain, complete cds
+851 bp linear mRNA 
+AB185394.1 GI:57207897
+
+23. Calyptogena kaikoi Hb-I mRNA for hemoglobin chain I, complete cds
+802 bp linear mRNA 
+AB186045.1 GI:50897134
+
+24. Calyptogena kaikoi Hb-II mRNA for hemoglobin II, partial cds
+820 bp linear mRNA 
+AB186046.1 GI:50897136
+
+25. Calyptogena nautilei Hb-III mRNA for hemoglobin III, complete cds
+1,137 bp linear mRNA 
+AB186049.1 GI:50897142
+
+26. Calyptogena nautilei Hb-IV mRNA for hemoglobin IV, complete cds
+1,116 bp linear mRNA 
+AB186050.1 GI:50897144
+
+27. Calyptogena tsubasa Hb-I mRNA for hemoglobin chain I, complete cds
+775 bp linear mRNA 
+AB186401.1 GI:51014278
+
+28. Indopacetus pacificus Mb mRNA for myoglobin, complete cds
+1,065 bp linear mRNA 
+AB271143.1 GI:113374034
+
+29. Physeter catodon Mb mRNA for myoglobin, complete cds
+1,067 bp linear mRNA 
+AB271144.1 GI:113374036
+
+30. Stenella attenuata Mb1 mRNA for myoglobin 1, complete cds
+1,069 bp linear mRNA 
+AB271145.1 GI:113374038
+
+31. Stenella attenuata Mb2 mRNA for myoglobin 2, complete cds
+1,069 bp linear mRNA 
+AB271146.1 GI:113374040
+
+32. Kogia breviceps Mb mRNA for myoglobin, complete cds
+1,072 bp linear mRNA 
+AB271147.1 GI:113374042
+
+33. Balaenoptera acutorostrata Mb mRNA for myoglobin, complete cds
+1,065 bp linear mRNA 
+AB271148.1 GI:113374044
+
+34. Peponocephala electra Mb mRNA for myoglobin, complete cds
+1,069 bp linear mRNA 
+AB271149.1 GI:113374046
+
+35. Balaenoptera edeni Mb mRNA for myoglobin, complete cds
+1,065 bp linear mRNA 
+AB271150.1 GI:113374048
+
+36. Balaenoptera borealis Mb mRNA for myoglobin, complete cds
+1,065 bp linear mRNA 
+AB271151.1 GI:113374050
+
+37. Mesoplodon stejnegeri Mb mRNA for myoglobin, complete cds
+1,066 bp linear mRNA 
+AB271152.1 GI:113374052
+
+38. Oligobrachia mashikoi ghbB1b mRNA for giant hemoglobin B1b globin chain, partial cds, N-terminal to C-terminal region except for signal sequence
+438 bp linear mRNA 
+AB360377.1 GI:171703084
+
+39. Lamellibrachia satsuma ghbA1 mRNA for A1 globin chain of V1 giant hemoglobin, complete cds
+568 bp linear mRNA 
+AB430821.1 GI:985700788
+
+40. Lamellibrachia satsuma ghbA2 mRNA for A2 globin chain of V1 giant hemoglobin, complete cds
+529 bp linear mRNA 
+AB430822.1 GI:985700790
+
+41. Lamellibrachia satsuma ghbB1 mRNA for B1 globin chain of V1 giant hemoglobin, complete cds
+597 bp linear mRNA 
+AB430823.1 GI:985700792
+
+42. Lamellibrachia satsuma ghbB2 mRNA for B2 globin chain of V1 giant hemoglobin, complete cds
+632 bp linear mRNA 
+AB430824.1 GI:985700794
+
+43. Bombyx mori gb mRNA for globin, complete cds
+522 bp linear mRNA 
+AB440198.1 GI:215764928
+
+44. Samia ricini gb mRNA for globin, complete cds
+522 bp linear mRNA 
+AB440199.1 GI:215764930
+
+45. Seriola quinqueradiata Mb mRNA for myoglobin, complete cds
+798 bp linear mRNA 
+AB470256.1 GI:213385107
+
+46. Seriola dumerili Mb mRNA for myoglobin, complete cds
+804 bp linear mRNA 
+AB470257.2 GI:297591800
+
+47. Pseudocaranx dentex Mb mRNA for myoglobin, complete cds
+825 bp linear mRNA 
+AB474558.2 GI:297591801
+
+48. Oreochromis niloticus Mb mRNA for myoglobin, complete cds
+799 bp linear mRNA 
+AB479124.1 GI:222350744
+
+49. Oreochromis aureus Mb mRNA for myoglobin, complete cds
+794 bp linear mRNA 
+AB479387.1 GI:222533786
+
+50. Oreochromis mossambicus Mb mRNA for myoglobin, complete cds
+798 bp linear mRNA 
+AB479388.1 GI:222533788
+
+51. Oreochromis aureus x Oreochromis niloticus Mb mRNA for myoglobin, complete cds
+793 bp linear mRNA 
+AB479389.1 GI:222533790
+
+52. Chanos chanos Mb mRNA for myoglobin, complete cds
+681 bp linear mRNA 
+AB480168.1 GI:222825171
+
+53. Macruronus magellanicus Mb mRNA for myoglobin, complete cds
+444 bp linear mRNA 
+AB491610.1 GI:225618772
+
+54. Polypedilum vanderplanki PvHbCTT6 mRNA for hemoglobin CTT6, complete cds
+783 bp linear mRNA 
+AB513663.1 GI:256353453
+
+55. Polypedilum vanderplanki mRNA for globin2, complete cds
+866 bp linear mRNA 
+AB513664.1 GI:256353455
+
+56. Trachurus japonicus Mb mRNA for myoglobin, complete cds
+793 bp linear mRNA 
+AB515303.1 GI:255652740
+
+57. Seriola lalandi Mb mRNA for myoglobin, complete cds
+815 bp linear mRNA 
+AB515304.1 GI:255652742
+
+58. Tenualosa ilisha Mb mRNA for myoglobin, complete cds
+815 bp linear mRNA 
+AB515305.1 GI:255652744
+
+59. Haliotis discus Mb mRNA for myoglobin, complete cds
+1,505 bp linear mRNA 
+AB518862.1 GI:256856169
+
+60. Oncorhynchus mykiss Mb mRNA for myoglobin, complete cds
+688 bp linear mRNA 
+AB526463.1 GI:261599948
+
+61. Pagrus major Mb mRNA for myoglobin, complete cds
+824 bp linear mRNA 
+AB529437.1 GI:261876468
+
+62. Thunnus maccoyii mRNA for myoglobin, complete cds
+776 bp linear mRNA 
+AB592346.1 GI:308191638
+
+63. Scapharca broughtonii hb1 mRNA for Hb1 hemoglobin, complete cds
+760 bp linear mRNA 
+AB713934.1 GI:409924426
+
+64. Lamellibrachia satsuma v2hb-A1 mRNA for A1 globin chain of giant V2 hemoglobin, complete cds
+498 bp linear mRNA 
+AB753068.1 GI:514703158
+
+65. Lamellibrachia satsuma v2hb-A2 mRNA for A2 globin chain of giant V2 hemoglobin, complete cds
+483 bp linear mRNA 
+AB753069.1 GI:514703160
+
+66. Lamellibrachia satsuma v2hb-B1 mRNA for B1 globin chain of giant V2 hemoglobin, complete cds
+507 bp linear mRNA 
+AB753070.1 GI:514703162
+
+67. Lamellibrachia satsuma v2hb-B2 mRNA for B2 globin chain of giant V2 hemoglobin, complete cds
+501 bp linear mRNA 
+AB753071.1 GI:514703164
+
+68. Lamellibrachia satsuma v2hb-A1 mRNA for A1 globin chain of giant V2 hemoglobin, complete cds
+901 bp linear mRNA 
+AB757727.1 GI:756135173
+
+69. Lamellibrachia satsuma v2hb-A2 mRNA for A2 globin chain of giant V2 hemoglobin, complete cds
+625 bp linear mRNA 
+AB757728.1 GI:756135175
+
+70. Lamellibrachia satsuma v2hb-B1 mRNA for B1 globin chain of giant V2 hemoglobin, complete cds
+782 bp linear mRNA 
+AB757729.1 GI:756135177
+
+71. Lamellibrachia satsuma v2hb-B2 mRNA for B2 globin chain of giant V2 hemoglobin, complete cds
+1,226 bp linear mRNA 
+AB757730.1 GI:756135179
+
+72. Polypedilum vanderplanki PvHb1 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842111.1 GI:528744479
+
+73. Polypedilum vanderplanki PvHb2 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842112.1 GI:528744481
+
+74. Polypedilum vanderplanki PvHb3 mRNA for globin, complete cds
+402 bp linear mRNA 
+AB842113.1 GI:528744483
+
+75. Polypedilum vanderplanki PvHb4 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842114.1 GI:528744485
+
+76. Polypedilum vanderplanki PvHb5 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842115.1 GI:528744487
+
+77. Polypedilum vanderplanki PvHb6 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842116.1 GI:528744489
+
+78. Polypedilum vanderplanki PvHb7 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842117.1 GI:528744491
+
+79. Polypedilum vanderplanki PvHb8 mRNA for globin, complete cds
+486 bp linear mRNA 
+AB842118.1 GI:528744493
+
+80. Polypedilum vanderplanki PvHb9 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842119.1 GI:528744495
+
+81. Polypedilum vanderplanki PvHb10 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842120.1 GI:528744497
+
+82. Polypedilum vanderplanki PvHb11 mRNA for globin, complete cds
+501 bp linear mRNA 
+AB842121.1 GI:528744499
+
+83. Polypedilum vanderplanki PvHb12 mRNA for globin, complete cds
+489 bp linear mRNA 
+AB842122.1 GI:528744501
+
+84. Polypedilum vanderplanki PvHb13 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842123.1 GI:528744503
+
+85. Polypedilum vanderplanki PvHb14 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842124.1 GI:528744505
+
+86. Polypedilum vanderplanki PvHb15 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842125.1 GI:528744507
+
+87. Polypedilum vanderplanki PvHb16 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842126.1 GI:528744509
+
+88. Polypedilum vanderplanki PvHb17 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB842127.1 GI:528744511
+
+89. Polypedilum vanderplanki PvHb18 mRNA for globin, complete cds
+444 bp linear mRNA 
+AB842128.1 GI:528744513
+
+90. Polypedilum vanderplanki PvHb19 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842129.1 GI:528744515
+
+91. Polypedilum vanderplanki PvHb20 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842130.1 GI:528744517
+
+92. Polypedilum vanderplanki PvHb21 mRNA for globin, complete cds
+492 bp linear mRNA 
+AB842131.1 GI:528744519
+
+93. Polypedilum vanderplanki PvHb22 mRNA for globin, complete cds
+606 bp linear mRNA 
+AB842132.1 GI:528744521
+
+94. Polypedilum vanderplanki PvHb23 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB842133.1 GI:528744523
+
+95. Polypedilum vanderplanki PvHb24 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842134.1 GI:528744525
+
+96. Polypedilum vanderplanki PvHb25 mRNA for globin, complete cds
+516 bp linear mRNA 
+AB842135.1 GI:528744527
+
+97. Polypedilum vanderplanki PvHb27 mRNA for globin, complete cds
+468 bp linear mRNA 
+AB842137.1 GI:528744531
+
+98. Polypedilum vanderplanki PvHb28 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB842138.1 GI:528744533
+
+99. Polypedilum vanderplanki PvHb29 mRNA for globin, complete cds
+453 bp linear mRNA 
+AB842139.1 GI:528744535
+
+100. Polypedilum vanderplanki PvHb30 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB842140.1 GI:528744537
+
+101. Polypedilum vanderplanki PVHb31 mRNA for globin, complete cds
+504 bp linear mRNA 
+AB842141.1 GI:528744539
+
+102. Polypedilum vanderplanki PvHb32 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB842142.1 GI:528744541
+
+103. Polypedilum vanderplanki PvHb33 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB842143.1 GI:528744543
+
+104. Polypedilum nubifer PnHb2 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB872470.1 GI:560177587
+
+105. Polypedilum nubifer PnHb3 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB872471.1 GI:560177590
+
+106. Polypedilum nubifer PnHb4 mRNA for globin, complete cds
+504 bp linear mRNA 
+AB872472.1 GI:560177593
+
+107. Polypedilum nubifer PnHb1 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB872473.1 GI:560177596
+
+108. Polypedilum nubifer PnHb6 mRNA for globin, complete cds
+501 bp linear mRNA 
+AB872474.1 GI:560177599
+
+109. Polypedilum nubifer PnHb11 mRNA for globin, complete cds
+504 bp linear mRNA 
+AB872475.1 GI:560177601
+
+110. Polypedilum nubifer PnHb10 mRNA for globin, complete cds
+504 bp linear mRNA 
+AB872476.1 GI:560177604
+
+111. Polypedilum nubifer PnHb9 mRNA for globin, complete cds
+486 bp linear mRNA 
+AB872477.1 GI:560177607
+
+112. Polypedilum nubifer PnHb8 mRNA for globin, complete cds
+507 bp linear mRNA 
+AB872478.1 GI:560177610
+
+113. Polypedilum nubifer PnHb7 mRNA for globin, complete cds
+501 bp linear mRNA 
+AB872479.1 GI:560177612
+
+114. Polypedilum nubifer PnHb5 mRNA for globin, complete cds
+468 bp linear mRNA 
+AB872480.1 GI:560177615
+
+115. Polypedilum nubifer PnHb14 mRNA for globin, complete cds
+567 bp linear mRNA 
+AB872481.1 GI:560177618
+
+116. Polypedilum nubifer PnHb13 mRNA for globin, complete cds
+549 bp linear mRNA 
+AB872482.1 GI:560177621
+
+117. Polypedilum nubifer PnHb12 mRNA for globin, complete cds
+489 bp linear mRNA 
+AB872483.1 GI:560177624
+
+118. Polypedilum nubifer PnHb15 mRNA for globin, complete cds
+489 bp linear mRNA 
+AB872484.1 GI:560177627
+
+119. Polypedilum nubifer PnHb16 mRNA for globin, complete cds
+489 bp linear mRNA 
+AB872485.1 GI:560177630
+
+120. Polypedilum nubifer PnHb19 mRNA for globin, complete cds
+483 bp linear mRNA 
+AB872486.1 GI:560177633
+
+121. Polypedilum nubifer PnHb20 mRNA for globin, complete cds
+492 bp linear mRNA 
+AB872487.1 GI:560177635
+
+122. Polypedilum nubifer PnHb21 mRNA for globin, complete cds
+471 bp linear mRNA 
+AB872488.1 GI:560177638
+
+123. Polypedilum nubifer PnHb22 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB872489.1 GI:560177641
+
+124. Polypedilum nubifer PnHb23 mRNA for globin, complete cds
+513 bp linear mRNA 
+AB872490.1 GI:560177644
+
+125. Polypedilum nubifer PnHb25 mRNA for globin, complete cds
+453 bp linear mRNA 
+AB872491.1 GI:560177647
+
+126. Polypedilum nubifer PnHb24 mRNA for globin, complete cds
+480 bp linear mRNA 
+AB872492.1 GI:560177650
+
+127. Polypedilum nubifer PnHb18 mRNA for globin, complete cds
+546 bp linear mRNA 
+AB872493.1 GI:560177653
+
+128. Polypedilum nubifer PnHb17 mRNA for globin, complete cds
+486 bp linear mRNA 
+AB872494.1 GI:560177655
+
+129. Artemia salina hemoglobin C1 polymer precursor, mRNA, complete cds
+4,293 bp linear mRNA 
+AF104216.1 GI:4020133
+
+130. Artemia salina hemoglobin T1 polymer precursor, mRNA, complete cds
+4,293 bp linear mRNA 
+AF104217.1 GI:4020135
+
+131. Mermis nigrescens eye globin (glb-e) mRNA, complete cds
+765 bp linear mRNA 
+AF138291.1 GI:7106744
+
+132. Mermis nigrescens body wall globin (glb-b) mRNA, complete cds
+528 bp linear mRNA 
+AF138295.1 GI:7024517
+
+133. Lucina pectinata hemoglobin I mRNA, complete cds
+1,322 bp linear mRNA 
+AF187049.1 GI:9885267
+
+134. Rattus norvegicus myoglobin mRNA, complete cds
+465 bp linear mRNA 
+AF197916.1 GI:6180208
+
+135. Daphnia magna hemoglobin (Dhb1) mRNA, partial cds
+381 bp linear mRNA 
+AF255951.1 GI:7650498
+
+136. Eudistylia vancouveri globin chain a1 precursor, mRNA, complete cds
+1,108 bp linear mRNA 
+AF257469.1 GI:13249108
+
+137. Parartemia zietziana hemoglobin P polymer precursor, mRNA, complete cds
+4,410 bp linear mRNA 
+AF258616.1 GI:8101727
+
+138. Amphitrite ornata dehaloperoxidase A mRNA, complete cds
+1,044 bp linear mRNA 
+AF284381.1 GI:9664870
+
+139. Amphitrite ornata dehaloperoxidase B mRNA, complete cds
+971 bp linear mRNA 
+AF285090.1 GI:9664872
+
+140. Thunnus thynnus thynnus myoglobin mRNA, complete cds
+744 bp linear mRNA 
+AF291831.1 GI:9930585
+
+141. Thunnus alalunga myoglobin mRNA, complete cds
+698 bp linear mRNA 
+AF291832.1 GI:9930587
+
+142. Makaira nigricans myoglobin mRNA, complete cds
+444 bp linear mRNA 
+AF291833.1 GI:9930589
+
+143. Sarda chiliensis myoglobin mRNA, complete cds
+698 bp linear mRNA 
+AF291834.1 GI:9930591
+
+144. Scomber japonicus myoglobin mRNA, complete cds
+444 bp linear mRNA 
+AF291835.1 GI:9930593
+
+145. Thunnus thynnus orientalis myoglobin mRNA, complete cds
+699 bp linear mRNA 
+AF291836.1 GI:9930595
+
+146. Euthynnus pelamis myoglobin mRNA, complete cds
+697 bp linear mRNA 
+AF291837.1 GI:9930597
+
+147. Thunnus albacares myoglobin mRNA, complete cds
+747 bp linear mRNA 
+AF291838.1 GI:9930599
+
+148. Yoldia eightsi hemoglobin (Hb) mRNA, complete cds
+1,265 bp linear mRNA 
+AF361744.1 GI:19880108
+
+149. Toxocara canis intracellular globin (glb-m) mRNA, complete cds
+530 bp linear mRNA 
+AF370723.1 GI:18029242
+
+150. Clonorchis sinensis myoglobin mRNA, complete cds
+565 bp linear mRNA 
+AF461710.1 GI:20270893
+
+151. Clonorchis sinensis 17 kDa myoglobin mRNA, complete cds
+576 bp linear mRNA 
+AF538719.1 GI:23344090
+
+152. Lumbricus rubellus mRNA for hemoglobin C chain precursor
+980 bp linear mRNA 
+AJ012205.1 GI:3777439
+
+153. Sabella spallanzanii mRNA for globin 1
+1,086 bp linear mRNA 
+AJ131283.1 GI:13810244
+
+154. Sabella spallanzanii mRNA for globin 2
+1,177 bp linear mRNA 
+AJ131284.1 GI:13810246
+
+155. Sabella spallanzanii mRNA for globin 3
+919 bp linear mRNA 
+AJ131285.1 GI:13810248
+
+156. Riftia pachyptila partial mRNA for hemoglobin A1 chain (hbA1 gene)
+345 bp linear mRNA 
+AJ439732.1 GI:23304592
+
+157. Riftia pachyptila partial mRNA for hemoglobin A2 chain (hbA2 gene)
+348 bp linear mRNA 
+AJ439733.1 GI:23304594
+
+158. Riftia pachyptila partial mRNA for hemoglobin B1a chain (hbB1a gene)
+354 bp linear mRNA 
+AJ439734.1 GI:23304596
+
+159. Riftia pachyptila partial mRNA for hemoglobin B1b chain (hbB1b gene)
+354 bp linear mRNA 
+AJ439735.1 GI:23304598
+
+160. Riftia pachyptila partial mRNA for hemoglobin B1c chain (hbB1c gene)
+345 bp linear mRNA 
+AJ439736.1 GI:23304600
+
+161. Riftia pachyptila partial mRNA for hemoglobin B2 chain (hbB2 gene)
+351 bp linear mRNA 
+AJ439737.1 GI:23304602
+
+162. Ciona intestinalis mRNA for globin (hb1 gene)
+471 bp linear mRNA 
+AJ548500.1 GI:34364567
+
+163. Ciona intestinalis mRNA for globin (hb2 gene)
+480 bp linear mRNA 
+AJ548501.1 GI:34364569
+
+164. Ciona intestinalis mRNA for globin (hb3 gene)
+462 bp linear mRNA 
+AJ548502.1 GI:34364571
+
+165. Ciona intestinalis mRNA for globin (hb4 gene)
+882 bp linear mRNA 
+AJ557135.1 GI:34364573
+
+166. Biomphalaria glabrata partial mRNA for hemoglobin (hb gene), clone 1
+1,426 bp linear mRNA 
+AJ812231.1 GI:51773696
+
+167. Biomphalaria glabrata partial mRNA for hemoglobin (hb gene), clone 2
+1,165 bp linear mRNA 
+AJ812232.1 GI:51773698
+
+168. Biomphalaria glabrata partial mRNA for hemoglobin (hb gene), clone 3
+2,387 bp linear mRNA 
+AJ865380.1 GI:82655304
+
+169. Arenicola marina mRNA for haemoglobin A2 chain (hbA2 gene)
+474 bp linear mRNA 
+AJ880690.1 GI:62990078
+
+170. Arenicola marina mRNA for haemoglobin B2 chain (hbB2 gene)
+498 bp linear mRNA 
+AJ880691.1 GI:62990080
+
+171. Arenicola marina partial mRNA for myoglobin IIa (mbIIa gene)
+399 bp linear mRNA 
+AJ880692.1 GI:62990082
+
+172. Alvinella pompejana partial mRNA for intracellular haemoglobin (hb-i gene)
+372 bp linear mRNA 
+AJ880693.1 GI:62990084
+
+173. Mus musculus adult male bone cDNA, RIKEN full-length enriched library, clone:9830004A21 product:myoglobin, full insert sequence
+961 bp linear mRNA 
+AK137456.1 GI:74210313
+
+174. Homo sapiens cDNA FLJ55163 complete cds, highly similar to Myoglobin
+1,030 bp linear mRNA 
+AK300657.1 GI:194374060
+
+175. Homo sapiens cDNA, FLJ94722, highly similar to Homo sapiens myoglobin (MB), mRNA
+606 bp linear mRNA 
+AK314057.1 GI:164697006
+
+176. Acyrthosiphon pisum ACYPI007228 mRNA, clone: 493C5, complete cds, full-insert cDNA sequence based on the ESTs (5'-EST:FF332492, 3'-EST:FF333927)
+1,384 bp linear mRNA 
+AK340338.1 GI:239788582
+
+177. Drosophila virilis mRNA for globin 1 (glob1 gene)
+580 bp linear mRNA 
+AM086022.1 GI:76057905
+
+178. Drosophila pseudoobscura mRNA for globin 1 (glob1 gene)
+633 bp linear mRNA 
+AM086023.1 GI:76057907
+
+179. Drosophila melanogaster mRNA for globin 2 (glob2 gene)
+669 bp linear mRNA 
+AM086024.1 GI:76057909
+
+180. Spisula solidissima mRNA for nerve hemoglobin (nHb gene)
+1,588 bp linear mRNA 
+AM086629.1 GI:76058054
+
+181. Arenicola marina mRNA for haemoglobin A2b chain precursor (hbA2b gene)
+477 bp linear mRNA 
+AM109949.1 GI:84618894
+
+182. Arenicola marina mRNA for haemoglobin A2c chain precursor (hbA2c gene)
+474 bp linear mRNA 
+AM109950.1 GI:84618896
+
+183. Arenicola marina mRNA for hemoglobin B1 chain precursor (hbB1 gene)
+498 bp linear mRNA 
+AM109951.1 GI:84618898
+
+184. Apis mellifera mRNA for globin 1 (glob1 gene)
+516 bp linear mRNA 
+AM158085.1 GI:110082105
+
+185. Biomphalaria glabrata mRNA for haemoglobin type 1 (hb1 gene)
+6,999 bp linear mRNA 
+AM167926.1 GI:110319966
+
+186. Biomphalaria glabrata partial mRNA for haemoglobin type 2 (hb2 gene)
+6,185 bp linear mRNA 
+AM167927.1 GI:110319968
+
+187. Biomphalaria glabrata partial mRNA for haemoglobin type 3 (hb3 gene)
+1,112 bp linear mRNA 
+AM167928.1 GI:110319970
+
+188. Anopheles gambiae mRNA for globin 1 (glob1 gene), splice variant 1
+1,215 bp linear mRNA 
+AM182452.1 GI:85813747
+
+189. Anopheles gambiae mRNA for globin 1 (glob1 gene), splice variant 2
+1,227 bp linear mRNA 
+AM182453.1 GI:85813749
+
+190. Anopheles gambiae mRNA for globin 2 (glob2 gene)
+651 bp linear mRNA 
+AM182454.1 GI:85813751
+
+191. Spalax galili mRNA for neuroglobin (Ngb gene), isolate Kerem Ben-Zimra
+456 bp linear mRNA 
+AM419201.1 GI:162769899
+
+192. Spalax judaei mRNA for neuroglobin (Ngb gene), isolate Anza
+456 bp linear mRNA 
+AM419202.1 GI:162769901
+
+193. Spalax galili mRNA for cytoglobin (Cytg gene), isolate Kerem Ben-Zimra
+684 bp linear mRNA 
+AM419203.1 GI:162769903
+
+194. Spalax judaei mRNA for cytoglobin (Cytg gene), isolate Anza
+684 bp linear mRNA 
+AM419204.1 GI:162769905
+
+195. Spalax carmeli mRNA for myoglobin (Mb gene), isolate Kabri
+1,007 bp linear mRNA 
+AM419205.1 GI:162769907
+
+196. Spalax carmeli mRNA for cytoglobin (cygb gene)
+684 bp linear mRNA 
+AM489449.1 GI:226434337
+
+197. Spalax carmeli mRNA for neuroglobin (ngb gene)
+1,547 bp linear mRNA 
+AM489450.1 GI:226434339
+
+198. Carassius auratus mRNA for myoglobin 1 (mb1 gene)
+501 bp linear mRNA 
+AM747267.2 GI:190360319
+
+199. Carassius auratus mRNA for myoglobin 2 (mb2 gene)
+444 bp linear mRNA 
+AM747268.1 GI:190360304
+
+200. Hemitripterus americanus myoglobin mRNA, partial cds
+774 bp linear mRNA 
+AY029587.1 GI:13989949
+
+201. Schistosoma japonicum clone ZZD199 mRNA sequence
+613 bp linear mRNA 
+AY223195.1 GI:28317670
+
+202. Lucina pectinata hemoglobin II mRNA, complete cds
+459 bp linear mRNA 
+AY243364.1 GI:29692327
+
+203. Ridgeia piscesae hemoglobin B2 chain (hbB2) mRNA, partial cds
+255 bp linear mRNA 
+AY250083.1 GI:30314143
+
+204. Lamellibrachia sp. XB-2003 hemoglobin A2 chain (hbA2) mRNA, partial cds
+210 bp linear mRNA 
+AY250084.1 GI:30314145
+
+205. Lamellibrachia sp. XB-2003 hemoglobin B2 chain (hbB2) mRNA, partial cds
+213 bp linear mRNA 
+AY250085.1 GI:30314147
+
+206. Tevnia jerichonana hemoglobin A2 chain (hbA2) mRNA, partial cds
+264 bp linear mRNA 
+AY250086.1 GI:30314149
+
+207. Oasisia alvinae hemoglobin A2 chain (hbA2) mRNA, partial cds
+228 bp linear mRNA 
+AY250087.1 GI:30314151
+
+208. Lamellibrachia sp. XB-2003 A1 globin (hbA1) mRNA, partial cds
+330 bp linear mRNA 
+AY273262.1 GI:31335136
+
+209. Lamellibrachia sp. XB-2003 B1 globin (hbB1) mRNA, partial cds
+354 bp linear mRNA 
+AY273263.1 GI:31335138
+
+210. Oasisia alvinae B2 globin (hbB2) mRNA, partial cds
+159 bp linear mRNA 
+AY273264.1 GI:31335140
+
+211. Biomphalaria glabrata isolate cMYG26 myoglobin variant 1 mRNA, partial cds
+379 bp linear mRNA 
+AY314976.1 GI:35164066
+
+212. Biomphalaria glabrata isolate cMYG8c myoglobin variant 2 mRNA, partial cds
+379 bp linear mRNA 
+AY314977.1 GI:35164082
+
+213. Danio rerio myoglobin mRNA, complete cds
+444 bp linear mRNA 
+AY337025.1 GI:37695555
+
+214. Oreochromis mossambicus myoglobin-like mRNA, partial sequence
+783 bp linear mRNA 
+AY522582.1 GI:46094402
+
+215. Ochotona curzoniae myoglobin mRNA, complete cds
+465 bp linear mRNA 
+AY598018.1 GI:46403202
+
+216. Schistosoma japonicum SJCHGC08836 protein mRNA, complete cds
+603 bp linear mRNA 
+AY815847.1 GI:56758877
+
+217. Paragonimus westermani myoglobin 1 (myo1) mRNA, complete cds
+450 bp linear mRNA 
+AY913949.1 GI:59895952
+
+218. Paragonimus westermani myoglobin 2 (myo2) mRNA, complete cds
+441 bp linear mRNA 
+AY913950.1 GI:59895954
+
+219. Ophelia bicornis myoglobin mRNA, partial cds
+420 bp linear mRNA 
+AY926578.1 GI:62183619
+
+220. Homo sapiens myoglobin, mRNA (cDNA clone MGC:13548 IMAGE:4244838), complete cds
+1,191 bp linear mRNA 
+BC014547.1 GI:15778932
+
+221. Homo sapiens myoglobin, mRNA (cDNA clone MGC:24681 IMAGE:4271145), complete cds
+1,073 bp linear mRNA 
+BC018001.1 GI:17389984
+
+222. Mus musculus myoglobin, mRNA (cDNA clone MGC:36715 IMAGE:3979003), complete cds
+1,100 bp linear mRNA 
+BC025172.1 GI:19263901
+
+223. Danio rerio myoglobin, mRNA (cDNA clone MGC:65819 IMAGE:6793362), complete cds
+1,358 bp linear mRNA 
+BC056727.1 GI:34784041
+
+224. Danio rerio myoglobin, mRNA (cDNA clone MGC:77764 IMAGE:7001053), complete cds
+1,361 bp linear mRNA 
+BC065862.1 GI:41351057
+
+225. Rattus norvegicus myoglobin, mRNA (cDNA clone MGC:91707 IMAGE:7103504), complete cds
+1,015 bp linear mRNA 
+BC070511.1 GI:47682698
+
+226. Bos taurus myoglobin, mRNA (cDNA clone MGC:128380 IMAGE:7986409), complete cds
+1,102 bp linear mRNA 
+BC102986.1 GI:73586734
+
+227. Drosophila melanogaster RH41321 full insert cDNA
+976 bp linear mRNA 
+BT001819.1 GI:25012977
+
+228. Drosophila melanogaster IP08207 full insert cDNA
+784 bp linear mRNA 
+BT022295.1 GI:66770798
+
+229. Drosophila melanogaster IP07107 full insert cDNA
+1,137 bp linear mRNA 
+BT022666.1 GI:66771540
+
+230. Salmo salar clone ssal-evd-542-174 Myoglobin putative mRNA, complete cds
+547 bp linear mRNA 
+BT046472.1 GI:209730807
+
+231. Salmo salar clone ssal-evd-531-131 Myoglobin putative mRNA, complete cds
+812 bp linear mRNA 
+BT057357.1 GI:221221135
+
+232. Caligus clemensi clone ccle-evs-510-140 Non-symbiotic hemoglobin 1 putative mRNA, complete cds
+735 bp linear mRNA 
+BT080755.1 GI:225718665
+
+233. Lepeophtheirus salmonis clone lsal-evj-033-307 Non-symbiotic hemoglobin 2 putative mRNA, complete cds
+788 bp linear mRNA 
+BT120560.1 GI:290462304
+
+234. Drosophila melanogaster MIP34652 full insert cDNA
+2,379 bp linear mRNA 
+BT133287.1 GI:378925652
+
+235. Homo sapiens full open reading frame cDNA clone RZPDo834C1234D for gene MB, myoglobin; complete cds, without stopcodon
+462 bp linear mRNA 
+CR541949.1 GI:49456852
+
+236. Pongo abelii mRNA; cDNA DKFZp468H096 (from clone DKFZp468H096)
+1,136 bp linear mRNA 
+CR858756.1 GI:55728441
+
+237. Bos taurus mRNA for myoglobin precursor, complete cds
+1,077 bp linear mRNA 
+D00409.1 GI:217579
+
+238. Nordotis madaka mRNA for indoleamine dioxygenase-like myoglobin, complete cds
+1,505 bp linear mRNA 
+D58415.1 GI:893397
+
+239. Barbatia virescens mRNA for hemoglobin (heterodimeric), complete cds
+690 bp linear mRNA 
+D58416.1 GI:893360
+
+240. Barbatia lima mRNA for hemoglobin (2 domain), complete cds
+1,148 bp linear mRNA 
+D58417.1 GI:893362
+
+241. Sabellastarte spectabilis mRNA for polypeptide chain of chlorocruorin, complete cds
+1,205 bp linear mRNA 
+D58418.1 GI:893407
+
+242. Barbatia lima mRNA for two-domain chain of polymeric hemoglobin, complete cds
+1,142 bp linear mRNA 
+D63931.1 GI:974719
+
+243. Barbatia lima mRNA for delta chain of the homodimeric hemoglobin, complete cds
+693 bp linear mRNA 
+D63932.1 GI:974725
+
+244. Barbatia lima mRNA for alpha chain of the tetrameric hemoglobin, complete cds
+709 bp linear mRNA 
+D63933.1 GI:974721
+
+245. Barbatia lima mRNA for beta chain of the tetrameric hemoglobin, complete cds
+751 bp linear mRNA 
+D63934.1 GI:974723
+
+246. Chironomus tentans hemoglobin II2 mRNA, complete cds
+628 bp linear mRNA 
+DQ110130.1 GI:71041175
+
+247. Bos grunniens myoglobin (Mb) mRNA, complete cds
+640 bp linear mRNA 
+DQ324649.1 GI:84371369
+
+248. Cyprinus carpio myoglobin isoform 2 mRNA, complete cds
+444 bp linear mRNA 
+DQ338464.1 GI:85067844
+
+249. Ridgeia piscesae hemoglobin B1new mRNA, partial cds
+345 bp linear mRNA 
+DQ414405.1 GI:89473634
+
+250. Ridgeia piscesae hemoglobin A1 mRNA, partial cds
+298 bp linear mRNA 
+DQ414406.1 GI:89473636
+
+251. Ridgeia piscesae hemoglobin A2 mRNA, partial cds
+330 bp linear mRNA 
+DQ414407.1 GI:89473638
+
+252. Ridgeia piscesae hemoglobin B1a mRNA, partial cds
+342 bp linear mRNA 
+DQ414408.1 GI:89473640
+
+253. Ridgeia piscesae hemoglobin B1c mRNA, partial cds
+405 bp linear mRNA 
+DQ414409.1 GI:89473642
+
+254. Chanos chanos myoglobin mRNA, complete cds
+762 bp linear mRNA 
+DQ907914.1 GI:115432875
+
+255. Ovis aries myoglobin mRNA, complete cds
+590 bp linear mRNA 
+DQ995220.1 GI:116282340
+
+256. Iguana iguana myoglobin (mb) mRNA, complete cds
+1,416 bp linear mRNA 
+EF061937.1 GI:126031828
+
+257. Iguana iguana cytoglobin-1 (cygb-1) mRNA, complete cds
+1,066 bp linear mRNA 
+EF061938.1 GI:126031830
+
+258. Iguana iguana cytoglobin-2 (cygb-2) mRNA, complete cds
+1,034 bp linear mRNA 
+EF061939.1 GI:126031832
+
+259. Iguana iguana glyceraldehyde-3-phosphate dehydrogenase (gapdh) mRNA, partial cds
+462 bp linear mRNA 
+EF061940.1 GI:126031834
+
+260. Gadus morhua myoglobin (Myg) mRNA, complete cds
+638 bp linear mRNA 
+EF121552.1 GI:119381535
+
+261. Caenorhabditis elegans globin (Y22D7AR.5) mRNA, complete cds
+819 bp linear mRNA 
+EF471979.1 GI:129772248
+
+262. Caenorhabditis elegans globin (C28F5.2) mRNA, complete cds
+750 bp linear mRNA 
+EF471980.1 GI:129772254
+
+263. Caenorhabditis elegans globin (C26C6.7) mRNA, complete cds
+1,113 bp linear mRNA 
+EF471981.1 GI:129772276
+
+264. Caenorhabditis elegans globin (C18C4.1) mRNA, complete cds
+1,420 bp linear mRNA 
+EF471982.1 GI:129772290
+
+265. Pantholops hodgsonii myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+EF626964.1 GI:149349468
+
+266. Biomphalaria straminea myoglobin mRNA, complete cds
+456 bp linear mRNA 
+EF646378.1 GI:157092578
+
+267. Biomphalaria tenagophila myoglobin mRNA, complete cds
+456 bp linear mRNA 
+EF646379.1 GI:157092580
+
+268. Riftia pachyptila clone TRbwC8 globin A1 chain mRNA, partial cds
+553 bp linear mRNA 
+EF648449.1 GI:158263204
+
+269. Riftia pachyptila clone BWbrC15 intracellular globin mRNA, partial cds
+527 bp linear mRNA 
+EF648516.1 GI:158263314
+
+270. Riftia pachyptila clone TRbwC12 putative globin A2 chain isoform mRNA, partial cds
+261 bp linear mRNA 
+EF648561.1 GI:158263367
+
+271. Lucina pectinata hemoglobin III mRNA, complete cds
+876 bp linear mRNA 
+EU040120.1 GI:154818213
+
+272. Gadus morhua myoglobin (Mb) mRNA, complete cds
+619 bp linear mRNA 
+EU053129.1 GI:155008469
+
+273. Trichinella spiralis clone ML3 unknown mRNA
+671 bp linear mRNA 
+EU263323.1 GI:164521929
+
+274. Capra hircus myoglobin mRNA, partial cds
+461 bp linear mRNA 
+FJ457764.1 GI:215512087
+
+275. Pectinaria gouldii globin-like protein mRNA, complete cds
+679 bp linear mRNA 
+FJ767938.1 GI:225322925
+
+276. Scapharca kagoshimensis hemoglobin (HbI) mRNA, complete cds
+756 bp linear mRNA 
+FJ797699.1 GI:225422911
+
+277. Scapharca kagoshimensis hemoglobin (HbIIA) mRNA, complete cds
+755 bp linear mRNA 
+FJ797700.1 GI:225422913
+
+278. Scapharca kagoshimensis hemoglobin (HbIIB) mRNA, complete cds
+745 bp linear mRNA 
+FJ797701.1 GI:225422915
+
+279. Schistosoma japonicum isolate Anhui full length mRNA clone SJFCE3399.001|FSE001-P00015-B09, complete sequence
+606 bp linear mRNA 
+FN319738.1 GI:226487197
+
+280. Schistosoma japonicum isolate Anhui full length mRNA clone SJFCE3399.002|FSE001-P00020-P19, complete sequence
+604 bp linear mRNA 
+FN319739.1 GI:226487199
+
+281. Schistosoma japonicum isolate Anhui full length mRNA clone SJFCE3399.003|FSE001-P00029-C14, complete sequence
+602 bp linear mRNA 
+FN319740.1 GI:226487201
+
+282. Schistosoma japonicum isolate Anhui full length mRNA clone SJFCE3399.004|FSE001-P00030-E16, complete sequence
+598 bp linear mRNA 
+FN319741.1 GI:226487203
+
+283. Schistosoma japonicum isolate Anhui full length mRNA clone SJFCE3399.005|FSE001-P00017-G17, complete sequence
+571 bp linear mRNA 
+FN319742.1 GI:226487205
+
+284. Branchiostoma floridae mRNA for globin (lGb1 gene)
+649 bp linear mRNA 
+FN773089.1 GI:327360015
+
+285. Branchiostoma floridae mRNA for globin (lGb2 gene)
+955 bp linear mRNA 
+FN773090.1 GI:327360017
+
+286. Branchiostoma floridae mRNA for globin (lGb4 gene)
+635 bp linear mRNA 
+FN773092.1 GI:327360021
+
+287. Branchiostoma floridae mRNA for globin (lGb5 gene)
+692 bp linear mRNA 
+FN773093.1 GI:327360023
+
+288. Branchiostoma floridae mRNA for globin (lGb7 gene)
+498 bp linear mRNA 
+FN773095.1 GI:327360027
+
+289. Branchiostoma floridae partial mRNA for globin (lGb8 gene)
+504 bp linear mRNA 
+FN773096.1 GI:327360029
+
+290. Branchiostoma floridae mRNA for globin (lGb9 gene)
+772 bp linear mRNA 
+FN773097.1 GI:327360031
+
+291. Branchiostoma floridae mRNA for globin (lGb10 gene)
+438 bp linear mRNA 
+FN773098.1 GI:327360033
+
+292. Branchiostoma floridae mRNA for globin (lGb11 gene)
+625 bp linear mRNA 
+FN773099.1 GI:327360035
+
+293. Branchiostoma floridae mRNA for globin (lGb15 gene)
+429 bp linear mRNA 
+FN773103.1 GI:327360043
+
+294. Spalax golani mRNA for neuroglobin (ngb gene)
+456 bp linear mRNA 
+FN821091.1 GI:315461748
+
+295. Spalax golani mRNA for cytoglobin (cygb gene)
+573 bp linear mRNA 
+FN821092.1 GI:315461750
+
+296. Carcinus maenas mRNA for hemoglobin (hb gene)
+1,017 bp linear mRNA 
+FN995203.1 GI:299757080
+
+297. TSA: Micrurus fulvius Mfulv_Myoglobin mRNA sequence
+636 bp linear mRNA 
+GAEP01000963.1 GI:537463042
+
+298. TSA: Ceratitis capitata comp60050_c6_seq1 mRNA sequence
+1,695 bp linear mRNA 
+GAMC01006281.1 GI:577737272
+
+299. TSA: Ceratitis capitata comp60050_c6_seq2 mRNA sequence
+1,778 bp linear mRNA 
+GAMC01006282.1 GI:577737270
+
+300. TSA: Ceratitis capitata comp61995_c0_seq5 mRNA sequence
+849 bp linear mRNA 
+GAMC01009859.1 GI:577730116
+
+301. TSA: Callithrix jacchus BLADDER_12834 mRNA sequence
+985 bp linear mRNA 
+GAMT01003738.1 GI:532211728
+
+302. Saccoglossus kowalevskii neuroglobin-like protein mRNA, complete cds
+855 bp linear mRNA 
+GU076057.1 GI:268054198
+
+303. Branchinotogluma trifurcus hemoglobin (Hb) mRNA, complete cds
+417 bp linear mRNA 
+GU121978.1 GI:309274252
+
+304. Branchinotogluma segonzaci hemoglobin (Hb) mRNA, complete cds
+417 bp linear mRNA 
+GU121979.1 GI:309274254
+
+305. Branchiplicatus cupreus isolate SD1 hemoglobin (Hb) mRNA, partial cds
+366 bp linear mRNA 
+GU121980.1 GI:309274256
+
+306. Branchiplicatus cupreus isolate SD2 hemoglobin (Hb) mRNA, partial cds
+366 bp linear mRNA 
+GU121981.1 GI:309274258
+
+307. Lepidonotopodium williamsae hemoglobin (Hb) mRNA, partial cds
+366 bp linear mRNA 
+GU121982.1 GI:309274260
+
+308. Branchiostoma belcheri neuroglobin protein (ngb) mRNA, partial cds
+210 bp linear mRNA 
+GU457428.1 GI:290467414
+
+309. Ictalurus furcatus clone CBFH24129 myoglobin (MYG) mRNA, complete cds
+897 bp linear mRNA 
+GU587818.1 GI:308321249
+
+310. Ictalurus punctatus clone CBZB19605 myoglobin (MYG) mRNA, complete cds
+898 bp linear mRNA 
+GU588809.1 GI:308323252
+
+311. Aptenodytes forsteri myoglobin (MB) mRNA, complete cds
+772 bp linear mRNA 
+GU735491.1 GI:294358561
+
+312. Anisops deanei mRNA for hemoglobin A (HbA gene)
+684 bp linear mRNA 
+HE795534.1 GI:388240093
+
+313. Anisops deanei mRNA for hemoglobin B (HbB gene)
+617 bp linear mRNA 
+HE795535.1 GI:388240095
+
+314. Anisops deanei mRNA for hemoglobin C (HbC gene)
+672 bp linear mRNA 
+HE795536.1 GI:388240097
+
+315. Symsagittifera roscoffensis mRNA for neuroglobin (ngb gene)
+465 bp linear mRNA 
+HE972520.1 GI:440586639
+
+316. Gymnocephalus cernuus partial mRNA for myoglobin (Mb gene)
+180 bp linear mRNA 
+HF546556.1 GI:440575616
+
+317. Platichthys flesus partial mRNA for myoglobin (Mb gene)
+198 bp linear mRNA 
+HF546570.1 GI:440575644
+
+318. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant 1
+46 bp linear mRNA 
+HG531365.1 GI:551842906
+
+319. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 2
+211 bp linear mRNA 
+HG531366.1 GI:551842907
+
+320. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant 3
+81 bp linear mRNA 
+HG531367.1 GI:551842910
+
+321. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 9
+190 bp linear mRNA 
+HG531368.1 GI:551842912
+
+322. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 10
+188 bp linear mRNA 
+HG531369.1 GI:551842914
+
+323. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 11
+257 bp linear mRNA 
+HG531370.1 GI:551842917
+
+324. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant 12
+64 bp linear mRNA 
+HG531371.1 GI:551842919
+
+325. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 13
+337 bp linear mRNA 
+HG531372.1 GI:551842921
+
+326. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant 15
+234 bp linear mRNA 
+HG531373.1 GI:551842923
+
+327. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 17
+265 bp linear mRNA 
+HG531374.1 GI:551842925
+
+328. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line MDA-MB468 breast cancer, coding variant 19
+245 bp linear mRNA 
+HG531375.1 GI:551842927
+
+329. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line DLD-1 colon cancer, non-coding variant 1
+39 bp linear mRNA 
+HG531376.1 GI:551842930
+
+330. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line DLD-1 colon cancer, non-coding variant 3
+91 bp linear mRNA 
+HG531377.1 GI:551842931
+
+331. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line DLD-1 colon cancer, non-coding variant 12
+104 bp linear mRNA 
+HG531378.1 GI:551842933
+
+332. Homo sapiens mRNA for mRNA myoglobin (MB gene), cell-line DLD-1 colon cancer, coding variant 13
+337 bp linear mRNA 
+HG531379.1 GI:551842934
+
+333. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line DLD-1 colon cancer, non-coding variant 15
+234 bp linear mRNA 
+HG531380.1 GI:551842937
+
+334. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant exon 5u, 5'RLM-RACE
+114 bp linear mRNA 
+HG531381.1 GI:551842939
+
+335. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant exon 4u, 5'RLM-RACE
+179 bp linear mRNA 
+HG531382.1 GI:551842942
+
+336. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant exon 4u, 5'RACE
+69 bp linear mRNA 
+HG531383.1 GI:551842944
+
+337. Homo sapiens partial mRNA for myoglobin (MB gene), cell-line MDA-MB468 breast cancer, non-coding variant exon 1u, 5'RACE
+219 bp linear mRNA 
+HG531384.1 GI:551842945
+
+338. Oryzias melastigma myoglobin mRNA, complete cds
+626 bp linear mRNA 
+HM137165.1 GI:327358428
+
+339. Caenorhabditis elegans globin-18 isoform (glb-18) mRNA, partial cds, alternatively spliced
+226 bp linear mRNA 
+HM623888.1 GI:307576238
+
+340. TSA: Ictalurus furcatus Contig06577.Icfu mRNA sequence
+1,656 bp linear mRNA 
+HP435971.1 GI:309281216
+
+341. TSA: Ictalurus furcatus Contig10657.Icfu mRNA sequence
+1,207 bp linear mRNA 
+HP440026.1 GI:309285271
+
+342. TSA: Ictalurus punctatus Contig02534.Icpu mRNA sequence
+2,117 bp linear mRNA 
+HP581940.1 GI:311712937
+
+343. Chelonia mydas myoglobin (Mb) mRNA, partial cds
+114 bp linear mRNA 
+HQ148882.1 GI:306448397
+
+344. Tegillarca granosa hemoglobin (HbI) mRNA, complete cds
+748 bp linear mRNA 
+HQ149305.1 GI:343129560
+
+345. Tegillarca granosa hemoglobin (HbII) mRNA, complete cds
+698 bp linear mRNA 
+HQ149306.1 GI:343129562
+
+346. Branchiostoma floridae globin mRNA, complete cds
+465 bp linear mRNA 
+HQ588914.1 GI:358022766
+
+347. Tegillarca granosa hemoglobin (HbIIA) mRNA, complete cds
+731 bp linear mRNA 
+HQ729976.1 GI:326205621
+
+348. Lumbricus terrestris hemoglobin chain C mRNA, complete cds
+1,092 bp linear mRNA 
+J03082.1 GI:972774
+
+349. Ostrea edulis clone M13-F.OEI.45 myoglobin transcript variant 1 mRNA, complete sequence
+204 bp linear mRNA 
+JF744664.1 GI:375073619
+
+350. TSA: Ascaris suum ASCF_8028_981 mRNA sequence
+981 bp linear mRNA 
+JI177878.1 GI:324521692
+
+351. TSA: Ascaris suum ASCF_8276_892 mRNA sequence
+892 bp linear mRNA 
+JI179145.1 GI:324523266
+
+352. TSA: Ascaris suum ASCF_8450_824 mRNA sequence
+780 bp linear mRNA 
+JI180309.1 GI:324524665
+
+353. TSA: Ascaris suum ASCP_9629_234 mRNA sequence
+234 bp linear mRNA 
+JI248802.1 GI:324566699
+
+354. Epinephelus bruneus clone JKJRRC001_02-G10-T3 myoglobin mRNA, partial cds
+441 bp linear mRNA 
+JN217015.1 GI:343459202
+
+355. Pantholops hodgsonii myoglobin mRNA, complete cds
+1,154 bp linear mRNA 
+JN561790.1 GI:344330947
+
+356. TSA: Anoplopoma fimbria afim-6118430 mRNA sequence
+440 bp linear mRNA 
+JO671667.1 GI:345669016
+
+357. Chaenocephalus aceratus clone 3 neuroglobin (Ngb) mRNA, complete cds
+524 bp linear mRNA 
+JQ684711.1 GI:427542428
+
+358. Dissostichus mawsoni clone 3 neuroglobin (Ngb) mRNA, complete cds
+524 bp linear mRNA 
+JQ684712.1 GI:427542430
+
+359. Eospalax baileyi hemoglobin beta mRNA, complete cds
+638 bp linear mRNA 
+JQ968409.1 GI:396951284
+
+360. Eospalax baileyi hemoglobin alpha chain mRNA, complete cds
+572 bp linear mRNA 
+JQ968410.1 GI:396951307
+
+361. Eospalax baileyi myoglobin mRNA, complete cds
+1,023 bp linear mRNA 
+JQ968411.1 GI:396951338
+
+362. Ochotona ladacensis hemoglobin beta mRNA, complete cds
+604 bp linear mRNA 
+JQ968412.1 GI:396951371
+
+363. Ochotona ladacensis hemoglobin alpha chain mRNA, complete cds
+573 bp linear mRNA 
+JQ968413.1 GI:396951393
+
+364. Ochotona ladacensis myoglobin mRNA, complete cds
+1,001 bp linear mRNA 
+JQ968414.1 GI:396951417
+
+365. Callorhinchus milii clone P01A07.Kidney.k065 mRNA sequence
+868 bp linear mRNA 
+JX052812.1 GI:387914861
+
+366. Callorhinchus milii clone P01E04.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208750.1 GI:392876463
+
+367. Callorhinchus milii clone P01F16.Kidney.k065 Myoglobin mRNA, complete cds
+880 bp linear mRNA 
+JX208758.1 GI:392876479
+
+368. Callorhinchus milii clone P01I22.Kidney.k065 Myoglobin mRNA, complete cds
+864 bp linear mRNA 
+JX208775.1 GI:392876513
+
+369. Callorhinchus milii clone P01M08.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208789.1 GI:392876541
+
+370. Callorhinchus milii clone P02A08.Kidney.k065 Myoglobin mRNA, complete cds
+867 bp linear mRNA 
+JX208800.1 GI:392876563
+
+371. Callorhinchus milii clone P02B22.Kidney.k065 Myoglobin mRNA, complete cds
+865 bp linear mRNA 
+JX208804.1 GI:392876571
+
+372. Callorhinchus milii clone P02C06.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208807.1 GI:392876577
+
+373. Callorhinchus milii clone P02I06.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208824.1 GI:392876611
+
+374. Callorhinchus milii clone P02L21.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208832.1 GI:392876627
+
+375. Callorhinchus milii clone P03C22.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208856.1 GI:392876675
+
+376. Callorhinchus milii clone P03F03.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208869.1 GI:392876701
+
+377. Callorhinchus milii clone P03L18.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208896.1 GI:392876755
+
+378. Callorhinchus milii clone P03O21.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208905.1 GI:392876773
+
+379. Callorhinchus milii clone P04D23.Kidney.k065 Myoglobin mRNA, complete cds
+818 bp linear mRNA 
+JX208917.1 GI:392876797
+
+380. Callorhinchus milii clone P04F20.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208923.1 GI:392876809
+
+381. Callorhinchus milii clone P04G24.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208926.1 GI:392876815
+
+382. Callorhinchus milii clone P04N10.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208944.1 GI:392876851
+
+383. Callorhinchus milii clone P05B04.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208959.1 GI:392876881
+
+384. Callorhinchus milii clone P05F23.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208974.1 GI:392876911
+
+385. Callorhinchus milii clone P05H18.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208980.1 GI:392876923
+
+386. Callorhinchus milii clone P05I11.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX208982.1 GI:392876927
+
+387. Callorhinchus milii clone P05K13.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX208990.1 GI:392876943
+
+388. Callorhinchus milii clone P06C11.Kidney.k065 Myoglobin mRNA, complete cds
+863 bp linear mRNA 
+JX209014.1 GI:392876991
+
+389. Callorhinchus milii clone P06G01.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209025.1 GI:392877013
+
+390. Callorhinchus milii clone P06H22.Kidney.k065 Myoglobin mRNA, complete cds
+812 bp linear mRNA 
+JX209031.1 GI:392877025
+
+391. Callorhinchus milii clone P06O22.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209050.1 GI:392877063
+
+392. Callorhinchus milii clone P06P04.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX209051.1 GI:392877065
+
+393. Callorhinchus milii clone P08C10.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209123.1 GI:392877209
+
+394. Callorhinchus milii clone P08C16.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209125.1 GI:392877213
+
+395. Callorhinchus milii clone P08H13.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX209141.1 GI:392877245
+
+396. Callorhinchus milii clone P08M12.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209152.1 GI:392877267
+
+397. Callorhinchus milii clone P09F12.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX209187.1 GI:392877337
+
+398. Callorhinchus milii clone P09G05.Kidney.k065 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX209188.1 GI:392877339
+
+399. Callorhinchus milii clone P09J05.Kidney.k065 Myoglobin mRNA, complete cds
+1,424 bp linear mRNA 
+JX209197.1 GI:392877357
+
+400. Callorhinchus milii clone P09K02.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209204.1 GI:392877371
+
+401. Callorhinchus milii clone P09N11.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209215.1 GI:392877393
+
+402. Callorhinchus milii clone P09P05.Kidney.k065 Myoglobin mRNA, complete cds
+671 bp linear mRNA 
+JX209224.1 GI:392877411
+
+403. Callorhinchus milii clone P10J06.Kidney.k065 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209254.1 GI:392877471
+
+404. Callorhinchus milii clone P10O13.Kidney.k065 Myoglobin mRNA, complete cds
+858 bp linear mRNA 
+JX209265.1 GI:392877493
+
+405. Callorhinchus milii clone P13A21.Kidney.k16 Myoglobin mRNA, complete cds
+868 bp linear mRNA 
+JX209278.1 GI:392877519
+
+406. Callorhinchus milii clone P25I23.Kidney.k16 Myoglobin mRNA, complete cds
+867 bp linear mRNA 
+JX209375.1 GI:392877713
+
+407. Callorhinchus milii clone P29B03.Kidney.k16 Myoglobin mRNA, complete cds
+866 bp linear mRNA 
+JX209402.1 GI:392877767
+
+408. Microtus oeconomus hemoglobin beta chain mRNA, complete cds
+493 bp linear mRNA 
+JX827170.1 GI:414524178
+
+409. Microtus oeconomus hemoglobin alpha chain mRNA, complete cds
+572 bp linear mRNA 
+JX827171.1 GI:414524180
+
+410. Microtus oeconomus myoglobin mRNA, complete cds
+1,020 bp linear mRNA 
+JX827172.1 GI:414524182
+
+411. Ochotona erythrotis hemoglobin beta chain mRNA, complete cds
+603 bp linear mRNA 
+JX827173.1 GI:414524184
+
+412. Ochotona erythrotis hemoglobin alpha chain mRNA, complete cds
+573 bp linear mRNA 
+JX827174.1 GI:414524186
+
+413. Ochotona erythrotis myoglobin mRNA, complete cds
+1,018 bp linear mRNA 
+JX827175.1 GI:414524188
+
+414. TSA: Musca domestica ALHF_00837.g461 mRNA sequence
+468 bp linear mRNA 
+KA644791.1 GI:399937971
+
+415. Siganus canaliculatus myoglobin (Mb) mRNA, complete cds
+718 bp linear mRNA 
+KC206065.1 GI:456650366
+
+416. Channa striata myoglobin (Mb) mRNA, complete cds
+456 bp linear mRNA 
+KC206066.1 GI:456650378
+
+417. Clarias batrachus myoglobin (Mb) mRNA, complete cds
+1,095 bp linear mRNA 
+KC206067.1 GI:456650405
+
+418. Sorex palustris myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524743.1 GI:507866481
+
+419. Blarina brevicauda myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524744.1 GI:507866483
+
+420. Condylura cristata myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524745.1 GI:507866485
+
+421. Scapanus orarius myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524746.1 GI:507866487
+
+422. Balaena mysticetus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524747.1 GI:507866489
+
+423. Monodon monoceros myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524748.1 GI:507866491
+
+424. Pusa hispida myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524749.1 GI:507866537
+
+425. Phoca groenlandica myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524750.1 GI:507866539
+
+426. Cystophora cristata myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524751.1 GI:507866541
+
+427. Erignathus barbatus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524752.1 GI:507866543
+
+428. Leptonychotes weddellii myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524753.1 GI:507866545
+
+429. Mirounga angustirostris myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524754.1 GI:507866547
+
+430. Zalophus californianus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524755.1 GI:507866549
+
+431. Eumetopias jubatus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524756.1 GI:507866551
+
+432. Neophoca cinerea myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524757.1 GI:507866553
+
+433. Callorhinus ursinus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524758.1 GI:507866555
+
+434. Odobenus rosmarus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524759.1 GI:507866557
+
+435. Procyon lotor myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524760.1 GI:507866559
+
+436. Neovison vison myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524761.1 GI:507866561
+
+437. Ursus maritimus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524762.1 GI:507866563
+
+438. Hexaprotodon liberiensis myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524763.1 GI:507866565
+
+439. Megaptera novaeangliae myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524764.1 GI:507866567
+
+440. Mesoplodon bidens myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524765.1 GI:507866569
+
+441. Hyperoodon ampullatus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524766.1 GI:507866571
+
+442. Lagenorhynchus albirostris myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524767.1 GI:507866573
+
+443. Grampus griseus myoglobin (Mb) mRNA, complete cds
+465 bp linear mRNA 
+KC524768.1 GI:507866575
+
+444. Coptotermes formosanus clone CFSNI701 globin-like protein mRNA, partial cds
+917 bp linear mRNA 
+KC740974.1 GI:506968908
+
+445. Chironomus riparius globin 3 mRNA, complete cds
+563 bp linear mRNA 
+KC993836.1 GI:604920246
+
+446. Ictalurus punctatus cytoglobin 1 mRNA, complete cds
+522 bp linear mRNA 
+KF471113.1 GI:558622310
+
+447. Ictalurus punctatus cytoglobin 2 mRNA, complete cds
+540 bp linear mRNA 
+KF471114.1 GI:558622312
+
+448. Cyprinus carpio 60S acidic ribosomal protein P0 (ARP) mRNA, complete cds
+1,067 bp linear mRNA 
+KF572122.1 GI:562749811
+
+449. Campylomormyrus compressirostris clone 26 myoglobin mRNA, complete cds
+448 bp linear mRNA 
+KF860194.1 GI:582040273
+
+450. Hemipholis cordifera hemoglobin (hb_f1) mRNA, complete cds
+1,010 bp linear mRNA 
+KF894071.1 GI:584614213
+
+451. Hemipholis cordifera hemoglobin (hb_f2) mRNA, complete cds
+1,041 bp linear mRNA 
+KF894072.1 GI:584614215
+
+452. Ophiactis simplex hemoglobin (Hb_a) mRNA, complete cds
+1,111 bp linear mRNA 
+KF894073.1 GI:584614217
+
+453. Ophiactis simplex hemoglobin (Hb_b) mRNA, complete cds
+915 bp linear mRNA 
+KF894074.1 GI:584614219
+
+454. Pantodon buchholzi myoglobin mRNA, partial cds
+435 bp linear mRNA 
+KJ561848.1 GI:667755791
+
+455. Chitala chitala myoglobin mRNA, partial cds
+435 bp linear mRNA 
+KJ561849.1 GI:667755793
+
+456. Scleropages jardinii myoglobin mRNA, partial cds
+435 bp linear mRNA 
+KJ561850.1 GI:667755795
+
+457. Gnathonemus petersii myoglobin mRNA, partial cds
+435 bp linear mRNA 
+KJ561851.1 GI:667755797
+
+458. Trichogaster trichopterus myoglobin mRNA, partial cds
+437 bp linear mRNA 
+KJ561852.1 GI:667755799
+
+459. Amatitlania nigrofasciata myoglobin mRNA, partial cds
+437 bp linear mRNA 
+KJ561853.1 GI:667755801
+
+460. Apteronotus albifrons myoglobin mRNA, partial cds
+437 bp linear mRNA 
+KJ561854.1 GI:667755803
+
+461. Bunocephalus coracoideus myoglobin mRNA, partial cds
+437 bp linear mRNA 
+KJ561855.1 GI:667755805
+
+462. Anguilla anguilla myoglobin mRNA, partial cds
+423 bp linear mRNA 
+KJ561856.1 GI:667755807
+
+463. Branchinotogluma sp. JPG-2015 hemoglobin mRNA, partial cds
+366 bp linear mRNA 
+KJ756506.1 GI:761895943
+
+464. Harmothoe fraserthomsoni hemoglobin mRNA, partial cds
+419 bp linear mRNA 
+KJ756507.1 GI:761895945
+
+465. Urechis unicinctus F-I hemoglobin mRNA, complete cds
+780 bp linear mRNA 
+KJ865621.1 GI:672917167
+
+466. Phrynocephalus przewalskii myoglobin mRNA, complete cds
+960 bp linear mRNA 
+KM066120.1 GI:685430707
+
+467. Phrynocephalus erythrurus myoglobin mRNA, complete cds
+869 bp linear mRNA 
+KM066121.1 GI:685430709
+
+468. Urechis unicinctus isolate HBHQUU001 hemoglobin mRNA, complete cds
+429 bp linear mRNA 
+KM359437.1 GI:684194198
+
+469. Heterocephalus glaber myoglobin mRNA, complete cds
+794 bp linear mRNA 
+KM486737.1 GI:730049306
+
+470. Callorhinchus milii androglobin mRNA, complete cds
+4,980 bp linear mRNA 
+KP056822.1 GI:913037654
+
+471. Cherax destructor cytoglobin 2 isoform CYGBi1 mRNA, complete cds
+1,133 bp linear mRNA 
+KP299988.1 GI:758375362
+
+472. Cherax destructor cytoglobin 2 isoform CYGBi2 mRNA, complete cds
+1,212 bp linear mRNA 
+KP299989.1 GI:758375364
+
+473. Cherax destructor cytoglobin 2 isoform CYGBi3 mRNA, complete cds
+1,174 bp linear mRNA 
+KP299990.1 GI:758375366
+
+474. Cherax cainii cytoglobin 2 isoform Ci1 mRNA, complete cds
+1,214 bp linear mRNA 
+KP299995.1 GI:758375376
+
+475. Cherax cainii cytoglobin 2 isoform Ci2 mRNA, complete cds
+1,194 bp linear mRNA 
+KP299996.1 GI:758375378
+
+476. Passer montanus cytoglobin (Cygb) mRNA, complete cds
+730 bp linear mRNA 
+KP942848.1 GI:927278134
+
+477. Passer montanus myoglobin (Mb) mRNA, complete cds
+815 bp linear mRNA 
+KP942849.1 GI:927278136
+
+478. Eulagiscinae sp. JPG-2015 intracellular single-domain globin mRNA, partial cds
+423 bp linear mRNA 
+KP984527.1 GI:936370891
+
+479. Daphnia pulex hemoglobin subunit-like protein (fa-1) mRNA, complete cds
+849 bp linear mRNA 
+KR153835.1 GI:930686099
+
+480. Daphnia pulex hemoglobin subunit-like protein (fa-2) mRNA, complete cds
+960 bp linear mRNA 
+KR153836.1 GI:930686101
+
+481. Escarpia spicata hemoglobin subunit B2 mRNA, partial cds
+521 bp linear mRNA 
+KT166952.1 GI:953520098
+
+482. Escarpia spicata hemoglobin subunit B1 mRNA, complete cds
+316 bp linear mRNA 
+KT166953.1 GI:953520100
+
+483. Escarpia spicata hemoglobin subunit A2 mRNA, partial cds
+894 bp linear mRNA 
+KT166954.1 GI:953520102
+
+484. Galathealinum brachiosum hemoglobin subunit B2 mRNA, complete cds
+732 bp linear mRNA 
+KT166955.1 GI:953520104
+
+485. Galathealinum brachiosum hemoglobin subunit B1 mRNA, complete cds
+788 bp linear mRNA 
+KT166956.1 GI:953520106
+
+486. Galathealinum brachiosum hemoglobin subunit A2 mRNA, complete cds
+635 bp linear mRNA 
+KT166957.1 GI:953520108
+
+487. Lamellibrachia luymesi hemoglobin subunit B2 mRNA, complete cds
+1,235 bp linear mRNA 
+KT166958.1 GI:953520110
+
+488. Lamellibrachia luymesi hemoglobin subunit A1 mRNA, complete cds
+967 bp linear mRNA 
+KT166959.1 GI:953520112
+
+489. Lamellibrachia luymesi hemoglobin subunit B1 mRNA, complete cds
+643 bp linear mRNA 
+KT166960.1 GI:953520114
+
+490. Lamellibrachia luymesi hemoglobin subunit A2 mRNA, complete cds
+960 bp linear mRNA 
+KT166961.1 GI:953520116
+
+491. Osedax mucofloris hemoglobin subunit B1 mRNA, partial cds
+912 bp linear mRNA 
+KT166962.1 GI:953520118
+
+492. Osedax mucofloris hemoglobin subunit A1 mRNA, complete cds
+1,007 bp linear mRNA 
+KT166963.1 GI:953520120
+
+493. Osedax mucofloris hemoglobin subunit A2 mRNA, complete cds
+903 bp linear mRNA 
+KT166964.1 GI:953520122
+
+494. Seepiophila jonesi hemoglobin subunit B1 mRNA, complete cds
+884 bp linear mRNA 
+KT166965.1 GI:953520124
+
+495. Seepiophila jonesi hemoglobin subunit B2 mRNA, partial cds
+1,079 bp linear mRNA 
+KT166966.1 GI:953520126
+
+496. Seepiophila jonesi hemoglobin subunit A2 mRNA, complete cds
+1,003 bp linear mRNA 
+KT166967.1 GI:953520128
+
+497. Seepiophila jonesi hemoglobin subunit A1 mRNA, complete cds
+949 bp linear mRNA 
+KT166968.1 GI:953520130
+
+498. Siboglinum ekmani hemoglobin subunit A1 mRNA, partial cds
+1,144 bp linear mRNA 
+KT166969.1 GI:953520132
+
+499. Siboglinum ekmani hemoglobin subunit A2 mRNA, complete cds
+1,071 bp linear mRNA 
+KT166970.1 GI:953520134
+
+500. Siboglinum ekmani hemoglobin subunit B1 mRNA, partial cds
+1,271 bp linear mRNA 
+KT166971.1 GI:953520136
+
+501. Siboglinum fiordicum hemoglobin subunit A1 mRNA, partial cds
+728 bp linear mRNA 
+KT166972.1 GI:953520138
+
+502. Siboglinum fiordicum hemoglobin subunit A2 mRNA, partial cds
+635 bp linear mRNA 
+KT166973.1 GI:953520140
+
+503. Siboglinum fiordicum hemoglobin subunit B1 mRNA, partial cds
+627 bp linear mRNA 
+KT166974.1 GI:953520142
+
+504. Siboglinum fiordicum hemoglobin subunit B2 mRNA, partial cds
+720 bp linear mRNA 
+KT166975.1 GI:953520144
+
+505. Sclerolinum brattstromi hemoglobin subunit A1 mRNA, complete cds
+977 bp linear mRNA 
+KT166976.1 GI:953520146
+
+506. Sclerolinum brattstromi hemoglobin subunit A2 mRNA, complete cds
+968 bp linear mRNA 
+KT166977.1 GI:953520148
+
+507. Sclerolinum brattstromi hemoglobin subunit B1 mRNA, complete cds
+877 bp linear mRNA 
+KT166978.1 GI:953520150
+
+508. Sclerolinum brattstromi hemoglobin subunit B2 mRNA, complete cds
+1,101 bp linear mRNA 
+KT166979.1 GI:953520152
+
+509. Platypharodon extremus myoglobin (Mb) mRNA, complete cds
+444 bp linear mRNA 
+KT934792.1 GI:1093534039
+
+510. Ptychobarbus dipogon myoglobin (Mb) mRNA, complete cds
+444 bp linear mRNA 
+KT934793.1 GI:1093534041
+
+511. Schizopygopsis pylzovi myoglobin (Mb) mRNA, complete cds
+444 bp linear mRNA 
+KT934794.1 GI:1093534043
+
+512. Schizothorax labiatus myoglobin (Mb) mRNA, complete cds
+444 bp linear mRNA 
+KT934795.1 GI:1093534045
+
+513. Phacoides pectinatus hemoglobin I short variant (HbI) mRNA, complete cds
+597 bp linear mRNA 
+KU524081.1 GI:985741564
+
+514. Phacoides pectinatus hemoglobin I long variant (HbI) mRNA, complete cds
+656 bp linear mRNA 
+KU524082.1 GI:985741566
+
+515. Saccoglossus kowalevskii mRNA sequence
+1,006 bp linear mRNA 
+KU553330.1 GI:1068288214
+
+516. Drosophila melanogaster GEO09476p1 mRNA, partial cds
+460 bp linear mRNA 
+KX531616.1 GI:1049300964
+
+517. Steatogenys elegans myoglobin mRNA, partial cds
+389 bp linear mRNA 
+KX827277.1 GI:1148968336
+
+518. Brachyhypopomus gauderio myoglobin mRNA, partial cds
+441 bp linear mRNA 
+KX827280.1 GI:1148968342
+
+519. Rhamphichthys marmoratus myoglobin mRNA, partial cds
+389 bp linear mRNA 
+KX833067.1 GI:1148968352
+
+520. Lampetra planeri partial mRNA for Cytoglobin (Cygb gene)
+408 bp linear mRNA 
+LN713303.1 GI:733578764
+
+521. Protopterus annectens partial mRNA for myoglobin 1 (Mb1 gene)
+465 bp linear mRNA 
+LT604990.1 GI:1052292207
+
+522. Protopterus annectens partial mRNA for myoglobin 2 (Mb2 gene)
+453 bp linear mRNA 
+LT604991.1 GI:1052292209
+
+523. Protopterus annectens partial mRNA for myoglobin 3 (Mb3 gene)
+450 bp linear mRNA 
+LT604992.1 GI:1052292211
+
+524. Protopterus annectens partial mRNA for myoglobin 4 (Mb4 gene)
+453 bp linear mRNA 
+LT604993.1 GI:1052292213
+
+525. Protopterus annectens partial mRNA for myoglobin 5 (Mb5 gene)
+453 bp linear mRNA 
+LT604994.1 GI:1052292215
+
+526. Protopterus annectens partial mRNA for myoglobin 6a (Mb6a gene)
+429 bp linear mRNA 
+LT604995.1 GI:1052292217
+
+527. Protopterus annectens partial mRNA for myoglobin 6b (Mb6b gene)
+429 bp linear mRNA 
+LT604996.1 GI:1052292219
+
+528. Protopterus annectens partial mRNA for myoglobin 7 (Mb7 gene)
+453 bp linear mRNA 
+LT604997.1 GI:1052292221
+
+529. Chironomus thummi hemoglobin VIIB mRNA, partial cds
+585 bp linear mRNA 
+M11620.1 GI:156584
+
+530. Porcine myoglobin mRNA, complete cds
+1,111 bp linear mRNA 
+M14433.1 GI:164546
+
+531. Grey seal myoglobin mRNA, 3' UTR
+293 bp linear mRNA 
+M25200.1 GI:165819
+
+532. G.dibranchiata globin P3 mRNA, complete cds
+540 bp linear mRNA 
+M55444.1 GI:159146
+
+533. C.thummi hemoglobin (Hb) IA mRNA, 3' end
+311 bp linear mRNA 
+M57410.1 GI:156580
+
+534. Pseudoterranova decipiens (frameshift mutated) hemoglobin mRNA, complete cds
+1,353 bp linear mRNA 
+M85050.1 GI:160796
+
+535. Caenorhabditis elegans GLoBin related (glb-21), partial mRNA
+591 bp linear mRNA 
+NM_001028168.1 GI:71992650
+
+536. Ciona intestinalis globin (hb1), mRNA
+471 bp linear mRNA 
+NM_001032526.1 GI:74096486
+
+537. Ciona intestinalis globin (hb2), mRNA
+480 bp linear mRNA 
+NM_001032527.1 GI:74096488
+
+538. Ciona intestinalis globin (hb3), mRNA
+462 bp linear mRNA 
+NM_001032528.1 GI:74096492
+
+539. Ciona intestinalis globin (hb4), mRNA
+882 bp linear mRNA 
+NM_001032529.1 GI:74096498
+
+540. Apis mellifera globin 1 (Glob1), mRNA
+516 bp linear mRNA 
+NM_001077823.2 GI:148540133
+
+541. Ovis aries myoglobin (MB), mRNA
+590 bp linear mRNA 
+NM_001078658.1 GI:164414448
+
+542. Caenorhabditis elegans GLoBin related (glb-5), partial mRNA
+1,431 bp linear mRNA 
+NM_001129381.1 GI:193207305
+
+543. Caenorhabditis elegans Uncharacterized protein (T19C4.5), partial mRNA
+1,083 bp linear mRNA 
+NM_001129544.1 GI:193208745
+
+544. Caenorhabditis elegans Uncharacterized protein (T19C4.5), partial mRNA
+798 bp linear mRNA 
+NM_001129545.2 GI:392920672
+
+545. Pongo abelii myoglobin (MB), mRNA
+1,136 bp linear mRNA 
+NM_001132084.1 GI:197101742
+
+546. Caenorhabditis elegans GLoBin related (glb-8), partial mRNA
+1,209 bp linear mRNA 
+NM_001136283.1 GI:212632900
+
+547. Caenorhabditis elegans GLoBin related (glb-18), partial mRNA
+729 bp linear mRNA 
+NM_001136303.2 GI:392886144
+
+548. Caenorhabditis elegans GLoBin related (glb-34), partial mRNA
+600 bp linear mRNA 
+NM_001136402.1 GI:212659294
+
+549. Salmo salar Myoglobin (myg), mRNA
+547 bp linear mRNA 
+NM_001140642.1 GI:213515497
+
+550. Bombyx mori globin 1 (Glob1), mRNA
+522 bp linear mRNA 
+NM_001142611.1 GI:217330561
+
+551. Acyrthosiphon pisum neuroglobin-like (LOC100166348), mRNA
+1,384 bp linear mRNA 
+NM_001162765.1 GI:242247086
+
+552. Equus caballus myoglobin (MB), mRNA
+465 bp linear mRNA 
+NM_001164016.1 GI:255683510
+
+553. Mus musculus myoglobin (Mb), transcript variant 1, mRNA
+1,121 bp linear mRNA 
+NM_001164047.1 GI:255708422
+
+554. Mus musculus myoglobin (Mb), transcript variant 3, mRNA
+981 bp linear mRNA 
+NM_001164048.1 GI:255708424
+
+555. Mus musculus heat shock protein 2 (Hspb2), transcript variant 2, mRNA
+628 bp linear mRNA 
+NM_001164708.1 GI:257796240
+
+556. Gallus gallus myoglobin (MB), mRNA
+793 bp linear mRNA 
+NM_001167752.2 GI:372266141
+
+557. Saccoglossus kowalevskii neuroglobin-like protein (LOC100313670), mRNA
+855 bp linear mRNA 
+NM_001168129.1 GI:269784898
+
+558. Oncorhynchus mykiss myoglobin (mb), mRNA
+688 bp linear mRNA 
+NM_001171862.1 GI:284520896
+
+559. Macaca mulatta androglobin (ADGB), mRNA
+5,335 bp linear mRNA 
+NM_001193764.1 GI:302563446
+
+560. Ictalurus punctatus myoglobin (myg), mRNA
+898 bp linear mRNA 
+NM_001200597.1 GI:318331128
+
+561. Bos taurus androglobin (ADGB), mRNA
+5,461 bp linear mRNA 
+NM_001206737.1 GI:332078469
+
+562. Caenorhabditis elegans GLoBin related (glb-29), partial mRNA
+1,107 bp linear mRNA 
+NM_001267402.1 GI:392891983
+
+563. Caenorhabditis elegans GLoBin related (glb-29), partial mRNA
+906 bp linear mRNA 
+NM_001267403.1 GI:392891985
+
+564. Caenorhabditis elegans GLoBin related (glb-29), partial mRNA
+696 bp linear mRNA 
+NM_001267404.1 GI:392891987
+
+565. Caenorhabditis elegans GLoBin related (glb-29), partial mRNA
+651 bp linear mRNA 
+NM_001267405.1 GI:392891989
+
+566. Caenorhabditis elegans GLoBin related (glb-19), partial mRNA
+672 bp linear mRNA 
+NM_001268567.1 GI:392900531
+
+567. Caenorhabditis elegans GLoBin related (glb-19), partial mRNA
+621 bp linear mRNA 
+NM_001268568.1 GI:392900533
+
+568. Caenorhabditis elegans GLoBin related (glb-3), partial mRNA
+849 bp linear mRNA 
+NM_001269374.1 GI:392920660
+
+569. Caenorhabditis elegans GLoBin related (glb-3), partial mRNA
+633 bp linear mRNA 
+NM_001269375.1 GI:392920662
+
+570. Caenorhabditis elegans GLoBin related (glb-24), partial mRNA
+969 bp linear mRNA 
+NM_001269533.1 GI:392921308
+
+571. Caenorhabditis elegans GLoBin related (glb-24), partial mRNA
+903 bp linear mRNA 
+NM_001269534.1 GI:392921310
+
+572. Caenorhabditis elegans GLoBin related (glb-24), partial mRNA
+753 bp linear mRNA 
+NM_001269535.1 GI:392921312
+
+573. Caenorhabditis elegans GLoBin related (glb-22), partial mRNA
+996 bp linear mRNA 
+NM_001269671.1 GI:392921902
+
+574. Caenorhabditis elegans GLoBin related (glb-22), partial mRNA
+975 bp linear mRNA 
+NM_001269672.1 GI:392921904
+
+575. Caenorhabditis elegans GLoBin related (glb-22), partial mRNA
+963 bp linear mRNA 
+NM_001269673.1 GI:392921906
+
+576. Caenorhabditis elegans GLoBin related (glb-17), partial mRNA
+651 bp linear mRNA 
+NM_001270149.1 GI:392926902
+
+577. Caenorhabditis elegans GLoBin related (glb-17), partial mRNA
+657 bp linear mRNA 
+NM_001270150.1 GI:392926904
+
+578. Drosophila melanogaster globin 2 (glob2), transcript variant C, mRNA
+2,336 bp linear mRNA 
+NM_001275392.2 GI:665393365
+
+579. Drosophila melanogaster globin 2 (glob2), transcript variant D, mRNA
+784 bp linear mRNA 
+NM_001275393.1 GI:442617774
+
+580. Caenorhabditis elegans GLoBin related (glb-34), partial mRNA
+594 bp linear mRNA 
+NM_001276886.1 GI:453232297
+
+581. Oreochromis niloticus myoglobin (Mb), mRNA
+799 bp linear mRNA 
+NM_001279683.1 GI:525343603
+
+582. Pantholops hodgsonii myoglobin (MB), mRNA
+1,115 bp linear mRNA 
+NM_001286598.2 GI:1150561041
+
+583. Condylura cristata myoglobin (MB), mRNA
+465 bp linear mRNA 
+NM_001287785.1 GI:567757563
+
+584. Leptonychotes weddellii myoglobin (MB), mRNA
+465 bp linear mRNA 
+NM_001290069.1 GI:586798155
+
+585. Physeter catodon myoglobin (MB), mRNA
+1,067 bp linear mRNA 
+NM_001290722.1 GI:595582077
+
+586. Callorhinchus milii myoglobin-like (LOC103191115), mRNA
+866 bp linear mRNA 
+NM_001292380.1 GI:638259256
+
+587. Drosophila melanogaster globin 1 (glob1), transcript variant F, mRNA
+921 bp linear mRNA 
+NM_001300414.1 GI:665394163
+
+588. Ursus maritimus myoglobin (MB), mRNA
+465 bp linear mRNA 
+NM_001301376.1 GI:672717878
+
+589. Aptenodytes forsteri myoglobin (MB), mRNA
+772 bp linear mRNA 
+NM_001302160.1 GI:693582829
+
+590. Notothenia coriiceps myoglobin (mb), mRNA
+585 bp linear mRNA 
+NM_001303294.1 GI:740529941
+
+591. Caenorhabditis elegans GLoBin related (glb-5), partial mRNA
+777 bp linear mRNA 
+NM_001307814.1 GI:808358819
+
+592. Caenorhabditis elegans GLoBin related (glb-5), partial mRNA
+1,194 bp linear mRNA 
+NM_001307815.1 GI:808358821
+
+593. Heterocephalus glaber myoglobin (Mb), mRNA
+794 bp linear mRNA 
+NM_001310236.1 GI:874507290
+
+594. Caenorhabditis elegans GLoBin related (glb-33), partial mRNA
+1,641 bp linear mRNA 
+NM_001313356.1 GI:922581429
+
+595. Caenorhabditis elegans GLoBin related (glb-33), partial mRNA
+1,389 bp linear mRNA 
+NM_001313357.1 GI:922581431
+
+596. Caenorhabditis elegans GLoBin related (glb-27), partial mRNA
+843 bp linear mRNA 
+NM_001313555.1 GI:922582103
+
+597. Caenorhabditis elegans GLoBin related (glb-27), partial mRNA
+783 bp linear mRNA 
+NM_001313670.1 GI:922582333
+
+598. Homo sapiens carbonic anhydrase 3 (CA3), mRNA
+1,753 bp linear mRNA 
+NM_005181.3 GI:208609975
+
+599. Homo sapiens myoglobin (MB), transcript variant 1, mRNA
+1,078 bp linear mRNA 
+NM_005368.2 GI:44955876
+
+600. Mus musculus myoglobin (Mb), transcript variant 2, mRNA
+1,069 bp linear mRNA 
+NM_013593.3 GI:255708421
+
+601. Homo sapiens neuroglobin (NGB), mRNA
+1,885 bp linear mRNA 
+NM_021257.3 GI:61676205
+
+602. Rattus norvegicus myoglobin (Mb), mRNA
+1,015 bp linear mRNA 
+NM_021588.2 GI:48976077
+
+603. Mus musculus heat shock protein 2 (Hspb2), transcript variant 1, mRNA
+910 bp linear mRNA 
+NM_024441.3 GI:257796238
+
+604. Homo sapiens androglobin (ADGB), mRNA
+5,300 bp linear mRNA 
+NM_024694.3 GI:168823434
+
+605. Caenorhabditis elegans GLoBin related (glb-18), partial mRNA
+717 bp linear mRNA 
+NM_059673.5 GI:212642105
+
+606. Caenorhabditis elegans GLoBin related (glb-8), partial mRNA
+1,113 bp linear mRNA 
+NM_059706.2 GI:193202315
+
+607. Caenorhabditis elegans Globin-like protein 26 (glb-26), partial mRNA
+552 bp linear mRNA 
+NM_059787.3 GI:392886294
+
+608. Caenorhabditis elegans GLoBin related (glb-31), partial mRNA
+510 bp linear mRNA 
+NM_061543.3 GI:392889096
+
+609. Caenorhabditis elegans Globin-like protein 9 (glb-9), partial mRNA
+750 bp linear mRNA 
+NM_063171.4 GI:392890588
+
+610. Caenorhabditis elegans GLoBin related (glb-27), partial mRNA
+675 bp linear mRNA 
+NM_063405.1 GI:17536652
+
+611. Caenorhabditis elegans GLoBin related (glb-12), partial mRNA
+801 bp linear mRNA 
+NM_063913.1 GI:17532526
+
+612. Caenorhabditis elegans GLoBin related (glb-30), partial mRNA
+819 bp linear mRNA 
+NM_065041.2 GI:193210690
+
+613. Caenorhabditis elegans GLoBin related (glb-11), partial mRNA
+765 bp linear mRNA 
+NM_065401.4 GI:392894568
+
+614. Caenorhabditis elegans Uncharacterized protein (B0361.4), partial mRNA
+978 bp linear mRNA 
+NM_066199.5 GI:392895490
+
+615. Caenorhabditis elegans GLoBin related (glb-7), partial mRNA
+837 bp linear mRNA 
+NM_067765.3 GI:86565346
+
+616. Caenorhabditis elegans GLoBin related (glb-2), partial mRNA
+693 bp linear mRNA 
+NM_068756.2 GI:71982140
+
+617. Caenorhabditis elegans GLoBin related (glb-32), partial mRNA
+774 bp linear mRNA 
+NM_071962.3 GI:392918979
+
+618. Caenorhabditis elegans Globin-like protein 6 (glb-6), partial mRNA
+1,170 bp linear mRNA 
+NM_072068.4 GI:392919062
+
+619. Caenorhabditis elegans GLoBin related (glb-15), partial mRNA
+705 bp linear mRNA 
+NM_073546.4 GI:392920818
+
+620. Caenorhabditis elegans GLoBin related (glb-14), partial mRNA
+711 bp linear mRNA 
+NM_074466.2 GI:71990728
+
+621. Caenorhabditis elegans GLoBin related (glb-16), partial mRNA
+1,140 bp linear mRNA 
+NM_076874.5 GI:922581552
+
+622. Caenorhabditis elegans GLoBin related (glb-13), partial mRNA
+849 bp linear mRNA 
+NM_077678.5 GI:392927573
+
+623. Caenorhabditis elegans GLoBin related (glb-20), partial mRNA
+1,050 bp linear mRNA 
+NM_077866.2 GI:392927782
+
+624. Caenorhabditis elegans GLoBin related (glb-28), partial mRNA
+654 bp linear mRNA 
+NM_078136.1 GI:17570330
+
+625. Drosophila melanogaster globin 1 (glob1), transcript variant B, mRNA
+1,076 bp linear mRNA 
+NM_079645.4 GI:665394159
+
+626. Rattus norvegicus citrate synthase (Cs), mRNA
+1,498 bp linear mRNA 
+NM_130755.1 GI:18543176
+
+627. Danio rerio neuroglobin (ngb), mRNA
+2,596 bp linear mRNA 
+NM_131853.1 GI:18859086
+
+628. Drosophila melanogaster globin 3 (glob3), mRNA
+1,118 bp linear mRNA 
+NM_141340.3 GI:85726491
+
+629. Drosophila melanogaster globin 2 (glob2), transcript variant B, mRNA
+823 bp linear mRNA 
+NM_141412.3 GI:281361236
+
+630. Drosophila melanogaster globin 1 (glob1), transcript variant A, mRNA
+1,274 bp linear mRNA 
+NM_169678.2 GI:665394160
+
+631. Drosophila melanogaster globin 1 (glob1), transcript variant C, mRNA
+961 bp linear mRNA 
+NM_169679.2 GI:665394158
+
+632. Drosophila melanogaster globin 1 (glob1), transcript variant D, mRNA
+1,143 bp linear mRNA 
+NM_169680.2 GI:665394161
+
+633. Mus musculus folliculin interacting protein 1 (Fnip1), mRNA
+6,281 bp linear mRNA 
+NM_173753.4 GI:281306834
+
+634. Bos taurus myoglobin (MB), mRNA
+1,100 bp linear mRNA 
+NM_173881.2 GI:319015077
+
+635. Bos taurus cytochrome b5 type A (microsomal) (CYB5A), mRNA
+2,198 bp linear mRNA 
+NM_174033.3 GI:82524401
+
+636. Danio rerio myoglobin (mb), mRNA
+1,358 bp linear mRNA 
+NM_200586.1 GI:41053651
+
+637. Homo sapiens myoglobin (MB), transcript variant 2, mRNA
+1,170 bp linear mRNA 
+NM_203377.1 GI:44955884
+
+638. Homo sapiens myoglobin (MB), transcript variant 3, mRNA
+1,153 bp linear mRNA 
+NM_203378.1 GI:44955887
+
+639. Sus scrofa myoglobin (MB), mRNA
+1,111 bp linear mRNA 
+NM_214236.1 GI:47523545
+
+640. hemoglobin chain I [Barbatia virescens=blood clams, mRNA Partial, 610 nt]
+610 bp linear mRNA 
+S51332.1 GI:262071
+
+641. TCR V beta 1 J beta 2.6=myoglobin-specific T cell receptor beta chain VJ region {clone E763-6h} [mice, DBA/2, mRNA Partial, 48 nt]
+48 bp linear mRNA 
+S67099.1 GI:453080
+
+642. TCR V beta 1 J beta 2.6=myoglobin-specific T cell receptor beta chain VJ region {clone A731-1A} [mice, DBA/2, mRNA Partial, 48 nt]
+48 bp linear mRNA 
+S67102.1 GI:453082
+
+643. TCR V beta 1 J beta 2.6=myoglobin-specific T cell receptor beta chain VJ region {clone A731-1AB} [mice, DBA/2, mRNA Partial, 48 nt]
+48 bp linear mRNA 
+S67105.1 GI:453084
+
+644. TCR V beta 1 J beta 2.6=myoglobin-specific T cell receptor beta chain VJ region {clone A761-1F} [mice, DBA/2, mRNA, 51 nt]
+51 bp linear mRNA 
+S67107.1 GI:453086
+
+645. myoglobin=indoleamine 2,3-dioxygenase homolog [Nordotis madaka=abalone, red muscle, mRNA, 1505 nt]
+1,505 bp linear mRNA 
+S73262.1 GI:688387
+
+646. hemoglobin B chain [Scapharca inaequivalvis=bivalve molluscs, erythrocytes, mRNA Partial, 646 nt]
+646 bp linear mRNA 
+S83521.1 GI:1911868
+
+647. Ascaris suum myoglobin mRNA, complete cds
+560 bp linear mRNA 
+U17337.1 GI:596073
+
+648. Urechis caupo F-I hemoglobin mRNA, complete cds
+840 bp linear mRNA 
+U30878.1 GI:945055
+
+649. Aphrodita aculeata nerve myoglobin mRNA, complete cds
+1,018 bp linear mRNA 
+U46754.1 GI:1491802
+
+650. Daphnia magna hemoglobin (Dhb1) mRNA, complete cds
+1,261 bp linear mRNA 
+U67067.1 GI:2105138
+
+651. Notothenia coriiceps heart ventricle myoglobin mRNA, partial cds
+329 bp linear mRNA 
+U68350.1 GI:1592566
+
+652. Chionodraco rastrospinosus myoglobin mRNA, complete cds
+587 bp linear mRNA 
+U70871.2 GI:4883542
+
+653. Champsocephalus gunnari myoglobin mRNA, complete cds
+601 bp linear mRNA 
+U71054.1 GI:10312064
+
+654. Pseudochaenichthys georgianus myoglobin mRNA, complete cds
+587 bp linear mRNA 
+U71055.1 GI:10312066
+
+655. Cryodraco antarcticus myoglobin mRNA, complete cds
+587 bp linear mRNA 
+U71056.1 GI:10312068
+
+656. Gobionotothen gibberifrons myoglobin mRNA, complete cds
+585 bp linear mRNA 
+U71057.1 GI:10312070
+
+657. Notothenia coriiceps myoglobin mRNA, complete cds
+585 bp linear mRNA 
+U71058.1 GI:10312072
+
+658. Pagetopsis macropterus myoglobin mRNA, partial cds
+501 bp linear mRNA 
+U71152.1 GI:1809301
+
+659. M.musculus mRNA for T-cell receptor beta chain (clones 8.2,12.2,14.2)
+72 bp linear mRNA 
+X55819.1 GI:288331
+
+660. M.musculus mRNA for T-cell receptor beta chain (clone 9.4)
+72 bp linear mRNA 
+X55820.1 GI:288333
+
+661. M.musculus mRNA for T-cell receptor beta chain (clone 11.3)
+72 bp linear mRNA 
+X55821.1 GI:288327
+
+662. M.musculus mRNA for T-cell receptor beta chain (clone 14.16)
+60 bp linear mRNA 
+X55822.1 GI:288329
+
+663. M.musculus mRNA for T-cell receptor alpha-chain (clone 8.2)
+285 bp linear mRNA 
+X55823.1 GI:288323
+
+664. M.musculus mRNA for T-cell receptor alpha-chain (clone 9.4)
+229 bp linear mRNA 
+X55824.1 GI:288325
+
+665. M.musculus mRNA for T-cell receptor alpha-chain (clones 11.3,12.2,14.16)
+227 bp linear mRNA 
+X55825.1 GI:288319
+
+666. M.musculus mRNA for T-cell receptor alpha-chain (clone 14.12)
+227 bp linear mRNA 
+X55826.1 GI:288321
+
+667. S.diversicolor mRNA for myoglobin
+1,493 bp linear mRNA 
+X68336.1 GI:10119
+
+668. S.inaequivalvis mRNA for HBII A-globin
+680 bp linear mRNA 
+X71386.1 GI:407892
+
+669. S.inaequivalvis mRNA for HBI homodimeric hemoglobin
+678 bp linear mRNA 
+X71387.1 GI:509187
+
+670. A.limacina mRNA for myoglobin
+470 bp linear mRNA 
+X79304.1 GI:586940
+
+671. PREDICTED: Macaca mulatta myoglobin (MB), transcript variant X3, mRNA
+1,118 bp linear mRNA 
+XM_001081975.3 GI:966969087
+
+672. PREDICTED: Macaca mulatta myoglobin (MB), transcript variant X2, mRNA
+1,228 bp linear mRNA 
+XM_001082215.3 GI:966969086
+
+673. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC756553), partial mRNA
+900 bp linear mRNA 
+XM_001195639.3 GI:780132760
+
+674. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC763287 (LOC763287), transcript variant X1, mRNA
+6,668 bp linear mRNA 
+XM_001199205.3 GI:780064622
+
+675. Anopheles gambiae str. PEST AGAP011062-PA (AgaP_AGAP011062) mRNA, complete cds
+1,211 bp linear mRNA 
+XM_001238800.2 GI:158285033
+
+676. Drosophila pseudoobscura pseudoobscura globin 1 (Dpse\glob1), transcript variant A, mRNA
+838 bp linear mRNA 
+XM_001359228.4 GI:969467480
+
+677. PREDICTED: Ornithorhynchus anatinus myoglobin (MB), mRNA
+1,156 bp linear mRNA 
+XM_001513063.3 GI:1019004793
+
+678. PREDICTED: Nasonia vitripennis globin (LOC100124253), mRNA
+1,629 bp linear mRNA 
+XM_001608250.4 GI:1032745068
+
+679. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g139214) partial mRNA
+1,245 bp linear mRNA 
+XM_001622914.1 GI:156353204
+
+680. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g211636) partial mRNA
+504 bp linear mRNA 
+XM_001629427.1 GI:156373756
+
+681. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g207046) partial mRNA
+558 bp linear mRNA 
+XM_001633077.1 GI:156384014
+
+682. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g204383) partial mRNA
+540 bp linear mRNA 
+XM_001635260.1 GI:156390502
+
+683. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g203852) partial mRNA
+414 bp linear mRNA 
+XM_001635585.1 GI:156391156
+
+684. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g203303) partial mRNA
+696 bp linear mRNA 
+XM_001636028.1 GI:156392483
+
+685. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g203304) partial mRNA
+531 bp linear mRNA 
+XM_001636029.1 GI:156392485
+
+686. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g241226) partial mRNA
+3,405 bp linear mRNA 
+XM_001636041.1 GI:156392509
+
+687. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g197347) mRNA, complete cds
+630 bp linear mRNA 
+XM_001640935.1 GI:156405931
+
+688. Nematostella vectensis predicted protein (NEMVEDRAFT_v1g196903) partial mRNA
+549 bp linear mRNA 
+XM_001641595.1 GI:156407999
+
+689. Aedes aegypti AAEL005034-RA partial mRNA
+459 bp linear mRNA 
+XM_001650172.1 GI:157108423
+
+690. Aedes aegypti AAEL010322-RA mRNA
+668 bp linear mRNA 
+XM_001654393.1 GI:157125898
+
+691. Culex quinquefasciatus globin 2, mRNA
+465 bp linear mRNA 
+XM_001843779.1 GI:170031918
+
+692. Culex quinquefasciatus globin 1, mRNA
+372 bp linear mRNA 
+XM_001847128.1 GI:170038686
+
+693. Culex quinquefasciatus globin 2, mRNA
+465 bp linear mRNA 
+XM_001870430.1 GI:170073884
+
+694. Brugia malayi Globin family protein partial mRNA
+1,023 bp linear mRNA 
+XM_001891918.1 GI:170572017
+
+695. Brugia malayi hypothetical protein partial mRNA
+807 bp linear mRNA 
+XM_001892370.1 GI:170573272
+
+696. Brugia malayi hypothetical protein partial mRNA
+513 bp linear mRNA 
+XM_001894944.1 GI:170579775
+
+697. Brugia malayi hypothetical protein partial mRNA
+738 bp linear mRNA 
+XM_001894981.1 GI:170579863
+
+698. Brugia malayi hypothetical protein partial mRNA
+328 bp linear mRNA 
+XM_001895617.1 GI:170581363
+
+699. Brugia malayi Globin family protein partial mRNA
+926 bp linear mRNA 
+XM_001895706.1 GI:170581577
+
+700. Brugia malayi Hypothetical 22.2 kDa protein C28F5.2 in chromosome II partial mRNA
+687 bp linear mRNA 
+XM_001896366.1 GI:170583030
+
+701. Brugia malayi hypothetical protein partial mRNA
+537 bp linear mRNA 
+XM_001896840.1 GI:170584146
+
+702. Brugia malayi hypothetical protein partial mRNA
+498 bp linear mRNA 
+XM_001897207.1 GI:170584926
+
+703. Brugia malayi hypothetical protein partial mRNA
+762 bp linear mRNA 
+XM_001897774.1 GI:170586080
+
+704. Brugia malayi hypothetical protein partial mRNA
+1,083 bp linear mRNA 
+XM_001898022.1 GI:170586579
+
+705. Brugia malayi hypothetical protein partial mRNA
+540 bp linear mRNA 
+XM_001898320.1 GI:170587177
+
+706. Brugia malayi hypothetical protein partial mRNA
+828 bp linear mRNA 
+XM_001898861.1 GI:170588268
+
+707. Brugia malayi hypothetical protein partial mRNA
+597 bp linear mRNA 
+XM_001899693.1 GI:170589933
+
+708. Brugia malayi hypothetical protein partial mRNA
+894 bp linear mRNA 
+XM_001900814.1 GI:170592183
+
+709. Drosophila ananassae uncharacterized protein, transcript variant A (Dana\GF16470), mRNA
+1,205 bp linear mRNA 
+XM_001954955.2 GI:964154717
+
+710. Drosophila ananassae uncharacterized protein (Dana\GF16359), mRNA
+1,019 bp linear mRNA 
+XM_001955163.2 GI:964154252
+
+711. Drosophila ananassae uncharacterized protein (Dana\GF16358), mRNA
+815 bp linear mRNA 
+XM_001955164.2 GI:964152315
+
+712. Drosophila erecta uncharacterized protein (Dere\GG13071), mRNA
+904 bp linear mRNA 
+XM_001978967.2 GI:968009662
+
+713. Drosophila erecta uncharacterized protein (Dere\GG10391), mRNA
+789 bp linear mRNA 
+XM_001979057.2 GI:968009229
+
+714. Drosophila erecta uncharacterized protein, transcript variant A (Dere\GG20278), mRNA
+558 bp linear mRNA 
+XM_001980081.2 GI:968011784
+
+715. Drosophila grimshawi GH18925 (Dgri\GH18925), mRNA
+627 bp linear mRNA 
+XM_001989643.1 GI:195036441
+
+716. Drosophila grimshawi GH13816 (Dgri\GH13816), mRNA
+462 bp linear mRNA 
+XM_001994167.1 GI:195054580
+
+717. Drosophila mojavensis uncharacterized protein (Dmoj\GI23233), mRNA
+648 bp linear mRNA 
+XM_001999103.2 GI:968065653
+
+718. Drosophila mojavensis uncharacterized protein, transcript variant A (Dmoj\GI24641), mRNA
+934 bp linear mRNA 
+XM_001999621.2 GI:968065940
+
+719. Drosophila persimilis GL24032 (Dper\GL24032), mRNA
+630 bp linear mRNA 
+XM_002013219.1 GI:195144541
+
+720. Drosophila persimilis GL21726 (Dper\GL21726), mRNA
+465 bp linear mRNA 
+XM_002017003.1 GI:195152228
+
+721. Drosophila sechellia GM25744 (Dsec\GM25744), mRNA
+462 bp linear mRNA 
+XM_002030965.1 GI:195328596
+
+722. Drosophila sechellia GM10846 (Dsec\GM10846), mRNA
+591 bp linear mRNA 
+XM_002038455.1 GI:195343824
+
+723. Drosophila sechellia GM10544 (Dsec\GM10544), mRNA
+630 bp linear mRNA 
+XM_002038547.1 GI:195344008
+
+724. Drosophila virilis globin 1 (Dvir\glob1), transcript variant A, mRNA
+964 bp linear mRNA 
+XM_002053185.2 GI:968103472
+
+725. Drosophila virilis uncharacterized protein (Dvir\GJ22893), mRNA
+729 bp linear mRNA 
+XM_002054237.2 GI:968102663
+
+726. Drosophila willistoni uncharacterized protein (Dwil\GK17234), partial mRNA
+453 bp linear mRNA 
+XM_002061845.2 GI:968085719
+
+727. Drosophila willistoni uncharacterized protein (Dwil\GK24567), partial mRNA
+657 bp linear mRNA 
+XM_002066541.1 GI:195437297
+
+728. Drosophila willistoni uncharacterized protein, transcript variant A (Dwil\GK11857), mRNA
+716 bp linear mRNA 
+XM_002070046.2 GI:968075164
+
+729. Drosophila willistoni uncharacterized protein (Dwil\GK14443), partial mRNA
+2,483 bp linear mRNA 
+XM_002074028.2 GI:968069853
+
+730. Drosophila yakuba uncharacterized protein, transcript variant A (Dyak\GE26348), mRNA
+971 bp linear mRNA 
+XM_002097642.2 GI:969487608
+
+731. Drosophila yakuba uncharacterized protein, transcript variant A (Dyak\GE10172), mRNA
+999 bp linear mRNA 
+XM_002098052.2 GI:969482557
+
+732. Drosophila yakuba uncharacterized protein (Dyak\GE24095), mRNA
+839 bp linear mRNA 
+XM_002098138.2 GI:969474372
+
+733. Drosophila simulans uncharacterized protein (Dsim\GD19828), mRNA
+1,112 bp linear mRNA 
+XM_002102259.2 GI:1013923762
+
+734. Trichoplax adhaerens hypothetical protein, mRNA
+399 bp linear mRNA 
+XM_002110623.1 GI:196001582
+
+735. Trichoplax adhaerens predicted protein, mRNA
+426 bp linear mRNA 
+XM_002110624.1 GI:196001584
+
+736. Trichoplax adhaerens hypothetical protein, mRNA
+474 bp linear mRNA 
+XM_002113583.1 GI:196007505
+
+737. Trichoplax adhaerens hypothetical protein, mRNA
+348 bp linear mRNA 
+XM_002115887.1 GI:196012119
+
+738. Trichoplax adhaerens hypothetical protein, mRNA
+534 bp linear mRNA 
+XM_002118280.1 GI:196016933
+
+739. PREDICTED: Ciona intestinalis neuroglobin-like (LOC100183005), mRNA
+842 bp linear mRNA 
+XM_002119084.4 GI:1087803818
+
+740. PREDICTED: Ciona intestinalis uncharacterized LOC100181975 (LOC100181975), mRNA
+850 bp linear mRNA 
+XM_002119265.3 GI:1087807783
+
+741. Drosophila pseudoobscura pseudoobscura uncharacterized protein (Dpse\GA26483), mRNA
+1,087 bp linear mRNA 
+XM_002137506.2 GI:969480338
+
+742. Drosophila pseudoobscura pseudoobscura uncharacterized protein (Dpse\GA26482), mRNA
+786 bp linear mRNA 
+XM_002137507.3 GI:969466447
+
+743. PREDICTED: Hydra vulgaris uncharacterized LOC100208127 (LOC100208127), mRNA
+1,004 bp linear mRNA 
+XM_002161754.1 GI:221117198
+
+744. PREDICTED: Taeniopygia guttata myoglobin (MB), mRNA
+1,222 bp linear mRNA 
+XM_002199380.3 GI:823454681
+
+745. Ixodes scapularis neuroglobin, putative, mRNA
+402 bp linear mRNA 
+XM_002410133.1 GI:241649863
+
+746. Ixodes scapularis beta chain of the tetrameric hemoglobin, putative, mRNA
+534 bp linear mRNA 
+XM_002412988.1 GI:241695269
+
+747. Ixodes scapularis cytoglobin-1, putative, mRNA
+582 bp linear mRNA 
+XM_002414647.1 GI:241825971
+
+748. Ixodes scapularis globin, putative, mRNA
+555 bp linear mRNA 
+XM_002414861.1 GI:241832641
+
+749. Pediculus humanus corporis hypothetical protein, mRNA
+462 bp linear mRNA 
+XM_002424694.1 GI:242007865
+
+750. Pediculus humanus corporis conserved hypothetical protein, mRNA
+495 bp linear mRNA 
+XM_002424700.1 GI:242007878
+
+751. Pediculus humanus corporis Globin CTT-VIIB-8 precursor, putative, mRNA
+474 bp linear mRNA 
+XM_002427487.1 GI:242013683
+
+752. Branchiostoma floridae hypothetical protein, mRNA
+564 bp linear mRNA 
+XM_002589169.1 GI:260788353
+
+753. Branchiostoma floridae hypothetical protein, mRNA
+743 bp linear mRNA 
+XM_002595991.1 GI:260802313
+
+754. Branchiostoma floridae hypothetical protein, mRNA
+3,972 bp linear mRNA 
+XM_002599008.1 GI:260808517
+
+755. Branchiostoma floridae hypothetical protein, mRNA
+537 bp linear mRNA 
+XM_002600964.1 GI:260812602
+
+756. Branchiostoma floridae hypothetical protein, mRNA
+558 bp linear mRNA 
+XM_002600966.1 GI:260812606
+
+757. Branchiostoma floridae hypothetical protein, mRNA
+498 bp linear mRNA 
+XM_002608479.1 GI:260827143
+
+758. Branchiostoma floridae hypothetical protein, mRNA
+660 bp linear mRNA 
+XM_002608502.1 GI:260827189
+
+759. Branchiostoma floridae hypothetical protein, mRNA
+762 bp linear mRNA 
+XM_002608503.1 GI:260827191
+
+760. Branchiostoma floridae hypothetical protein, mRNA
+1,611 bp linear mRNA 
+XM_002610829.1 GI:260831857
+
+761. Caenorhabditis briggsae Hypothetical protein CBG00571 (CBG00571) mRNA, complete cds
+675 bp linear mRNA 
+XM_002630120.1 GI:268530079
+
+762. Caenorhabditis briggsae Hypothetical protein CBG13047 (CBG13047) mRNA, complete cds
+735 bp linear mRNA 
+XM_002630543.1 GI:268530925
+
+763. Caenorhabditis briggsae Hypothetical protein CBG03023 (CBG03023) mRNA, complete cds
+801 bp linear mRNA 
+XM_002631179.1 GI:268532193
+
+764. Caenorhabditis briggsae Hypothetical protein CBG21021 (CBG21021) mRNA, complete cds
+651 bp linear mRNA 
+XM_002631756.1 GI:268533347
+
+765. Caenorhabditis briggsae Hypothetical protein CBG07112 (CBG07112) mRNA, complete cds
+510 bp linear mRNA 
+XM_002632192.1 GI:268534213
+
+766. Caenorhabditis briggsae Hypothetical protein CBG21567 (CBG21567) mRNA, partial cds
+993 bp linear mRNA 
+XM_002632600.1 GI:268535025
+
+767. Caenorhabditis briggsae Hypothetical protein CBG05809 (CBG05809) mRNA, complete cds
+1,029 bp linear mRNA 
+XM_002633070.1 GI:268535961
+
+768. Caenorhabditis briggsae Hypothetical protein CBG05824 (CBG05824) mRNA, complete cds
+690 bp linear mRNA 
+XM_002633082.1 GI:268535985
+
+769. Caenorhabditis briggsae Hypothetical protein CBG17640 (CBG17640) mRNA, complete cds
+339 bp linear mRNA 
+XM_002634256.1 GI:268552638
+
+770. Caenorhabditis briggsae Hypothetical protein CBG04428 (CBG04428) mRNA, complete cds
+663 bp linear mRNA 
+XM_002634372.1 GI:268552870
+
+771. Caenorhabditis briggsae Hypothetical protein CBG10551 (CBG10551) mRNA, complete cds
+834 bp linear mRNA 
+XM_002634837.1 GI:268553792
+
+772. Caenorhabditis briggsae Hypothetical protein CBG08670 (CBG08670) mRNA, partial cds
+738 bp linear mRNA 
+XM_002636324.1 GI:268556761
+
+773. Caenorhabditis briggsae Hypothetical protein CBG23115 (CBG23115) mRNA, partial cds
+618 bp linear mRNA 
+XM_002636405.1 GI:268556923
+
+774. Caenorhabditis briggsae Hypothetical protein CBG23126 (CBG23126) mRNA, complete cds
+1,083 bp linear mRNA 
+XM_002636415.1 GI:268556943
+
+775. Caenorhabditis briggsae Hypothetical protein CBG23302 (CBG23302) mRNA, complete cds
+705 bp linear mRNA 
+XM_002636555.1 GI:268557223
+
+776. Caenorhabditis briggsae Hypothetical protein CBG09369 (CBG09369) mRNA, complete cds
+1,173 bp linear mRNA 
+XM_002636860.1 GI:268557831
+
+777. Caenorhabditis briggsae Hypothetical protein CBG09371 (CBG09371) mRNA, complete cds
+1,095 bp linear mRNA 
+XM_002636862.1 GI:268557835
+
+778. Caenorhabditis briggsae Hypothetical protein CBG09511 (CBG09511) mRNA, complete cds
+969 bp linear mRNA 
+XM_002636972.1 GI:268558055
+
+779. Caenorhabditis briggsae Hypothetical protein CBG04577 (CBG04577) mRNA, complete cds
+993 bp linear mRNA 
+XM_002637746.1 GI:268559601
+
+780. Caenorhabditis briggsae Hypothetical protein CBG18593 (CBG18593) mRNA, complete cds
+684 bp linear mRNA 
+XM_002638340.1 GI:268561671
+
+781. Caenorhabditis briggsae Hypothetical protein CBG11881 (CBG11881) mRNA, partial cds
+1,134 bp linear mRNA 
+XM_002638640.1 GI:268562855
+
+782. Caenorhabditis briggsae Hypothetical protein CBG08252 (CBG08252) mRNA, partial cds
+543 bp linear mRNA 
+XM_002639874.1 GI:268567210
+
+783. Caenorhabditis briggsae Hypothetical protein CBG11736 (CBG11736) mRNA, partial cds
+222 bp linear mRNA 
+XM_002640941.1 GI:268571264
+
+784. Caenorhabditis briggsae Hypothetical protein CBG24145 (CBG24145) mRNA, complete cds
+975 bp linear mRNA 
+XM_002643132.1 GI:268576395
+
+785. Caenorhabditis briggsae Hypothetical protein CBG16082 (CBG16082) mRNA, complete cds
+657 bp linear mRNA 
+XM_002643401.1 GI:268576930
+
+786. Caenorhabditis briggsae Hypothetical protein CBG16720 (CBG16720) mRNA, complete cds
+945 bp linear mRNA 
+XM_002645014.1 GI:268580154
+
+787. Caenorhabditis briggsae Hypothetical protein CBG00138 (CBG00138) mRNA, partial cds
+630 bp linear mRNA 
+XM_002645213.1 GI:268580552
+
+788. Caenorhabditis briggsae Hypothetical protein CBG07422 (CBG07422) mRNA, complete cds
+1,062 bp linear mRNA 
+XM_002645702.1 GI:268581528
+
+789. Caenorhabditis briggsae Hypothetical protein CBG07681 (CBG07681) mRNA, complete cds
+633 bp linear mRNA 
+XM_002645875.1 GI:268581874
+
+790. Caenorhabditis briggsae Hypothetical protein CBG11915 (CBG11915) mRNA, complete cds
+714 bp linear mRNA 
+XM_002646177.1 GI:268560489
+
+791. Caenorhabditis briggsae Hypothetical protein CBG03635 (CBG03635) mRNA, complete cds
+708 bp linear mRNA 
+XM_002647050.1 GI:268564126
+
+792. Caenorhabditis briggsae Hypothetical protein CBG06424 (CBG06424) mRNA, complete cds
+1,629 bp linear mRNA 
+XM_002647322.1 GI:268565632
+
+793. PREDICTED: Saccoglossus kowalevskii cytoglobin-1-like (LOC100378901), mRNA
+926 bp linear mRNA 
+XM_002732439.2 GI:585723797
+
+794. PREDICTED: Saccoglossus kowalevskii cytoglobin-like (LOC100366547), mRNA
+1,168 bp linear mRNA 
+XM_002732442.2 GI:585723800
+
+795. PREDICTED: Saccoglossus kowalevskii cytoglobin-1-like (LOC100366699), mRNA
+1,086 bp linear mRNA 
+XM_002732443.2 GI:585723803
+
+796. PREDICTED: Saccoglossus kowalevskii globin D, coelomic-like (LOC100366851), mRNA
+792 bp linear mRNA 
+XM_002732444.2 GI:585723823
+
+797. PREDICTED: Callithrix jacchus myoglobin (MB), transcript variant X1, mRNA
+1,230 bp linear mRNA 
+XM_002743722.2 GI:675641250
+
+798. PREDICTED: Ailuropoda melanoleuca myoglobin (MB), mRNA
+593 bp linear mRNA 
+XM_002925573.3 GI:1126282618
+
+799. Caenorhabditis remanei hypothetical protein (CRE_19598) mRNA, complete cds
+555 bp linear mRNA 
+XM_003088682.1 GI:308451592
+
+800. Caenorhabditis remanei CRE-GLB-19 protein (Cre-glb-19) mRNA, complete cds
+621 bp linear mRNA 
+XM_003090072.1 GI:308455099
+
+801. Caenorhabditis remanei hypothetical protein (CRE_03512) mRNA, complete cds
+657 bp linear mRNA 
+XM_003090697.1 GI:308456637
+
+802. Caenorhabditis remanei hypothetical protein (CRE_24257) mRNA, complete cds
+657 bp linear mRNA 
+XM_003092018.1 GI:308459493
+
+803. Caenorhabditis remanei CRE-GLB-3 protein (Cre-glb-3) mRNA, complete cds
+633 bp linear mRNA 
+XM_003092348.1 GI:308460178
+
+804. Caenorhabditis remanei hypothetical protein (CRE_24791) mRNA, complete cds
+897 bp linear mRNA 
+XM_003093723.1 GI:308462984
+
+805. Caenorhabditis remanei CRE-GLB-26 protein (Cre-glb-26) mRNA, complete cds
+471 bp linear mRNA 
+XM_003093802.1 GI:308463145
+
+806. Caenorhabditis remanei CRE-GLB-8 protein (Cre-glb-8) mRNA, complete cds
+1,224 bp linear mRNA 
+XM_003095527.1 GI:308466645
+
+807. Caenorhabditis remanei CRE-GLB-7 protein (Cre-glb-7) mRNA, complete cds
+828 bp linear mRNA 
+XM_003096152.1 GI:308467910
+
+808. Caenorhabditis remanei CRE-GLB-18 protein (Cre-glb-18) mRNA, complete cds
+723 bp linear mRNA 
+XM_003096794.1 GI:308469205
+
+809. Caenorhabditis remanei CRE-GLB-13 protein (Cre-glb-13) mRNA, complete cds
+837 bp linear mRNA 
+XM_003101122.1 GI:308477914
+
+810. Caenorhabditis remanei CRE-GLB-30 protein (Cre-glb-30) mRNA, complete cds
+1,020 bp linear mRNA 
+XM_003102247.1 GI:308480174
+
+811. Caenorhabditis remanei CRE-GLB-22 protein (Cre-glb-22) mRNA, complete cds
+984 bp linear mRNA 
+XM_003102317.1 GI:308480315
+
+812. Caenorhabditis remanei CRE-GLB-20 protein (Cre-glb-20) mRNA, complete cds
+1,149 bp linear mRNA 
+XM_003105436.1 GI:308486574
+
+813. Caenorhabditis remanei CRE-GLB-31 protein (Cre-glb-31) mRNA, complete cds
+513 bp linear mRNA 
+XM_003105804.1 GI:308487311
+
+814. Caenorhabditis remanei CRE-GLB-28 protein (Cre-glb-28) mRNA, complete cds
+585 bp linear mRNA 
+XM_003106124.1 GI:308487954
+
+815. Caenorhabditis remanei CRE-GLB-17 protein (Cre-glb-17) mRNA, complete cds
+651 bp linear mRNA 
+XM_003106640.1 GI:308488988
+
+816. Caenorhabditis remanei CRE-GLB-11 protein (Cre-glb-11) mRNA, complete cds
+771 bp linear mRNA 
+XM_003107546.1 GI:308490804
+
+817. Caenorhabditis remanei CRE-GLB-23 protein (Cre-glb-23) mRNA, complete cds
+1,248 bp linear mRNA 
+XM_003107768.1 GI:308491249
+
+818. Caenorhabditis remanei CRE-GLB-2 protein (Cre-glb-2) mRNA, complete cds
+687 bp linear mRNA 
+XM_003107788.1 GI:308491289
+
+819. Caenorhabditis remanei hypothetical protein (CRE_10897) mRNA, complete cds
+621 bp linear mRNA 
+XM_003108439.1 GI:308492593
+
+820. Caenorhabditis remanei CRE-GLB-21 protein (Cre-glb-21) mRNA, complete cds
+591 bp linear mRNA 
+XM_003108663.1 GI:308493041
+
+821. Caenorhabditis remanei CRE-GLB-33 protein (Cre-glb-33) mRNA, complete cds
+1,644 bp linear mRNA 
+XM_003110212.1 GI:308496144
+
+822. Caenorhabditis remanei CRE-GLB-6 protein (Cre-glb-6) mRNA, complete cds
+1,170 bp linear mRNA 
+XM_003112308.1 GI:308500341
+
+823. Caenorhabditis remanei CRE-GLB-24 protein (Cre-glb-24) mRNA, complete cds
+966 bp linear mRNA 
+XM_003112396.1 GI:308500517
+
+824. Caenorhabditis remanei CRE-GLB-5 protein (Cre-glb-5) mRNA, complete cds
+1,245 bp linear mRNA 
+XM_003112722.1 GI:308501169
+
+825. Caenorhabditis remanei CRE-GLB-29 protein (Cre-glb-29) mRNA, complete cds
+1,065 bp linear mRNA 
+XM_003113797.1 GI:308503321
+
+826. Caenorhabditis remanei CRE-GLB-9 protein (Cre-glb-9) mRNA, complete cds
+684 bp linear mRNA 
+XM_003113838.1 GI:308503403
+
+827. Caenorhabditis remanei CRE-GLB-15 protein (Cre-glb-15) mRNA, complete cds
+705 bp linear mRNA 
+XM_003114243.1 GI:308504214
+
+828. Caenorhabditis remanei CRE-GLB-32 protein (Cre-glb-32) mRNA, complete cds
+771 bp linear mRNA 
+XM_003114478.1 GI:308504684
+
+829. Caenorhabditis remanei CRE-GLB-14 protein (Cre-glb-14) mRNA, complete cds
+708 bp linear mRNA 
+XM_003115752.1 GI:308507234
+
+830. Caenorhabditis remanei CRE-GLB-27 protein (Cre-glb-27) mRNA, complete cds
+675 bp linear mRNA 
+XM_003116776.1 GI:308509281
+
+831. Caenorhabditis remanei CRE-GLB-12 protein (Cre-glb-12) mRNA, complete cds
+807 bp linear mRNA 
+XM_003117070.1 GI:308509869
+
+832. Caenorhabditis remanei CRE-GLB-16 protein (Cre-glb-16) mRNA, complete cds
+948 bp linear mRNA 
+XM_003117991.1 GI:308511712
+
+833. Loa loa globin family protein partial mRNA
+408 bp linear mRNA 
+XM_003136924.1 GI:312067923
+
+834. Loa loa hypothetical protein partial mRNA
+1,084 bp linear mRNA 
+XM_003142429.2 GI:1158594073
+
+835. Loa loa hypothetical protein partial mRNA
+651 bp linear mRNA 
+XM_003146069.1 GI:312089096
+
+836. Loa loa hypothetical protein partial mRNA
+996 bp linear mRNA 
+XM_003146473.1 GI:312090184
+
+837. Loa loa hypothetical protein partial mRNA
+360 bp linear mRNA 
+XM_003148126.1 GI:312094876
+
+838. Loa loa globin family protein partial mRNA
+973 bp linear mRNA 
+XM_003148443.2 GI:1158603457
+
+839. PREDICTED: Meleagris gallopavo myoglobin (MB), mRNA
+1,249 bp linear mRNA 
+XM_003202347.3 GI:1121861436
+
+840. PREDICTED: Anolis carolinensis myoglobin (mb), transcript variant X1, mRNA
+3,081 bp linear mRNA 
+XM_003220932.3 GI:1033404424
+
+841. PREDICTED: Nomascus leucogenys androglobin (ADGB), mRNA
+5,314 bp linear mRNA 
+XM_003255848.1 GI:332213569
+
+842. PREDICTED: Nomascus leucogenys myoglobin (MB), transcript variant X4, mRNA
+1,231 bp linear mRNA 
+XM_003264687.3 GI:820992038
+
+843. PREDICTED: Nomascus leucogenys myoglobin (MB), transcript variant X1, mRNA
+1,210 bp linear mRNA 
+XM_003264688.3 GI:820992033
+
+844. PREDICTED: Nomascus leucogenys myoglobin (MB), transcript variant X5, mRNA
+1,083 bp linear mRNA 
+XM_003264689.3 GI:820992039
+
+845. Trichinella spiralis putative globin (Tsp_10874) mRNA, complete cds
+576 bp linear mRNA 
+XM_003370217.1 GI:339256777
+
+846. Trichinella spiralis putative globin (Tsp_11643) mRNA, complete cds
+1,560 bp linear mRNA 
+XM_003371387.1 GI:339252423
+
+847. Trichinella spiralis putative globin (Tsp_08787) mRNA, complete cds
+588 bp linear mRNA 
+XM_003374011.1 GI:339250147
+
+848. Trichinella spiralis putative myoglobin (Tsp_08883) mRNA, complete cds
+408 bp linear mRNA 
+XM_003374109.1 GI:339250343
+
+849. Trichinella spiralis putative myoglobin (Tsp_09757) mRNA, complete cds
+477 bp linear mRNA 
+XM_003374373.1 GI:339250871
+
+850. Trichinella spiralis putative globin (Tsp_04277) mRNA, complete cds
+798 bp linear mRNA 
+XM_003375043.1 GI:339246914
+
+851. Trichinella spiralis putative globin (Tsp_04282) mRNA, complete cds
+798 bp linear mRNA 
+XM_003375049.1 GI:339246926
+
+852. Trichinella spiralis putative globin (Tsp_02721) mRNA, complete cds
+888 bp linear mRNA 
+XM_003379002.1 GI:339234990
+
+853. Trichinella spiralis putative WAP-type 'four-disulfide core' (Tsp_02872) mRNA, complete cds
+1,362 bp linear mRNA 
+XM_003379155.1 GI:339235296
+
+854. Trichinella spiralis putative globin (Tsp_06123) mRNA, complete cds
+747 bp linear mRNA 
+XM_003380377.1 GI:339237740
+
+855. Trichinella spiralis putative globin (Tsp_07686) mRNA, complete cds
+606 bp linear mRNA 
+XM_003381131.1 GI:339239248
+
+856. PREDICTED: Bombus terrestris globin (LOC100647265), mRNA
+1,958 bp linear mRNA 
+XM_003396782.2 GI:808125788
+
+857. PREDICTED: Bombus terrestris cytoglobin-2 (LOC100647462), transcript variant X1, mRNA
+1,530 bp linear mRNA 
+XM_003396784.3 GI:1185576577
+
+858. PREDICTED: Bombus terrestris cytoglobin-2 (LOC100647462), transcript variant X2, mRNA
+1,500 bp linear mRNA 
+XM_003396785.3 GI:1185576578
+
+859. PREDICTED: Loxodonta africana myoglobin (MB), mRNA
+535 bp linear mRNA 
+XM_003419788.2 GI:731508216
+
+860. PREDICTED: Cavia porcellus myoglobin (Mb), mRNA
+858 bp linear mRNA 
+XM_003462320.2 GI:884859619
+
+861. PREDICTED: Bombus impatiens cytoglobin-2-like (LOC100743922), transcript variant X1, mRNA
+1,554 bp linear mRNA 
+XM_003494171.2 GI:815927419
+
+862. PREDICTED: Bombus impatiens cytoglobin-2-like (LOC100743922), transcript variant X2, mRNA
+1,521 bp linear mRNA 
+XM_003494172.2 GI:815927420
+
+863. PREDICTED: Bombus impatiens cytoglobin-2-like (LOC100745514), mRNA
+895 bp linear mRNA 
+XM_003494184.2 GI:815927421
+
+864. PREDICTED: Cricetulus griseus myoglobin (Mb), mRNA
+1,010 bp linear mRNA 
+XM_003515322.3 GI:1032924825
+
+865. PREDICTED: Apis florea globin (LOC100870092), transcript variant X1, mRNA
+658 bp linear mRNA 
+XM_003690762.2 GI:820837545
+
+866. PREDICTED: Megachile rotundata globin (LOC100878495), transcript variant X2, mRNA
+1,476 bp linear mRNA 
+XM_003707137.2 GI:805819149
+
+867. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC100889989 (LOC100889989), partial mRNA
+1,982 bp linear mRNA 
+XM_003725419.2 GI:780064758
+
+868. PREDICTED: Strongylocentrotus purpuratus cytoglobin-2 (LOC100892722), mRNA
+1,202 bp linear mRNA 
+XM_003729119.2 GI:779987532
+
+869. PREDICTED: Callithrix jacchus androglobin (ADGB), mRNA
+5,322 bp linear mRNA 
+XM_003732751.3 GI:1060988974
+
+870. Drosophila pseudoobscura pseudoobscura globin 1 (Dpse\glob1), transcript variant C, mRNA
+1,170 bp linear mRNA 
+XM_003736666.2 GI:969479844
+
+871. PREDICTED: Metaseiulus occidentalis globin-2 B chain (LOC100899816), mRNA
+465 bp linear mRNA 
+XM_003738545.1 GI:391328230
+
+872. PREDICTED: Sarcophilus harrisii myoglobin (MB), mRNA
+717 bp linear mRNA 
+XM_003771119.2 GI:821487145
+
+873. PREDICTED: Otolemur garnettii myoglobin (MB), mRNA
+666 bp linear mRNA 
+XM_003783259.2 GI:831214939
+
+874. PREDICTED: Pan paniscus androglobin (ADGB), mRNA
+5,281 bp linear mRNA 
+XM_003811529.2 GI:675713519
+
+875. PREDICTED: Papio anubis myoglobin (MB), transcript variant X2, mRNA
+1,230 bp linear mRNA 
+XM_003905469.2 GI:685569205
+
+876. PREDICTED: Papio anubis myoglobin (MB), transcript variant X3, mRNA
+1,119 bp linear mRNA 
+XM_003905470.2 GI:685569206
+
+877. PREDICTED: Saimiri boliviensis boliviensis myoglobin (MB), mRNA
+1,201 bp linear mRNA 
+XM_003932919.2 GI:725580139
+
+878. PREDICTED: Takifugu rubripes myoglobin (mb), mRNA
+753 bp linear mRNA 
+XM_003976046.2 GI:768952737
+
+879. PREDICTED: Felis catus myoglobin (MB), mRNA
+914 bp linear mRNA 
+XM_003989225.4 GI:1126439267
+
+880. PREDICTED: Oryzias latipes myoglobin (mb), mRNA
+761 bp linear mRNA 
+XM_004065702.3 GI:1174640760
+
+881. PREDICTED: Ciona intestinalis cytoglobin-1-like (LOC100183004), mRNA
+1,442 bp linear mRNA 
+XM_004226929.3 GI:1087803819
+
+882. PREDICTED: Orcinus orca myoglobin (MB), transcript variant X1, mRNA
+1,081 bp linear mRNA 
+XM_004286206.1 GI:466088037
+
+883. PREDICTED: Orcinus orca myoglobin (MB), transcript variant X2, mRNA
+746 bp linear mRNA 
+XM_004286207.1 GI:466088041
+
+884. PREDICTED: Trichechus manatus latirostris androglobin (LOC101356589), mRNA
+5,016 bp linear mRNA 
+XM_004368846.1 GI:471356608
+
+885. PREDICTED: Trichechus manatus latirostris myoglobin (LOC101351845), mRNA
+534 bp linear mRNA 
+XM_004373813.2 GI:823388025
+
+886. PREDICTED: Odobenus rosmarus divergens myoglobin (MB), transcript variant X1, mRNA
+1,086 bp linear mRNA 
+XM_004416095.1 GI:472393775
+
+887. PREDICTED: Odobenus rosmarus divergens myoglobin (MB), transcript variant X2, mRNA
+864 bp linear mRNA 
+XM_004416096.1 GI:472393777
+
+888. PREDICTED: Odobenus rosmarus divergens myoglobin (MB), transcript variant X3, mRNA
+906 bp linear mRNA 
+XM_004416097.1 GI:472393779
+
+889. PREDICTED: Ceratotherium simum simum myoglobin (LOC101393841), mRNA
+1,113 bp linear mRNA 
+XM_004418088.2 GI:955477891
+
+890. PREDICTED: Dasypus novemcinctus myoglobin (MB), transcript variant X1, mRNA
+1,031 bp linear mRNA 
+XM_004456411.2 GI:821110011
+
+891. PREDICTED: Dasypus novemcinctus myoglobin (MB), transcript variant X2, mRNA
+1,047 bp linear mRNA 
+XM_004456412.2 GI:821110012
+
+892. PREDICTED: Ceratitis capitata cytoglobin-1 (LOC101449031), transcript variant X1, mRNA
+1,513 bp linear mRNA 
+XM_004518161.3 GI:1184335300
+
+893. PREDICTED: Maylandia zebra myoglobin (LOC101479296), transcript variant X1, mRNA
+762 bp linear mRNA 
+XM_004567888.2 GI:835979823
+
+894. PREDICTED: Maylandia zebra myoglobin (LOC101479296), transcript variant X2, mRNA
+843 bp linear mRNA 
+XM_004567889.3 GI:939297534
+
+895. PREDICTED: Ochotona princeps myoglobin (MB), mRNA
+986 bp linear mRNA 
+XM_004589553.2 GI:837815619
+
+896. PREDICTED: Sorex araneus myoglobin (MB), mRNA
+469 bp linear mRNA 
+XM_004610489.1 GI:505830499
+
+897. PREDICTED: Octodon degus myoglobin (Mb), mRNA
+465 bp linear mRNA 
+XM_004623877.1 GI:507616942
+
+898. PREDICTED: Jaculus jaculus myoglobin (Mb), transcript variant X1, mRNA
+507 bp linear mRNA 
+XM_004650262.1 GI:507532494
+
+899. PREDICTED: Jaculus jaculus myoglobin (Mb), transcript variant X2, mRNA
+473 bp linear mRNA 
+XM_004650263.1 GI:507532496
+
+900. PREDICTED: Jaculus jaculus androglobin (Adgb), mRNA
+4,953 bp linear mRNA 
+XM_004651304.1 GI:507534622
+
+901. PREDICTED: Echinops telfairi myoglobin (MB), mRNA
+367 bp linear mRNA 
+XM_004700315.1 GI:507636212
+
+902. PREDICTED: Echinops telfairi androglobin (ADGB), mRNA
+4,293 bp linear mRNA 
+XM_004702129.1 GI:507643664
+
+903. PREDICTED: Mustela putorius furo myoglobin (MB), mRNA
+1,149 bp linear mRNA 
+XM_004743449.2 GI:859762856
+
+904. PREDICTED: Heterocephalus glaber myoglobin (Mb), transcript variant X1, mRNA
+595 bp linear mRNA 
+XM_004844756.2 GI:861436095
+
+905. PREDICTED: Anas platyrhynchos myoglobin (MB), mRNA
+1,322 bp linear mRNA 
+XM_005015343.2 GI:874461736
+
+906. PREDICTED: Ficedula albicollis myoglobin (MB), mRNA
+1,225 bp linear mRNA 
+XM_005039827.2 GI:1020961001
+
+907. PREDICTED: Mesocricetus auratus myoglobin (Mb), mRNA
+974 bp linear mRNA 
+XM_005086010.2 GI:880964346
+
+908. PREDICTED: Aplysia californica globin (LOC101846041), mRNA
+1,342 bp linear mRNA 
+XM_005088865.2 GI:871204555
+
+909. PREDICTED: Aplysia californica uncharacterized LOC101847543 (LOC101847543), transcript variant X1, mRNA
+1,169 bp linear mRNA 
+XM_005089596.2 GI:871206801
+
+910. PREDICTED: Aplysia californica uncharacterized LOC101847543 (LOC101847543), transcript variant X2, mRNA
+1,101 bp linear mRNA 
+XM_005089597.2 GI:871206803
+
+911. PREDICTED: Aplysia californica neuroglobin-like (LOC101852695), mRNA
+658 bp linear mRNA 
+XM_005099766.2 GI:871237044
+
+912. PREDICTED: Aplysia californica uncharacterized LOC101863554 (LOC101863554), mRNA
+834 bp linear mRNA 
+XM_005111471.2 GI:871272214
+
+913. PREDICTED: Melopsittacus undulatus myoglobin (LOC101879193), mRNA
+754 bp linear mRNA 
+XM_005150402.1 GI:527264472
+
+914. PREDICTED: Danio rerio myoglobin (mb), transcript variant X1, mRNA
+1,412 bp linear mRNA 
+XM_005160167.3 GI:1040654164
+
+915. PREDICTED: Danio rerio myoglobin (mb), transcript variant X2, mRNA
+1,408 bp linear mRNA 
+XM_005160168.3 GI:1040654165
+
+916. PREDICTED: Musca domestica uncharacterized LOC101890360 (LOC101890360), mRNA
+695 bp linear mRNA 
+XM_005180088.2 GI:1135102771
+
+917. PREDICTED: Musca domestica globin CTT-VI (LOC101889415), transcript variant X1, mRNA
+1,508 bp linear mRNA 
+XM_005183545.3 GI:1135079751
+
+918. PREDICTED: Falco peregrinus androglobin (ADGB), mRNA
+4,590 bp linear mRNA 
+XM_005230268.1 GI:529420933
+
+919. PREDICTED: Falco peregrinus myoglobin (MB), mRNA
+784 bp linear mRNA 
+XM_005244470.1 GI:529449689
+
+920. PREDICTED: Homo sapiens myoglobin (MB), transcript variant X1, mRNA
+1,114 bp linear mRNA 
+XM_005261605.2 GI:578837203
+
+921. PREDICTED: Chrysemys picta bellii androglobin (ADGB), transcript variant X1, mRNA
+4,980 bp linear mRNA 
+XM_005280422.1 GI:530571825
+
+922. PREDICTED: Chrysemys picta bellii androglobin (ADGB), transcript variant X2, mRNA
+4,977 bp linear mRNA 
+XM_005280423.1 GI:530571827
+
+923. PREDICTED: Chrysemys picta bellii androglobin (ADGB), transcript variant X3, mRNA
+4,941 bp linear mRNA 
+XM_005280424.1 GI:530571829
+
+924. PREDICTED: Chrysemys picta bellii androglobin (ADGB), transcript variant X4, mRNA
+4,376 bp linear mRNA 
+XM_005280425.1 GI:530571831
+
+925. PREDICTED: Chrysemys picta bellii androglobin (ADGB), transcript variant X5, mRNA
+4,619 bp linear mRNA 
+XM_005280426.1 GI:530571833
+
+926. PREDICTED: Chrysemys picta bellii myoglobin (MB), mRNA
+1,567 bp linear mRNA 
+XM_005300826.2 GI:641792320
+
+927. PREDICTED: Ictidomys tridecemlineatus myoglobin (Mb), mRNA
+769 bp linear mRNA 
+XM_005322304.2 GI:914904183
+
+928. PREDICTED: Microtus ochrogaster myoglobin (Mb), mRNA
+462 bp linear mRNA 
+XM_005354143.2 GI:913498681
+
+929. PREDICTED: Microtus ochrogaster androglobin (Adgb), mRNA
+5,220 bp linear mRNA 
+XM_005361011.2 GI:913506608
+
+930. PREDICTED: Chinchilla lanigera myoglobin (Mb), mRNA
+807 bp linear mRNA 
+XM_005374668.1 GI:533118501
+
+931. PREDICTED: Geospiza fortis myoglobin (MB), mRNA
+750 bp linear mRNA 
+XM_005421806.1 GI:543262835
+
+932. PREDICTED: Falco cherrug myoglobin (MB), mRNA
+784 bp linear mRNA 
+XM_005446701.1 GI:541992803
+
+933. PREDICTED: Columba livia androglobin (ADGB), mRNA
+5,187 bp linear mRNA 
+XM_005507702.1 GI:543733491
+
+934. PREDICTED: Columba livia myoglobin (MB), mRNA
+1,274 bp linear mRNA 
+XM_005511255.2 GI:915554202
+
+935. PREDICTED: Pseudopodoces humilis myoglobin (MB), mRNA
+1,234 bp linear mRNA 
+XM_005527553.2 GI:929476913
+
+936. PREDICTED: Macaca fascicularis androglobin (ADGB), transcript variant X1, mRNA
+5,340 bp linear mRNA 
+XM_005552076.2 GI:982244193
+
+937. PREDICTED: Macaca fascicularis androglobin (ADGB), transcript variant X4, mRNA
+4,973 bp linear mRNA 
+XM_005552077.2 GI:982244198
+
+938. PREDICTED: Macaca fascicularis myoglobin (MB), transcript variant X1, mRNA
+1,260 bp linear mRNA 
+XM_005567460.2 GI:982272350
+
+939. PREDICTED: Macaca fascicularis myoglobin (MB), transcript variant X2, mRNA
+1,209 bp linear mRNA 
+XM_005567461.2 GI:982272351
+
+940. PREDICTED: Canis lupus familiaris myoglobin (MB), mRNA
+1,262 bp linear mRNA 
+XM_005625921.1 GI:545514981
+
+941. PREDICTED: Capra hircus myoglobin (MB), transcript variant X2, mRNA
+1,068 bp linear mRNA 
+XM_005680603.3 GI:1062974011
+
+942. PREDICTED: Xiphophorus maculatus myoglobin (LOC102219983), mRNA
+800 bp linear mRNA 
+XM_005797508.1 GI:551491990
+
+943. PREDICTED: Bos mutus androglobin (ADGB), mRNA
+5,433 bp linear mRNA 
+XM_005894664.1 GI:555965334
+
+944. PREDICTED: Bos mutus myoglobin (MB), transcript variant X2, mRNA
+1,075 bp linear mRNA 
+XM_005898273.2 GI:942061103
+
+945. PREDICTED: Haplochromis burtoni myoglobin (mb), transcript variant X1, mRNA
+782 bp linear mRNA 
+XM_005945758.2 GI:930764899
+
+946. PREDICTED: Haplochromis burtoni myoglobin (mb), transcript variant X2, mRNA
+845 bp linear mRNA 
+XM_005945759.2 GI:930764900
+
+947. PREDICTED: Pantholops hodgsonii myoglobin (MB), transcript variant X2, mRNA
+1,079 bp linear mRNA 
+XM_005977446.1 GI:556764476
+
+948. PREDICTED: Pantholops hodgsonii myoglobin (MB), transcript variant X3, mRNA
+1,073 bp linear mRNA 
+XM_005977447.1 GI:556764478
+
+949. PREDICTED: Pantholops hodgsonii androglobin (ADGB), mRNA
+5,430 bp linear mRNA 
+XM_005985514.1 GI:556781114
+
+950. PREDICTED: Latimeria chalumnae myoglobin (LOC102361931), mRNA
+856 bp linear mRNA 
+XM_006011146.2 GI:942203513
+
+951. PREDICTED: Alligator sinensis hemoglobin subunit alpha-1-like (LOC102383779), transcript variant X1, mRNA
+690 bp linear mRNA 
+XM_006020871.1 GI:557275435
+
+952. PREDICTED: Alligator sinensis hemoglobin subunit alpha-1-like (LOC102383779), transcript variant X2, mRNA
+662 bp linear mRNA 
+XM_006020872.1 GI:557275437
+
+953. PREDICTED: Alligator sinensis myoglobin (MB), mRNA
+1,492 bp linear mRNA 
+XM_006025984.1 GI:557286598
+
+954. PREDICTED: Alligator sinensis androglobin (ADGB), transcript variant X1, mRNA
+5,765 bp linear mRNA 
+XM_006034314.2 GI:944356798
+
+955. PREDICTED: Alligator sinensis androglobin (ADGB), transcript variant X2, mRNA
+5,779 bp linear mRNA 
+XM_006034315.2 GI:944356799
+
+956. PREDICTED: Alligator sinensis androglobin (ADGB), transcript variant X3, mRNA
+5,753 bp linear mRNA 
+XM_006034316.2 GI:944356800
+
+957. PREDICTED: Alligator sinensis androglobin (ADGB), transcript variant X4, mRNA
+5,627 bp linear mRNA 
+XM_006034317.2 GI:944356801
+
+958. PREDICTED: Alligator sinensis androglobin (ADGB), transcript variant X5, mRNA
+4,454 bp linear mRNA 
+XM_006034318.1 GI:557322583
+
+959. PREDICTED: Bubalus bubalis androglobin (ADGB), mRNA
+5,225 bp linear mRNA 
+XM_006069446.1 GI:594092298
+
+960. PREDICTED: Bubalus bubalis myoglobin (MB), mRNA
+1,096 bp linear mRNA 
+XM_006074424.1 GI:594102884
+
+961. PREDICTED: Myotis lucifugus myoglobin (MB), mRNA
+591 bp linear mRNA 
+XM_006092706.2 GI:940743078
+
+962. PREDICTED: Pelodiscus sinensis cytoglobin-1-like (LOC102453596), mRNA
+465 bp linear mRNA 
+XM_006124603.1 GI:558169264
+
+963. PREDICTED: Pelodiscus sinensis myoglobin (MB), mRNA
+1,540 bp linear mRNA 
+XM_006137956.2 GI:946697010
+
+964. PREDICTED: Tupaia chinensis myoglobin (MB), transcript variant X1, mRNA
+975 bp linear mRNA 
+XM_006170319.1 GI:562885863
+
+965. PREDICTED: Tupaia chinensis myoglobin (MB), transcript variant X2, mRNA
+1,031 bp linear mRNA 
+XM_006170320.1 GI:562885865
+
+966. PREDICTED: Camelus ferus myoglobin (MB), mRNA
+1,127 bp linear mRNA 
+XM_006183869.2 GI:946643333
+
+967. PREDICTED: Vicugna pacos myoglobin (MB), mRNA
+940 bp linear mRNA 
+XM_006207032.2 GI:970722118
+
+968. PREDICTED: Alligator mississippiensis myoglobin (MB), transcript variant X1, mRNA
+1,586 bp linear mRNA 
+XM_006258539.3 GI:1113759314
+
+969. PREDICTED: Mus musculus androglobin (Adgb), transcript variant X7, mRNA
+4,381 bp linear mRNA 
+XM_006512663.3 GI:1039732646
+
+970. PREDICTED: Mus musculus androglobin (Adgb), transcript variant X8, mRNA
+4,123 bp linear mRNA 
+XM_006512664.1 GI:568965256
+
+971. PREDICTED: Apis dorsata cytoglobin-1-like (LOC102678345), transcript variant X1, mRNA
+787 bp linear mRNA 
+XM_006613190.1 GI:572270518
+
+972. PREDICTED: Apis dorsata cytoglobin-1-like (LOC102678345), transcript variant X2, mRNA
+643 bp linear mRNA 
+XM_006613191.1 GI:572270520
+
+973. PREDICTED: Apis dorsata cytoglobin-1-like (LOC102678345), transcript variant X3, mRNA
+628 bp linear mRNA 
+XM_006613192.1 GI:572270522
+
+974. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X1, mRNA
+5,318 bp linear mRNA 
+XM_006715566.3 GI:1034651682
+
+975. PREDICTED: Leptonychotes weddellii myoglobin (MB), transcript variant X1, mRNA
+1,043 bp linear mRNA 
+XM_006744855.1 GI:585186885
+
+976. PREDICTED: Saccoglossus kowalevskii androglobin-like (LOC100369598), mRNA
+6,204 bp linear mRNA 
+XM_006811433.1 GI:585645070
+
+977. PREDICTED: Saccoglossus kowalevskii uncharacterized LOC102809701 (LOC102809701), mRNA
+603 bp linear mRNA 
+XM_006812261.1 GI:585682929
+
+978. PREDICTED: Saccoglossus kowalevskii non-symbiotic hemoglobin 1-like (LOC102800881), mRNA
+582 bp linear mRNA 
+XM_006818006.1 GI:585671561
+
+979. PREDICTED: Saccoglossus kowalevskii neuroglobin-like protein (LOC100313670), transcript variant X1, mRNA
+1,002 bp linear mRNA 
+XM_006819257.1 GI:585678434
+
+980. PREDICTED: Saccoglossus kowalevskii globin-1-like (LOC102801876), mRNA
+570 bp linear mRNA 
+XM_006821955.1 GI:585695415
+
+981. PREDICTED: Saccoglossus kowalevskii neuroglobin-1-like (LOC102809622), mRNA
+576 bp linear mRNA 
+XM_006823381.1 GI:585704399
+
+982. PREDICTED: Chrysochloris asiatica myoglobin (MB), mRNA
+529 bp linear mRNA 
+XM_006865228.1 GI:586469377
+
+983. PREDICTED: Elephantulus edwardii myoglobin (MB), mRNA
+492 bp linear mRNA 
+XM_006890162.1 GI:585674913
+
+984. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X5, mRNA
+1,192 bp linear mRNA 
+XM_006914494.2 GI:989963519
+
+985. PREDICTED: Pteropus alecto androglobin (ADGB), mRNA
+5,025 bp linear mRNA 
+XM_006915339.1 GI:586564323
+
+986. PREDICTED: Peromyscus maniculatus bairdii myoglobin (Mb), mRNA
+1,041 bp linear mRNA 
+XM_006995625.2 GI:1008798918
+
+987. PREDICTED: Chelonia mydas androglobin (ADGB), mRNA
+4,800 bp linear mRNA 
+XM_007056281.1 GI:591362870
+
+988. PREDICTED: Chelonia mydas myoglobin (MB), mRNA
+465 bp linear mRNA 
+XM_007062671.1 GI:591376126
+
+989. PREDICTED: Panthera tigris altaica myoglobin (MB), mRNA
+685 bp linear mRNA 
+XM_007096441.1 GI:591342186
+
+990. PREDICTED: Physeter catodon androglobin (ADGB), transcript variant X1, mRNA
+4,166 bp linear mRNA 
+XM_007103490.1 GI:593714103
+
+991. PREDICTED: Physeter catodon androglobin (ADGB), transcript variant X2, mRNA
+5,316 bp linear mRNA 
+XM_007103491.1 GI:593714105
+
+992. PREDICTED: Balaenoptera acutorostrata scammoni myoglobin (MB), mRNA
+1,094 bp linear mRNA 
+XM_007165704.1 GI:594622202
+
+993. PREDICTED: Astyanax mexicanus myoglobin (mb), mRNA
+1,369 bp linear mRNA 
+XM_007229538.2 GI:992173428
+
+994. PREDICTED: Astyanax mexicanus androglobin (adgb), transcript variant X1, mRNA
+5,091 bp linear mRNA 
+XM_007255664.2 GI:992219712
+
+995. PREDICTED: Astyanax mexicanus androglobin (adgb), transcript variant X3, mRNA
+5,088 bp linear mRNA 
+XM_007255665.2 GI:992219715
+
+996. PREDICTED: Python bivittatus myoglobin (MB), mRNA
+1,973 bp linear mRNA 
+XM_007428782.2 GI:1004674594
+
+997. PREDICTED: Python bivittatus androglobin-like (LOC103067544), mRNA
+3,729 bp linear mRNA 
+XM_007429788.1 GI:602646837
+
+998. PREDICTED: Python bivittatus myoglobin-like (LOC103052372), mRNA
+507 bp linear mRNA 
+XM_007433869.1 GI:602656392
+
+999. PREDICTED: Lipotes vexillifer myoglobin (MB), mRNA
+1,068 bp linear mRNA 
+XM_007456255.1 GI:602688188
+
+1000. PREDICTED: Monodelphis domestica androglobin (ADGB), transcript variant X1, mRNA
+5,120 bp linear mRNA 
+XM_007484699.2 GI:1022978664
+
+1001. PREDICTED: Monodelphis domestica androglobin (ADGB), transcript variant X3, mRNA
+5,072 bp linear mRNA 
+XM_007484700.2 GI:1022978667
+
+1002. PREDICTED: Erinaceus europaeus myoglobin (MB), mRNA
+503 bp linear mRNA 
+XM_007535676.2 GI:1016699960
+
+1003. PREDICTED: Cricetulus griseus myoglobin (Mb), mRNA
+1,010 bp linear mRNA 
+XM_007612521.2 GI:1032931240
+
+1004. PREDICTED: Ornithorhynchus anatinus androglobin-like (LOC103169532), partial mRNA
+1,527 bp linear mRNA 
+XM_007665033.1 GI:620957648
+
+1005. PREDICTED: Callorhinchus milii androglobin (adgb), mRNA
+5,395 bp linear mRNA 
+XM_007894495.1 GI:632953921
+
+1006. PREDICTED: Orycteropus afer afer androglobin (ADGB), mRNA
+4,554 bp linear mRNA 
+XM_007943219.1 GI:634854759
+
+1007. PREDICTED: Orycteropus afer afer myoglobin (MB), mRNA
+671 bp linear mRNA 
+XM_007953973.1 GI:634884904
+
+1008. PREDICTED: Chlorocebus sabaeus myoglobin (MB), transcript variant X1, mRNA
+1,108 bp linear mRNA 
+XM_007975605.1 GI:635101937
+
+1009. PREDICTED: Chlorocebus sabaeus myoglobin (MB), transcript variant X2, mRNA
+1,416 bp linear mRNA 
+XM_007975606.1 GI:635101939
+
+1010. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X1, mRNA
+6,121 bp linear mRNA 
+XM_008006721.1 GI:635075829
+
+1011. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X2, mRNA
+6,118 bp linear mRNA 
+XM_008006722.1 GI:635075831
+
+1012. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X3, mRNA
+6,049 bp linear mRNA 
+XM_008006724.1 GI:635075833
+
+1013. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X4, mRNA
+5,353 bp linear mRNA 
+XM_008006725.1 GI:635075835
+
+1014. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X5, mRNA
+5,335 bp linear mRNA 
+XM_008006726.1 GI:635075837
+
+1015. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X6, mRNA
+5,053 bp linear mRNA 
+XM_008006727.1 GI:635075839
+
+1016. PREDICTED: Chlorocebus sabaeus androglobin (ADGB), transcript variant X7, mRNA
+4,509 bp linear mRNA 
+XM_008006728.1 GI:635075841
+
+1017. PREDICTED: Tarsius syrichta myoglobin (MB), transcript variant X1, mRNA
+674 bp linear mRNA 
+XM_008057778.1 GI:640799498
+
+1018. PREDICTED: Tarsius syrichta myoglobin (MB), transcript variant X2, mRNA
+687 bp linear mRNA 
+XM_008057779.1 GI:640799500
+
+1019. PREDICTED: Tarsius syrichta myoglobin (MB), transcript variant X3, mRNA
+821 bp linear mRNA 
+XM_008057780.1 GI:640799502
+
+1020. PREDICTED: Tarsius syrichta myoglobin (MB), transcript variant X4, mRNA
+777 bp linear mRNA 
+XM_008057781.1 GI:640799504
+
+1021. PREDICTED: Tarsius syrichta myoglobin (MB), transcript variant X5, mRNA
+682 bp linear mRNA 
+XM_008057782.1 GI:640799506
+
+1022. PREDICTED: Anolis carolinensis myoglobin (mb), transcript variant X2, mRNA
+2,857 bp linear mRNA 
+XM_008110632.2 GI:1033404425
+
+1023. PREDICTED: Anolis carolinensis androglobin (adgb), transcript variant X1, mRNA
+5,442 bp linear mRNA 
+XM_008122957.2 GI:1033389976
+
+1024. PREDICTED: Anolis carolinensis androglobin (adgb), transcript variant X2, mRNA
+6,063 bp linear mRNA 
+XM_008122963.2 GI:1033389977
+
+1025. PREDICTED: Anolis carolinensis androglobin (adgb), transcript variant X3, mRNA
+5,316 bp linear mRNA 
+XM_008122967.2 GI:1033389978
+
+1026. PREDICTED: Anolis carolinensis androglobin (adgb), transcript variant X4, mRNA
+6,055 bp linear mRNA 
+XM_008122972.2 GI:1033389979
+
+1027. PREDICTED: Anolis carolinensis androglobin (adgb), transcript variant X5, mRNA
+5,308 bp linear mRNA 
+XM_008122981.2 GI:1033389980
+
+1028. PREDICTED: Anolis carolinensis hemoglobin subunit alpha-1 (LOC103282340), mRNA
+532 bp linear mRNA 
+XM_008124995.2 GI:1033384133
+
+1029. PREDICTED: Eptesicus fuscus myoglobin (MB), mRNA
+539 bp linear mRNA 
+XM_008144689.1 GI:641707816
+
+1030. PREDICTED: Oryctolagus cuniculus myoglobin (MB), mRNA
+532 bp linear mRNA 
+XM_008257090.2 GI:1040220211
+
+1031. PREDICTED: Stegastes partitus myoglobin (LOC103353989), transcript variant X1, mRNA
+907 bp linear mRNA 
+XM_008277211.1 GI:657523961
+
+1032. PREDICTED: Stegastes partitus myoglobin (LOC103353989), transcript variant X2, mRNA
+890 bp linear mRNA 
+XM_008277219.1 GI:657523963
+
+1033. PREDICTED: Stegastes partitus androglobin (adgb), partial mRNA
+3,693 bp linear mRNA 
+XM_008299808.1 GI:657587474
+
+1034. PREDICTED: Poecilia reticulata myoglobin (mb), mRNA
+825 bp linear mRNA 
+XM_008415051.2 GI:1039356946
+
+1035. PREDICTED: Diaphorina citri uncharacterized LOC103506299 (LOC103506299), mRNA
+1,296 bp linear mRNA 
+XM_008470683.2 GI:1041535934
+
+1036. PREDICTED: Diaphorina citri globin CTT-Y-like (LOC103522460), partial mRNA
+226 bp linear mRNA 
+XM_008487560.1 GI:662223015
+
+1037. PREDICTED: Calypte anna androglobin (ADGB), mRNA
+4,737 bp linear mRNA 
+XM_008503336.1 GI:663290611
+
+1038. PREDICTED: Calypte anna myoglobin (MB), mRNA
+755 bp linear mRNA 
+XM_008505006.1 GI:663239911
+
+1039. PREDICTED: Equus przewalskii myoglobin (MB), mRNA
+1,103 bp linear mRNA 
+XM_008543828.1 GI:664769015
+
+1040. PREDICTED: Microplitis demolitor uncharacterized LOC103568926 (LOC103568926), mRNA
+1,397 bp linear mRNA 
+XM_008545963.1 GI:665793104
+
+1041. PREDICTED: Microplitis demolitor tissue inhibitor of metalloproteases (LOC103569669), transcript variant X1, mRNA
+885 bp linear mRNA 
+XM_008547067.1 GI:665795114
+
+1042. PREDICTED: Microplitis demolitor hemoglobin-1 (LOC103570721), mRNA
+1,149 bp linear mRNA 
+XM_008548554.2 GI:939667358
+
+1043. PREDICTED: Microplitis demolitor globin (LOC103570723), transcript variant X1, mRNA
+1,738 bp linear mRNA 
+XM_008548556.1 GI:665797858
+
+1044. PREDICTED: Microplitis demolitor globin (LOC103570723), transcript variant X2, mRNA
+1,763 bp linear mRNA 
+XM_008548557.1 GI:665797860
+
+1045. PREDICTED: Microplitis demolitor hemoglobin subunit alpha-1 (LOC103574851), mRNA
+959 bp linear mRNA 
+XM_008554398.2 GI:939663578
+
+1046. PREDICTED: Microplitis demolitor neuroglobin (LOC103574855), transcript variant X1, mRNA
+951 bp linear mRNA 
+XM_008554403.1 GI:665808591
+
+1047. PREDICTED: Microplitis demolitor neuroglobin (LOC103574855), transcript variant X2, mRNA
+897 bp linear mRNA 
+XM_008554404.1 GI:665808593
+
+1048. PREDICTED: Microplitis demolitor globin-like (LOC103574856), mRNA
+885 bp linear mRNA 
+XM_008554405.1 GI:665808595
+
+1049. PREDICTED: Microplitis demolitor globin domain-containing protein-2 (LOC103574894), mRNA
+910 bp linear mRNA 
+XM_008554454.1 GI:665808686
+
+1050. PREDICTED: Galeopterus variegatus myoglobin (MB), mRNA
+1,116 bp linear mRNA 
+XM_008590097.1 GI:667247909
+
+1051. PREDICTED: Corvus brachyrhynchos myoglobin (MB), mRNA
+1,229 bp linear mRNA 
+XM_008636402.2 GI:1049427246
+
+1052. PREDICTED: Nannospalax galili myoglobin (Mb), mRNA
+1,053 bp linear mRNA 
+XM_008843088.1 GI:674068543
+
+1053. PREDICTED: Manacus vitellinus myoglobin (MB), mRNA
+1,331 bp linear mRNA 
+XM_008931582.2 GI:1062849811
+
+1054. PREDICTED: Merops nubicus androglobin (ADGB), partial mRNA
+3,057 bp linear mRNA 
+XM_008939276.1 GI:675617970
+
+1055. PREDICTED: Merops nubicus myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_008944613.1 GI:675628812
+
+1056. PREDICTED: Pan paniscus myoglobin (MB), transcript variant X1, mRNA
+1,120 bp linear mRNA 
+XM_008974991.1 GI:675764462
+
+1057. PREDICTED: Pan paniscus myoglobin (MB), transcript variant X2, mRNA
+1,231 bp linear mRNA 
+XM_008974992.1 GI:675764466
+
+1058. PREDICTED: Callithrix jacchus myoglobin (MB), transcript variant X2, mRNA
+1,103 bp linear mRNA 
+XM_009009915.1 GI:675641251
+
+1059. PREDICTED: Callithrix jacchus myoglobin (MB), transcript variant X3, mRNA
+1,008 bp linear mRNA 
+XM_009009918.2 GI:1060937160
+
+1060. Helobdella robusta hypothetical protein partial mRNA
+648 bp linear mRNA 
+XM_009018122.1 GI:675861619
+
+1061. Helobdella robusta hypothetical protein partial mRNA
+816 bp linear mRNA 
+XM_009024107.1 GI:675873589
+
+1062. Lottia gigantea hypothetical protein partial mRNA
+552 bp linear mRNA 
+XM_009054577.1 GI:676451801
+
+1063. Lottia gigantea hypothetical protein mRNA
+1,388 bp linear mRNA 
+XM_009055374.1 GI:676454257
+
+1064. Lottia gigantea hypothetical protein mRNA
+1,521 bp linear mRNA 
+XM_009055375.1 GI:676454260
+
+1065. Lottia gigantea hypothetical protein partial mRNA
+967 bp linear mRNA 
+XM_009057542.1 GI:676460952
+
+1066. Lottia gigantea hypothetical protein partial mRNA
+735 bp linear mRNA 
+XM_009058845.1 GI:676464972
+
+1067. Lottia gigantea hypothetical protein mRNA
+724 bp linear mRNA 
+XM_009058992.1 GI:676465424
+
+1068. Lottia gigantea hypothetical protein mRNA
+1,665 bp linear mRNA 
+XM_009059768.1 GI:676467835
+
+1069. Lottia gigantea hypothetical protein partial mRNA
+6,505 bp linear mRNA 
+XM_009062157.1 GI:676475229
+
+1070. Lottia gigantea hypothetical protein partial mRNA
+315 bp linear mRNA 
+XM_009064926.1 GI:676483906
+
+1071. PREDICTED: Acanthisitta chloris myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_009075827.1 GI:677984628
+
+1072. PREDICTED: Acanthisitta chloris androglobin (ADGB), mRNA
+4,659 bp linear mRNA 
+XM_009082824.1 GI:678010989
+
+1073. PREDICTED: Serinus canaria myoglobin (MB), mRNA
+1,242 bp linear mRNA 
+XM_009086440.2 GI:1095979835
+
+1074. Opisthorchis viverrini hypothetical protein partial mRNA
+921 bp linear mRNA 
+XM_009165648.1 GI:684371856
+
+1075. Opisthorchis viverrini hypothetical protein partial mRNA
+555 bp linear mRNA 
+XM_009168448.1 GI:684380709
+
+1076. Opisthorchis viverrini hypothetical protein partial mRNA
+1,007 bp linear mRNA 
+XM_009174361.1 GI:684399801
+
+1077. Opisthorchis viverrini hypothetical protein partial mRNA
+526 bp linear mRNA 
+XM_009174362.1 GI:684399804
+
+1078. PREDICTED: Aptenodytes forsteri androglobin (ADGB), mRNA
+4,746 bp linear mRNA 
+XM_009281545.1 GI:686606635
+
+1079. PREDICTED: Pygoscelis adeliae androglobin (ADGB), mRNA
+4,635 bp linear mRNA 
+XM_009325596.1 GI:690423420
+
+1080. PREDICTED: Pygoscelis adeliae myoglobin (MB), mRNA
+1,260 bp linear mRNA 
+XM_009332595.1 GI:690464116
+
+1081. PREDICTED: Nipponia nippon androglobin (ADGB), mRNA
+4,818 bp linear mRNA 
+XM_009466342.1 GI:694847106
+
+1082. PREDICTED: Nipponia nippon myoglobin (MB), mRNA
+791 bp linear mRNA 
+XM_009475152.1 GI:694862970
+
+1083. PREDICTED: Pelecanus crispus myoglobin (MB), mRNA
+788 bp linear mRNA 
+XM_009489009.1 GI:694665360
+
+1084. PREDICTED: Phalacrocorax carbo myoglobin (MB), mRNA
+788 bp linear mRNA 
+XM_009500459.1 GI:695142984
+
+1085. PREDICTED: Phalacrocorax carbo androglobin (ADGB), partial mRNA
+4,035 bp linear mRNA 
+XM_009511419.1 GI:695162816
+
+1086. PREDICTED: Cuculus canorus myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_009568371.1 GI:697001232
+
+1087. PREDICTED: Fulmarus glacialis myoglobin (MB), mRNA
+752 bp linear mRNA 
+XM_009577450.1 GI:697027692
+
+1088. PREDICTED: Egretta garzetta androglobin (ADGB), mRNA
+5,037 bp linear mRNA 
+XM_009646975.1 GI:697849819
+
+1089. PREDICTED: Egretta garzetta myoglobin (MB), mRNA
+792 bp linear mRNA 
+XM_009647808.1 GI:697819479
+
+1090. PREDICTED: Struthio camelus australis androglobin (ADGB), mRNA
+4,903 bp linear mRNA 
+XM_009668767.1 GI:697460698
+
+1091. PREDICTED: Struthio camelus australis myoglobin (MB), mRNA
+781 bp linear mRNA 
+XM_009684347.1 GI:697510410
+
+1092. PREDICTED: Cariama cristata androglobin (ADGB), mRNA
+4,701 bp linear mRNA 
+XM_009695248.1 GI:698412604
+
+1093. PREDICTED: Cariama cristata myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_009699388.1 GI:698433542
+
+1094. PREDICTED: Gavia stellata myoglobin (MB), mRNA
+788 bp linear mRNA 
+XM_009808353.1 GI:698393287
+
+1095. PREDICTED: Apaloderma vittatum myoglobin (MB), mRNA
+755 bp linear mRNA 
+XM_009877777.1 GI:699570592
+
+1096. PREDICTED: Charadrius vociferus myoglobin (MB), mRNA
+757 bp linear mRNA 
+XM_009881873.1 GI:699650248
+
+1097. PREDICTED: Charadrius vociferus androglobin (ADGB), mRNA
+4,776 bp linear mRNA 
+XM_009895541.1 GI:699637396
+
+1098. PREDICTED: Picoides pubescens androglobin (ADGB), mRNA
+4,635 bp linear mRNA 
+XM_009898774.1 GI:699654155
+
+1099. PREDICTED: Picoides pubescens myoglobin (MB), mRNA
+756 bp linear mRNA 
+XM_009902531.1 GI:699671698
+
+1100. PREDICTED: Haliaeetus albicilla androglobin (ADGB), partial mRNA
+3,023 bp linear mRNA 
+XM_009918515.1 GI:700345705
+
+1101. PREDICTED: Haliaeetus albicilla myoglobin (MB), mRNA
+756 bp linear mRNA 
+XM_009919605.1 GI:700347716
+
+1102. PREDICTED: Opisthocomus hoazin androglobin (ADGB), mRNA
+4,638 bp linear mRNA 
+XM_009932115.1 GI:700381184
+
+1103. PREDICTED: Opisthocomus hoazin myoglobin (MB), mRNA
+756 bp linear mRNA 
+XM_009944031.1 GI:700375821
+
+1104. PREDICTED: Leptosomus discolor androglobin (ADGB), partial mRNA
+4,657 bp linear mRNA 
+XM_009946261.1 GI:700413488
+
+1105. PREDICTED: Leptosomus discolor myoglobin (MB), mRNA
+788 bp linear mRNA 
+XM_009957193.1 GI:700433228
+
+1106. PREDICTED: Tyto alba myoglobin (MB), mRNA
+789 bp linear mRNA 
+XM_009974685.1 GI:701419021
+
+1107. PREDICTED: Tauraco erythrolophus myoglobin (MB), mRNA
+752 bp linear mRNA 
+XM_009980595.1 GI:701332661
+
+1108. PREDICTED: Tauraco erythrolophus androglobin (ADGB), partial mRNA
+2,143 bp linear mRNA 
+XM_009983777.1 GI:701342849
+
+1109. PREDICTED: Chaetura pelagica androglobin (ADGB), mRNA
+4,845 bp linear mRNA 
+XM_010000011.1 GI:701409873
+
+1110. PREDICTED: Chaetura pelagica myoglobin (MB), mRNA
+759 bp linear mRNA 
+XM_010005771.1 GI:701431417
+
+1111. PREDICTED: Nestor notabilis androglobin (ADGB), partial mRNA
+2,541 bp linear mRNA 
+XM_010018442.1 GI:701311415
+
+1112. PREDICTED: Nestor notabilis myoglobin (MB), mRNA
+759 bp linear mRNA 
+XM_010022255.1 GI:701323772
+
+1113. PREDICTED: Pterocles gutturalis myoglobin (MB), mRNA
+755 bp linear mRNA 
+XM_010072782.1 GI:704456209
+
+1114. PREDICTED: Chlamydotis macqueenii androglobin (ADGB), partial mRNA
+3,144 bp linear mRNA 
+XM_010122088.1 GI:705685781
+
+1115. PREDICTED: Chlamydotis macqueenii myoglobin (MB), mRNA
+785 bp linear mRNA 
+XM_010125402.1 GI:705660363
+
+1116. PREDICTED: Buceros rhinoceros silvestris androglobin (ADGB), partial mRNA
+3,239 bp linear mRNA 
+XM_010132337.1 GI:704167853
+
+1117. PREDICTED: Buceros rhinoceros silvestris myoglobin (MB), transcript variant X1, mRNA
+758 bp linear mRNA 
+XM_010143298.1 GI:704199248
+
+1118. PREDICTED: Buceros rhinoceros silvestris myoglobin (MB), transcript variant X2, mRNA
+750 bp linear mRNA 
+XM_010143299.1 GI:704199252
+
+1119. PREDICTED: Eurypyga helias myoglobin (MB), mRNA
+786 bp linear mRNA 
+XM_010147182.1 GI:704243193
+
+1120. PREDICTED: Caprimulgus carolinensis myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_010171608.1 GI:704323687
+
+1121. PREDICTED: Mesitornis unicolor myoglobin (MB), mRNA
+752 bp linear mRNA 
+XM_010183151.1 GI:704556774
+
+1122. PREDICTED: Colius striatus androglobin (ADGB), partial mRNA
+4,654 bp linear mRNA 
+XM_010207323.1 GI:706147626
+
+1123. PREDICTED: Colius striatus myoglobin (MB), mRNA
+758 bp linear mRNA 
+XM_010208715.1 GI:706151549
+
+1124. PREDICTED: Tinamus guttatus myoglobin (MB), partial mRNA
+639 bp linear mRNA 
+XM_010218147.1 GI:719761918
+
+1125. PREDICTED: Phaethon lepturus myoglobin (MB), mRNA
+788 bp linear mRNA 
+XM_010284503.1 GI:723132652
+
+1126. PREDICTED: Phaethon lepturus androglobin-like (LOC104624564), partial mRNA
+2,011 bp linear mRNA 
+XM_010291967.1 GI:723122917
+
+1127. PREDICTED: Balearica regulorum gibbericeps androglobin (ADGB), partial mRNA
+4,670 bp linear mRNA 
+XM_010301856.1 GI:723556437
+
+1128. PREDICTED: Balearica regulorum gibbericeps myoglobin (MB), mRNA
+787 bp linear mRNA 
+XM_010305844.1 GI:723567414
+
+1129. PREDICTED: Rhinopithecus roxellana androglobin (ADGB), partial mRNA
+4,889 bp linear mRNA 
+XM_010352854.1 GI:724948314
+
+1130. PREDICTED: Rhinopithecus roxellana myoglobin (MB), transcript variant X1, mRNA
+1,121 bp linear mRNA 
+XM_010389140.1 GI:724946427
+
+1131. PREDICTED: Rhinopithecus roxellana myoglobin (MB), transcript variant X2, mRNA
+1,310 bp linear mRNA 
+XM_010389141.1 GI:724946429
+
+1132. PREDICTED: Rhinopithecus roxellana myoglobin (MB), transcript variant X3, mRNA
+1,225 bp linear mRNA 
+XM_010389142.1 GI:724946431
+
+1133. PREDICTED: Corvus cornix cornix myoglobin (MB), mRNA
+1,234 bp linear mRNA 
+XM_010410505.3 GI:1166707753
+
+1134. PREDICTED: Haliaeetus leucocephalus androglobin (ADGB), mRNA
+4,815 bp linear mRNA 
+XM_010584512.1 GI:729771016
+
+1135. PREDICTED: Haliaeetus leucocephalus myoglobin (MB), mRNA
+756 bp linear mRNA 
+XM_010585379.1 GI:729725528
+
+1136. PREDICTED: Loxodonta africana androglobin (ADGB), mRNA
+5,010 bp linear mRNA 
+XM_010587211.1 GI:731452968
+
+1137. PREDICTED: Fukomys damarensis myoglobin (Mb), mRNA
+820 bp linear mRNA 
+XM_010615915.2 GI:1104964124
+
+1138. PREDICTED: Meleagris gallopavo androglobin (ADGB), mRNA
+5,403 bp linear mRNA 
+XM_010707152.2 GI:1121930325
+
+1139. PREDICTED: Larimichthys crocea myoglobin (mb), transcript variant X1, mRNA
+761 bp linear mRNA 
+XM_010740557.2 GI:1109019050
+
+1140. PREDICTED: Larimichthys crocea myoglobin (mb), transcript variant X2, mRNA
+759 bp linear mRNA 
+XM_010740558.2 GI:1109019051
+
+1141. PREDICTED: Bison bison bison myoglobin (MB), transcript variant X1, mRNA
+1,148 bp linear mRNA 
+XM_010859616.1 GI:742201215
+
+1142. PREDICTED: Bison bison bison myoglobin (MB), transcript variant X2, mRNA
+1,081 bp linear mRNA 
+XM_010859617.1 GI:742201219
+
+1143. PREDICTED: Bison bison bison androglobin (ADGB), mRNA
+5,459 bp linear mRNA 
+XM_010862563.1 GI:742213345
+
+1144. PREDICTED: Esox lucius myoglobin (mb), transcript variant X1, mRNA
+985 bp linear mRNA 
+XM_010863896.3 GI:1137505887
+
+1145. PREDICTED: Esox lucius myoglobin (mb), transcript variant X2, mRNA
+1,192 bp linear mRNA 
+XM_010863898.3 GI:1137505888
+
+1146. PREDICTED: Camelus bactrianus myoglobin (MB), mRNA
+1,117 bp linear mRNA 
+XM_010946041.1 GI:743695964
+
+1147. PREDICTED: Camelus dromedarius myoglobin (MB), mRNA
+1,122 bp linear mRNA 
+XM_010989922.1 GI:744594069
+
+1148. PREDICTED: Acromyrmex echinatior cytoglobin (LOC105147701), mRNA
+1,024 bp linear mRNA 
+XM_011058891.1 GI:746853205
+
+1149. PREDICTED: Harpegnathos saltator globin (LOC105191139), transcript variant X1, mRNA
+3,173 bp linear mRNA 
+XM_011154329.2 GI:1126603895
+
+1150. PREDICTED: Harpegnathos saltator globin (LOC105191139), transcript variant X2, mRNA
+3,077 bp linear mRNA 
+XM_011154330.2 GI:1126603896
+
+1151. PREDICTED: Harpegnathos saltator globin (LOC105191139), transcript variant X3, mRNA
+3,018 bp linear mRNA 
+XM_011154331.2 GI:1126603897
+
+1152. PREDICTED: Solenopsis invicta cytoglobin-2 (LOC105203733), mRNA
+1,051 bp linear mRNA 
+XM_011172616.1 GI:751202202
+
+1153. PREDICTED: Bactrocera cucurbitae uncharacterized LOC105216124 (LOC105216124), mRNA
+1,358 bp linear mRNA 
+XM_011190444.1 GI:751467335
+
+1154. PREDICTED: Bactrocera cucurbitae cytoglobin-1-like (LOC105218244), transcript variant X1, mRNA
+1,012 bp linear mRNA 
+XM_011193688.1 GI:751473281
+
+1155. PREDICTED: Bactrocera cucurbitae cytoglobin-1-like (LOC105218244), transcript variant X2, mRNA
+882 bp linear mRNA 
+XM_011193689.1 GI:751473283
+
+1156. PREDICTED: Bactrocera cucurbitae globin CTT-VIIB-7-like (LOC105218245), mRNA
+714 bp linear mRNA 
+XM_011193690.1 GI:751473285
+
+1157. PREDICTED: Bactrocera dorsalis cytoglobin-1 (LOC105234089), transcript variant X1, mRNA
+1,455 bp linear mRNA 
+XM_011216332.2 GI:1132376707
+
+1158. PREDICTED: Bactrocera dorsalis cytoglobin-1 (LOC105234089), transcript variant X2, mRNA
+1,576 bp linear mRNA 
+XM_011216333.2 GI:1132376708
+
+1159. PREDICTED: Mus musculus androglobin (Adgb), transcript variant X2, mRNA
+5,531 bp linear mRNA 
+XM_011243160.2 GI:1039732639
+
+1160. PREDICTED: Mus musculus androglobin (Adgb), transcript variant X5, mRNA
+5,398 bp linear mRNA 
+XM_011243163.2 GI:1039732643
+
+1161. PREDICTED: Camponotus floridanus uncharacterized LOC105251744 (LOC105251744), mRNA
+1,016 bp linear mRNA 
+XM_011258726.2 GI:1134630018
+
+1162. PREDICTED: Camponotus floridanus globin (LOC105257816), transcript variant X1, mRNA
+962 bp linear mRNA 
+XM_011268686.2 GI:1134640274
+
+1163. PREDICTED: Camponotus floridanus globin (LOC105257816), transcript variant X2, mRNA
+1,032 bp linear mRNA 
+XM_011268687.2 GI:1134640275
+
+1164. PREDICTED: Fopius arisanus uncharacterized LOC105269782 (LOC105269782), transcript variant X1, mRNA
+1,254 bp linear mRNA 
+XM_011310303.1 GI:755978497
+
+1165. PREDICTED: Fopius arisanus uncharacterized LOC105269782 (LOC105269782), transcript variant X2, mRNA
+1,224 bp linear mRNA 
+XM_011310304.1 GI:755978500
+
+1166. PREDICTED: Fopius arisanus cytoglobin-2 (LOC105270788), transcript variant X1, mRNA
+1,823 bp linear mRNA 
+XM_011311953.1 GI:755929296
+
+1167. PREDICTED: Fopius arisanus cytoglobin-2 (LOC105270788), transcript variant X2, mRNA
+1,717 bp linear mRNA 
+XM_011311961.1 GI:755929299
+
+1168. PREDICTED: Cerapachys biroi cytoglobin-2 (LOC105288209), transcript variant X1, mRNA
+1,050 bp linear mRNA 
+XM_011354290.2 GI:1134644418
+
+1169. PREDICTED: Cerapachys biroi cytoglobin-2 (LOC105288209), transcript variant X2, mRNA
+1,026 bp linear mRNA 
+XM_011354291.2 GI:1134644419
+
+1170. PREDICTED: Pteropus vampyrus androglobin (ADGB), mRNA
+4,701 bp linear mRNA 
+XM_011356222.1 GI:759108721
+
+1171. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X1, mRNA
+1,208 bp linear mRNA 
+XM_011387218.1 GI:759103116
+
+1172. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X2, mRNA
+1,528 bp linear mRNA 
+XM_011387222.1 GI:759103119
+
+1173. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X3, mRNA
+1,176 bp linear mRNA 
+XM_011387229.1 GI:759103122
+
+1174. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X4, mRNA
+1,124 bp linear mRNA 
+XM_011387235.1 GI:759103126
+
+1175. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X5, mRNA
+1,124 bp linear mRNA 
+XM_011387239.1 GI:759103129
+
+1176. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X6, mRNA
+1,642 bp linear mRNA 
+XM_011387245.1 GI:759103132
+
+1177. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X7, mRNA
+1,783 bp linear mRNA 
+XM_011387251.1 GI:759103135
+
+1178. PREDICTED: Pteropus vampyrus myoglobin (MB), transcript variant X8, mRNA
+1,235 bp linear mRNA 
+XM_011387258.1 GI:759103138
+
+1179. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X1, mRNA
+7,766 bp linear mRNA 
+XM_011424732.2 GI:1139855682
+
+1180. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X2, mRNA
+7,228 bp linear mRNA 
+XM_011424733.2 GI:1139855683
+
+1181. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X3, mRNA
+7,751 bp linear mRNA 
+XM_011424734.2 GI:1139855684
+
+1182. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X4, mRNA
+7,738 bp linear mRNA 
+XM_011424735.2 GI:1139855685
+
+1183. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X5, mRNA
+7,720 bp linear mRNA 
+XM_011424736.2 GI:1139855686
+
+1184. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X6, mRNA
+7,717 bp linear mRNA 
+XM_011424737.2 GI:1139855687
+
+1185. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X7, mRNA
+7,705 bp linear mRNA 
+XM_011424738.2 GI:1139855688
+
+1186. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X8, mRNA
+7,707 bp linear mRNA 
+XM_011424739.2 GI:1139855689
+
+1187. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X9, mRNA
+7,699 bp linear mRNA 
+XM_011424740.2 GI:1139855690
+
+1188. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X10, mRNA
+6,665 bp linear mRNA 
+XM_011424741.2 GI:1139855691
+
+1189. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X11, mRNA
+7,672 bp linear mRNA 
+XM_011424742.2 GI:1139855692
+
+1190. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X12, mRNA
+7,670 bp linear mRNA 
+XM_011424743.2 GI:1139855693
+
+1191. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X14, mRNA
+7,208 bp linear mRNA 
+XM_011424744.2 GI:1139855696
+
+1192. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X16, mRNA
+6,911 bp linear mRNA 
+XM_011424745.2 GI:1139855699
+
+1193. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X17, mRNA
+7,152 bp linear mRNA 
+XM_011424747.2 GI:1139855700
+
+1194. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X20, mRNA
+6,875 bp linear mRNA 
+XM_011424748.2 GI:1139855705
+
+1195. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X21, mRNA
+7,042 bp linear mRNA 
+XM_011424749.2 GI:1139855706
+
+1196. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X25, mRNA
+6,902 bp linear mRNA 
+XM_011424750.2 GI:1139855713
+
+1197. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X26, mRNA
+6,846 bp linear mRNA 
+XM_011424751.2 GI:1139855714
+
+1198. PREDICTED: Crassostrea gigas androglobin (LOC105325259), transcript variant X27, mRNA
+7,448 bp linear mRNA 
+XM_011424752.2 GI:1139855715
+
+1199. PREDICTED: Crassostrea gigas globin (LOC105329250), mRNA
+569 bp linear mRNA 
+XM_011430442.2 GI:1139792860
+
+1200. PREDICTED: Crassostrea gigas cytoglobin-1 (LOC105335657), mRNA
+1,840 bp linear mRNA 
+XM_011439649.2 GI:1139815591
+
+1201. PREDICTED: Crassostrea gigas cytoglobin-2 (LOC105335888), transcript variant X1, mRNA
+924 bp linear mRNA 
+XM_011440022.2 GI:1139816103
+
+1202. PREDICTED: Crassostrea gigas cytoglobin-2 (LOC105335888), transcript variant X2, mRNA
+853 bp linear mRNA 
+XM_011440023.2 GI:1139816104
+
+1203. PREDICTED: Crassostrea gigas cytoglobin-2 (LOC105335888), transcript variant X3, mRNA
+911 bp linear mRNA 
+XM_011440024.2 GI:1139816105
+
+1204. PREDICTED: Crassostrea gigas uncharacterized LOC105337182 (LOC105337182), mRNA
+1,668 bp linear mRNA 
+XM_011441814.2 GI:1139818533
+
+1205. PREDICTED: Crassostrea gigas neuroglobin (LOC105341131), transcript variant X2, mRNA
+885 bp linear mRNA 
+XM_011447481.2 GI:1139825690
+
+1206. PREDICTED: Crassostrea gigas neuroglobin (LOC105341131), transcript variant X1, mRNA
+1,096 bp linear mRNA 
+XM_011447482.2 GI:1139825689
+
+1207. PREDICTED: Crassostrea gigas globin (Globin), transcript variant X1, mRNA
+1,150 bp linear mRNA 
+XM_011451572.2 GI:1139831119
+
+1208. PREDICTED: Crassostrea gigas globin (Globin), transcript variant X2, mRNA
+1,472 bp linear mRNA 
+XM_011451573.2 GI:1139831120
+
+1209. PREDICTED: Crassostrea gigas uncharacterized LOC105345164 (LOC105345164), mRNA
+2,003 bp linear mRNA 
+XM_011453226.2 GI:1139833466
+
+1210. PREDICTED: Crassostrea gigas neuroglobin (LOC105346371), mRNA
+1,961 bp linear mRNA 
+XM_011454914.2 GI:1139835561
+
+1211. PREDICTED: Crassostrea gigas myoglobin (LOC105347935), transcript variant X1, mRNA
+2,660 bp linear mRNA 
+XM_011457190.2 GI:1139838383
+
+1212. PREDICTED: Crassostrea gigas myoglobin (LOC105347935), transcript variant X2, mRNA
+2,599 bp linear mRNA 
+XM_011457191.2 GI:1139838384
+
+1213. PREDICTED: Ceratosolen solmsi marchali globin (LOC105362188), mRNA
+1,165 bp linear mRNA 
+XM_011499550.1 GI:766931349
+
+1214. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X3, mRNA
+5,269 bp linear mRNA 
+XM_011536125.2 GI:1034651685
+
+1215. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X4, mRNA
+5,266 bp linear mRNA 
+XM_011536126.1 GI:767943576
+
+1216. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X6, mRNA
+6,928 bp linear mRNA 
+XM_011536127.2 GI:1034651688
+
+1217. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X7, mRNA
+5,141 bp linear mRNA 
+XM_011536128.2 GI:1034651689
+
+1218. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X8, mRNA
+5,217 bp linear mRNA 
+XM_011536130.2 GI:1034651690
+
+1219. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X9, mRNA
+4,491 bp linear mRNA 
+XM_011536131.2 GI:1034651691
+
+1220. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X10, mRNA
+4,079 bp linear mRNA 
+XM_011536132.2 GI:1034651692
+
+1221. PREDICTED: Homo sapiens androglobin (ADGB), transcript variant X11, mRNA
+6,772 bp linear mRNA 
+XM_011536134.2 GI:1034651693
+
+1222. PREDICTED: Plutella xylostella globin-like (LOC105393842), mRNA
+746 bp linear mRNA 
+XM_011565654.1 GI:768444222
+
+1223. PREDICTED: Aquila chrysaetos canadensis androglobin (ADGB), mRNA
+4,864 bp linear mRNA 
+XM_011591988.1 GI:768389520
+
+1224. PREDICTED: Aquila chrysaetos canadensis myoglobin (MB), mRNA
+1,277 bp linear mRNA 
+XM_011593871.1 GI:768393052
+
+1225. PREDICTED: Pogonomyrmex barbatus cytoglobin-2 (LOC105422720), mRNA
+1,088 bp linear mRNA 
+XM_011632209.1 GI:769838702
+
+1226. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X1, mRNA
+7,493 bp linear mRNA 
+XM_011662308.1 GI:780171385
+
+1227. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X2, mRNA
+7,492 bp linear mRNA 
+XM_011662309.1 GI:780171390
+
+1228. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X3, mRNA
+7,489 bp linear mRNA 
+XM_011662310.1 GI:780171396
+
+1229. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X4, mRNA
+7,480 bp linear mRNA 
+XM_011662311.1 GI:780171403
+
+1230. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X5, mRNA
+7,477 bp linear mRNA 
+XM_011662312.1 GI:780171409
+
+1231. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X6, mRNA
+7,471 bp linear mRNA 
+XM_011662313.1 GI:780171415
+
+1232. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X7, mRNA
+7,468 bp linear mRNA 
+XM_011662314.1 GI:780171420
+
+1233. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X8, mRNA
+7,462 bp linear mRNA 
+XM_011662315.1 GI:780171425
+
+1234. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X9, mRNA
+7,463 bp linear mRNA 
+XM_011662316.1 GI:780171430
+
+1235. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X10, mRNA
+7,459 bp linear mRNA 
+XM_011662317.1 GI:780171435
+
+1236. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X11, mRNA
+7,459 bp linear mRNA 
+XM_011662318.1 GI:780171442
+
+1237. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X12, mRNA
+7,448 bp linear mRNA 
+XM_011662319.1 GI:780171450
+
+1238. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X13, mRNA
+7,438 bp linear mRNA 
+XM_011662320.1 GI:780171455
+
+1239. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X14, mRNA
+7,435 bp linear mRNA 
+XM_011662321.1 GI:780171460
+
+1240. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X15, mRNA
+7,420 bp linear mRNA 
+XM_011662322.1 GI:780171465
+
+1241. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X16, mRNA
+7,411 bp linear mRNA 
+XM_011662323.1 GI:780171470
+
+1242. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X17, mRNA
+7,386 bp linear mRNA 
+XM_011662324.1 GI:780171475
+
+1243. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X18, mRNA
+7,387 bp linear mRNA 
+XM_011662325.1 GI:780171481
+
+1244. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X19, mRNA
+7,384 bp linear mRNA 
+XM_011662326.1 GI:780171489
+
+1245. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X20, mRNA
+7,369 bp linear mRNA 
+XM_011662327.1 GI:780171494
+
+1246. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X21, mRNA
+7,320 bp linear mRNA 
+XM_011662328.1 GI:780171499
+
+1247. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X22, mRNA
+7,304 bp linear mRNA 
+XM_011662329.1 GI:780171504
+
+1248. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X23, mRNA
+6,931 bp linear mRNA 
+XM_011662330.1 GI:780171509
+
+1249. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X24, mRNA
+7,014 bp linear mRNA 
+XM_011662331.1 GI:780171514
+
+1250. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X25, mRNA
+7,025 bp linear mRNA 
+XM_011662332.1 GI:780171521
+
+1251. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X26, mRNA
+6,902 bp linear mRNA 
+XM_011662333.1 GI:780171526
+
+1252. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X27, mRNA
+6,247 bp linear mRNA 
+XM_011662334.1 GI:780171532
+
+1253. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X28, mRNA
+6,275 bp linear mRNA 
+XM_011662335.1 GI:780171537
+
+1254. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X29, mRNA
+6,915 bp linear mRNA 
+XM_011662336.1 GI:780171541
+
+1255. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X30, mRNA
+5,939 bp linear mRNA 
+XM_011662337.1 GI:780171546
+
+1256. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X31, mRNA
+6,246 bp linear mRNA 
+XM_011662338.1 GI:780171551
+
+1257. PREDICTED: Strongylocentrotus purpuratus androglobin (LOC754582), transcript variant X32, mRNA
+6,065 bp linear mRNA 
+XM_011662339.1 GI:780171556
+
+1258. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC763287 (LOC763287), transcript variant X2, mRNA
+6,212 bp linear mRNA 
+XM_011672532.1 GI:780064624
+
+1259. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC763287 (LOC763287), transcript variant X3, mRNA
+6,212 bp linear mRNA 
+XM_011672533.1 GI:780064629
+
+1260. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC763287 (LOC763287), transcript variant X4, mRNA
+5,756 bp linear mRNA 
+XM_011672534.1 GI:780064636
+
+1261. PREDICTED: Strongylocentrotus purpuratus uncharacterized LOC763287 (LOC763287), transcript variant X5, mRNA
+5,756 bp linear mRNA 
+XM_011672535.1 GI:780064639
+
+1262. PREDICTED: Wasmannia auropunctata cytoglobin-2 (LOC105455316), transcript variant X1, mRNA
+1,054 bp linear mRNA 
+XM_011698547.1 GI:780677824
+
+1263. PREDICTED: Wasmannia auropunctata cytoglobin-2 (LOC105455316), transcript variant X2, mRNA
+1,065 bp linear mRNA 
+XM_011698548.1 GI:780677830
+
+1264. PREDICTED: Wasmannia auropunctata cytoglobin-2 (LOC105455316), transcript variant X3, mRNA
+1,072 bp linear mRNA 
+XM_011698549.1 GI:780677834
+
+1265. PREDICTED: Wasmannia auropunctata cytoglobin-2 (LOC105455316), transcript variant X4, mRNA
+1,204 bp linear mRNA 
+XM_011698550.1 GI:780677838
+
+1266. PREDICTED: Macaca nemestrina myoglobin (MB), transcript variant X1, mRNA
+1,222 bp linear mRNA 
+XM_011712526.1 GI:795504706
+
+1267. PREDICTED: Macaca nemestrina myoglobin (MB), transcript variant X2, mRNA
+1,106 bp linear mRNA 
+XM_011712527.1 GI:795504711
+
+1268. PREDICTED: Macaca nemestrina androglobin (ADGB), transcript variant X1, mRNA
+5,341 bp linear mRNA 
+XM_011753533.1 GI:795384552
+
+1269. PREDICTED: Macaca nemestrina androglobin (ADGB), transcript variant X2, mRNA
+5,338 bp linear mRNA 
+XM_011753534.1 GI:795384555
+
+1270. PREDICTED: Colobus angolensis palliatus androglobin (ADGB), mRNA
+5,335 bp linear mRNA 
+XM_011959441.1 GI:795292005
+
+1271. PREDICTED: Colobus angolensis palliatus myoglobin (MB), transcript variant X1, mRNA
+1,230 bp linear mRNA 
+XM_011961143.1 GI:795307335
+
+1272. PREDICTED: Colobus angolensis palliatus myoglobin (MB), transcript variant X2, mRNA
+1,084 bp linear mRNA 
+XM_011961144.1 GI:795307343
+
+1273. PREDICTED: Colobus angolensis palliatus myoglobin (MB), transcript variant X3, mRNA
+1,030 bp linear mRNA 
+XM_011961145.1 GI:795307351
+
+1274. PREDICTED: Colobus angolensis palliatus myoglobin (MB), transcript variant X4, mRNA
+1,055 bp linear mRNA 
+XM_011961146.1 GI:795307359
+
+1275. PREDICTED: Mandrillus leucophaeus androglobin (ADGB), mRNA
+5,331 bp linear mRNA 
+XM_011974447.1 GI:795104748
+
+1276. PREDICTED: Mandrillus leucophaeus myoglobin (MB), transcript variant X1, mRNA
+1,233 bp linear mRNA 
+XM_011978963.1 GI:795130868
+
+1277. PREDICTED: Mandrillus leucophaeus myoglobin (MB), transcript variant X2, mRNA
+1,087 bp linear mRNA 
+XM_011978964.1 GI:795130872
+
+1278. PREDICTED: Mandrillus leucophaeus myoglobin (MB), transcript variant X3, mRNA
+1,033 bp linear mRNA 
+XM_011978965.1 GI:795130876
+
+1279. PREDICTED: Mandrillus leucophaeus myoglobin (MB), transcript variant X4, mRNA
+1,058 bp linear mRNA 
+XM_011978966.1 GI:795130878
+
+1280. PREDICTED: Vollenhovia emeryi globin (LOC105561828), transcript variant X1, mRNA
+1,567 bp linear mRNA 
+XM_012012169.1 GI:795043337
+
+1281. PREDICTED: Vollenhovia emeryi globin (LOC105561828), transcript variant X3, mRNA
+1,507 bp linear mRNA 
+XM_012012170.1 GI:795043342
+
+1282. PREDICTED: Vollenhovia emeryi globin (LOC105561828), transcript variant X4, mRNA
+953 bp linear mRNA 
+XM_012012171.1 GI:795043359
+
+1283. PREDICTED: Cercocebus atys myoglobin (MB), transcript variant X1, mRNA
+1,128 bp linear mRNA 
+XM_012038043.1 GI:795483722
+
+1284. PREDICTED: Cercocebus atys myoglobin (MB), transcript variant X2, mRNA
+1,228 bp linear mRNA 
+XM_012038044.1 GI:795483726
+
+1285. PREDICTED: Cercocebus atys myoglobin (MB), transcript variant X3, mRNA
+1,118 bp linear mRNA 
+XM_012038045.1 GI:795483730
+
+1286. PREDICTED: Cercocebus atys androglobin (ADGB), mRNA
+5,298 bp linear mRNA 
+XM_012066624.1 GI:795279834
+
+1287. PREDICTED: Ovis aries musimon androglobin (ADGB), mRNA
+6,848 bp linear mRNA 
+XM_012121505.2 GI:965811892
+
+1288. PREDICTED: Ovis aries myoglobin (MB), transcript variant X1, mRNA
+1,176 bp linear mRNA 
+XM_012159955.2 GI:965923352
+
+1289. PREDICTED: Ovis aries androglobin (ADGB), mRNA
+7,417 bp linear mRNA 
+XM_012183068.2 GI:965951114
+
+1290. PREDICTED: Atta cephalotes cytoglobin-2 (LOC105620266), mRNA
+819 bp linear mRNA 
+XM_012201770.1 GI:801388791
+
+1291. PREDICTED: Megachile rotundata globin (LOC100878495), transcript variant X1, mRNA
+1,392 bp linear mRNA 
+XM_012294332.1 GI:805819147
+
+1292. PREDICTED: Ceratitis capitata cytoglobin-1 (LOC101449031), transcript variant X2, mRNA
+1,543 bp linear mRNA 
+XM_012302703.2 GI:1184335301
+
+1293. PREDICTED: Ceratitis capitata uncharacterized LOC105665401 (LOC105665401), mRNA
+829 bp linear mRNA 
+XM_012306319.2 GI:1184360514
+
+1294. PREDICTED: Linepithema humile uncharacterized LOC105671417 (LOC105671417), mRNA
+872 bp linear mRNA 
+XM_012365569.1 GI:815800673
+
+1295. PREDICTED: Linepithema humile hemoglobin subunit beta (LOC105677173), mRNA
+999 bp linear mRNA 
+XM_012375596.1 GI:815819667
+
+1296. PREDICTED: Athalia rosae uncharacterized LOC105693911 (LOC105693911), transcript variant X1, mRNA
+1,710 bp linear mRNA 
+XM_012414163.2 GI:1183211183
+
+1297. PREDICTED: Athalia rosae uncharacterized LOC105693911 (LOC105693911), transcript variant X3, mRNA
+1,460 bp linear mRNA 
+XM_012414164.2 GI:1183211185
+
+1298. PREDICTED: Athalia rosae hemoglobin-2 (LOC105693936), transcript variant X1, mRNA
+1,672 bp linear mRNA 
+XM_012414203.2 GI:1183211056
+
+1299. PREDICTED: Athalia rosae hemoglobin-2 (LOC105693936), transcript variant X2, mRNA
+1,530 bp linear mRNA 
+XM_012414204.2 GI:1183211057
+
+1300. PREDICTED: Athalia rosae hemoglobin-2 (LOC105693936), transcript variant X3, mRNA
+1,380 bp linear mRNA 
+XM_012414205.2 GI:1183211058
+
+1301. PREDICTED: Aotus nancymaae myoglobin (MB), transcript variant X1, mRNA
+1,204 bp linear mRNA 
+XM_012434300.1 GI:817325631
+
+1302. PREDICTED: Aotus nancymaae myoglobin (MB), transcript variant X2, mRNA
+1,097 bp linear mRNA 
+XM_012434301.1 GI:817325633
+
+1303. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X1, mRNA
+5,254 bp linear mRNA 
+XM_012452659.1 GI:817255291
+
+1304. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X2, mRNA
+5,254 bp linear mRNA 
+XM_012452667.1 GI:817255295
+
+1305. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X3, mRNA
+5,185 bp linear mRNA 
+XM_012452674.1 GI:817255298
+
+1306. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X4, mRNA
+5,125 bp linear mRNA 
+XM_012452684.1 GI:817255301
+
+1307. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X5, mRNA
+5,047 bp linear mRNA 
+XM_012452694.1 GI:817255304
+
+1308. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X6, mRNA
+4,915 bp linear mRNA 
+XM_012452703.1 GI:817255307
+
+1309. PREDICTED: Aotus nancymaae androglobin (ADGB), transcript variant X7, mRNA
+6,287 bp linear mRNA 
+XM_012452713.1 GI:817255311
+
+1310. PREDICTED: Apis florea globin (LOC100870092), transcript variant X2, mRNA
+628 bp linear mRNA 
+XM_012494448.1 GI:820837546
+
+1311. PREDICTED: Sarcophilus harrisii androglobin (ADGB), mRNA
+4,125 bp linear mRNA 
+XM_012549390.1 GI:821484096
+
+1312. PREDICTED: Odobenus rosmarus divergens myoglobin (MB), transcript variant X4, mRNA
+730 bp linear mRNA 
+XM_012567994.1 GI:823435862
+
+1313. PREDICTED: Propithecus coquereli myoglobin (MB), transcript variant X1, mRNA
+668 bp linear mRNA 
+XM_012644725.1 GI:826294908
+
+1314. PREDICTED: Propithecus coquereli myoglobin (MB), transcript variant X2, mRNA
+605 bp linear mRNA 
+XM_012644726.1 GI:826294911
+
+1315. PREDICTED: Monomorium pharaonis globin (LOC105829313), transcript variant X2, mRNA
+1,084 bp linear mRNA 
+XM_012668050.1 GI:826417414
+
+1316. PREDICTED: Bombyx mori globin 1 (Glob1), transcript variant X1, mRNA
+1,386 bp linear mRNA 
+XM_012689974.1 GI:827536991
+
+1317. PREDICTED: Bombyx mori globin 1 (Glob1), transcript variant X2, mRNA
+1,091 bp linear mRNA 
+XM_012689981.1 GI:827536993
+
+1318. PREDICTED: Bombyx mori globin 1 (Glob1), transcript variant X3, mRNA
+906 bp linear mRNA 
+XM_012689987.1 GI:827536995
+
+1319. PREDICTED: Bombyx mori globin 1 (Glob1), transcript variant X4, mRNA
+871 bp linear mRNA 
+XM_012689996.1 GI:827536997
+
+1320. PREDICTED: Bombyx mori globin 1 (Glob1), transcript variant X5, mRNA
+923 bp linear mRNA 
+XM_012690006.1 GI:827536999
+
+1321. PREDICTED: Hydra vulgaris uncharacterized LOC105848003 (LOC105848003), mRNA
+945 bp linear mRNA 
+XM_012707898.1 GI:828193463
+
+1322. PREDICTED: Hydra vulgaris uncharacterized LOC105851027 (LOC105851027), transcript variant X1, mRNA
+919 bp linear mRNA 
+XM_012711718.1 GI:828196060
+
+1323. PREDICTED: Condylura cristata myoglobin (MB), transcript variant X1, mRNA
+1,062 bp linear mRNA 
+XM_012734808.1 GI:829989640
+
+1324. PREDICTED: Condylura cristata myoglobin (MB), transcript variant X2, mRNA
+973 bp linear mRNA 
+XM_012734815.1 GI:829989645
+
+1325. PREDICTED: Microcebus murinus myoglobin (MB), mRNA
+1,132 bp linear mRNA 
+XM_012787097.2 GI:1149878620
+
+1326. PREDICTED: Clupea harengus myoglobin (mb), mRNA
+862 bp linear mRNA 
+XM_012836002.1 GI:831317525
+
+1327. PREDICTED: Fundulus heteroclitus myoglobin (mb), mRNA
+853 bp linear mRNA 
+XM_012850507.1 GI:831487794
+
+1328. PREDICTED: Maylandia zebra myoglobin (LOC101479296), transcript variant X3, mRNA
+758 bp linear mRNA 
+XM_012923741.1 GI:835979834
+
+1329. PREDICTED: Sorex araneus androglobin (ADGB), mRNA
+4,380 bp linear mRNA 
+XM_012932840.1 GI:836707102
+
+1330. Schistosoma haematobium Globin-3 mRNA
+450 bp linear mRNA 
+XM_012940309.1 GI:844851680
+
+1331. Schistosoma haematobium hypothetical protein mRNA
+432 bp linear mRNA 
+XM_012943406.1 GI:844864440
+
+1332. Schistosoma haematobium Myoglobin mRNA
+1,077 bp linear mRNA 
+XM_012944711.1 GI:844870025
+
+1333. PREDICTED: Dipodomys ordii myoglobin (Mb), mRNA
+510 bp linear mRNA 
+XM_013024841.1 GI:852774043
+
+1334. PREDICTED: Aplysia californica globin-like (LOC101848420), mRNA
+1,608 bp linear mRNA 
+XM_013079728.1 GI:871217109
+
+1335. PREDICTED: Aplysia californica uncharacterized LOC106011421 (LOC106011421), mRNA
+1,028 bp linear mRNA 
+XM_013081006.1 GI:871224381
+
+1336. PREDICTED: Aplysia californica uncharacterized LOC101847919 (LOC101847919), mRNA
+1,652 bp linear mRNA 
+XM_013081865.1 GI:871206806
+
+1337. PREDICTED: Aplysia californica androglobin-like (LOC101849391), mRNA
+7,699 bp linear mRNA 
+XM_013085985.1 GI:871251786
+
+1338. PREDICTED: Aplysia californica neuroglobin-like (LOC101861383), transcript variant X1, mRNA
+1,887 bp linear mRNA 
+XM_013086582.1 GI:871255121
+
+1339. PREDICTED: Aplysia californica neuroglobin-like (LOC101861383), transcript variant X2, mRNA
+2,264 bp linear mRNA 
+XM_013086583.1 GI:871255124
+
+1340. PREDICTED: Aplysia californica neuroglobin-like (LOC101861383), transcript variant X3, mRNA
+1,875 bp linear mRNA 
+XM_013086584.1 GI:871255127
+
+1341. PREDICTED: Aplysia californica neuroglobin-like (LOC101861383), transcript variant X4, mRNA
+1,979 bp linear mRNA 
+XM_013086585.1 GI:871255130
+
+1342. PREDICTED: Aplysia californica neuroglobin-like (LOC101861383), transcript variant X5, mRNA
+1,822 bp linear mRNA 
+XM_013086586.1 GI:871255133
+
+1343. PREDICTED: Aplysia californica uncharacterized LOC106013620 (LOC106013620), mRNA
+904 bp linear mRNA 
+XM_013089847.1 GI:871272222
+
+1344. PREDICTED: Anas platyrhynchos androglobin (ADGB), transcript variant X1, mRNA
+4,996 bp linear mRNA 
+XM_013101411.1 GI:874479238
+
+1345. PREDICTED: Anas platyrhynchos androglobin (ADGB), transcript variant X2, mRNA
+4,422 bp linear mRNA 
+XM_013101412.1 GI:874479240
+
+1346. PREDICTED: Melopsittacus undulatus androglobin (LOC101868938), mRNA
+4,944 bp linear mRNA 
+XM_013129283.1 GI:884816557
+
+1347. PREDICTED: Anser cygnoides domesticus androglobin (ADGB), mRNA
+5,401 bp linear mRNA 
+XM_013178197.1 GI:902888202
+
+1348. PREDICTED: Anser cygnoides domesticus myoglobin (MB), mRNA
+1,329 bp linear mRNA 
+XM_013180849.1 GI:902893927
+
+1349. PREDICTED: Biomphalaria glabrata uncharacterized LOC106050210 (LOC106050210), partial mRNA
+639 bp linear mRNA 
+XM_013205160.1 GI:908496448
+
+1350. PREDICTED: Biomphalaria glabrata uncharacterized LOC106050211 (LOC106050211), partial mRNA
+1,730 bp linear mRNA 
+XM_013205161.1 GI:908496450
+
+1351. PREDICTED: Biomphalaria glabrata cytoglobin-2-like (LOC106050630), mRNA
+1,504 bp linear mRNA 
+XM_013205652.1 GI:908497803
+
+1352. PREDICTED: Biomphalaria glabrata uncharacterized LOC106051185 (LOC106051185), mRNA
+909 bp linear mRNA 
+XM_013206334.1 GI:908499697
+
+1353. PREDICTED: Biomphalaria glabrata uncharacterized LOC106051722 (LOC106051722), mRNA
+2,366 bp linear mRNA 
+XM_013206929.1 GI:908407749
+
+1354. PREDICTED: Biomphalaria glabrata uncharacterized LOC106051747 (LOC106051747), partial mRNA
+2,104 bp linear mRNA 
+XM_013206950.1 GI:908501407
+
+1355. PREDICTED: Biomphalaria glabrata uncharacterized LOC106051763 (LOC106051763), mRNA
+5,602 bp linear mRNA 
+XM_013206969.1 GI:908407758
+
+1356. PREDICTED: Biomphalaria glabrata globin-like (LOC106051915), mRNA
+357 bp linear mRNA 
+XM_013207129.1 GI:908501880
+
+1357. PREDICTED: Biomphalaria glabrata uncharacterized LOC106051916 (LOC106051916), mRNA
+3,861 bp linear mRNA 
+XM_013207130.1 GI:908501882
+
+1358. PREDICTED: Biomphalaria glabrata globin-like (LOC106054046), mRNA
+3,785 bp linear mRNA 
+XM_013209756.1 GI:908408431
+
+1359. PREDICTED: Biomphalaria glabrata neuroglobin-like (LOC106056885), mRNA
+886 bp linear mRNA 
+XM_013213796.1 GI:908416019
+
+1360. PREDICTED: Biomphalaria glabrata uncharacterized LOC106067556 (LOC106067556), mRNA
+561 bp linear mRNA 
+XM_013226751.1 GI:908450714
+
+1361. PREDICTED: Biomphalaria glabrata globin-like (LOC106073906), mRNA
+485 bp linear mRNA 
+XM_013234585.1 GI:908475414
+
+1362. PREDICTED: Biomphalaria glabrata uncharacterized LOC106073907 (LOC106073907), mRNA
+1,647 bp linear mRNA 
+XM_013234586.1 GI:908475417
+
+1363. PREDICTED: Biomphalaria glabrata globin (LOC106074788), partial mRNA
+1,431 bp linear mRNA 
+XM_013235628.1 GI:908478425
+
+1364. PREDICTED: Biomphalaria glabrata globin-like (LOC106075456), partial mRNA
+774 bp linear mRNA 
+XM_013236390.1 GI:908480572
+
+1365. PREDICTED: Biomphalaria glabrata uncharacterized LOC106077292 (LOC106077292), mRNA
+6,930 bp linear mRNA 
+XM_013238060.1 GI:908485707
+
+1366. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X1, mRNA
+5,843 bp linear mRNA 
+XM_013238735.1 GI:908406733
+
+1367. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X2, mRNA
+5,834 bp linear mRNA 
+XM_013238743.1 GI:908406735
+
+1368. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X3, mRNA
+5,834 bp linear mRNA 
+XM_013238748.1 GI:908406737
+
+1369. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X4, mRNA
+5,831 bp linear mRNA 
+XM_013238757.1 GI:908406739
+
+1370. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X5, mRNA
+5,828 bp linear mRNA 
+XM_013238763.1 GI:908406741
+
+1371. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X6, mRNA
+5,813 bp linear mRNA 
+XM_013238771.1 GI:908406743
+
+1372. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X7, mRNA
+5,765 bp linear mRNA 
+XM_013238778.1 GI:908406745
+
+1373. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X8, mRNA
+5,807 bp linear mRNA 
+XM_013238783.1 GI:908406747
+
+1374. PREDICTED: Biomphalaria glabrata globin-like (LOC106078046), mRNA
+1,012 bp linear mRNA 
+XM_013238788.1 GI:908487787
+
+1375. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X9, mRNA
+5,800 bp linear mRNA 
+XM_013238790.1 GI:908406749
+
+1376. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X10, mRNA
+5,791 bp linear mRNA 
+XM_013238798.1 GI:908406751
+
+1377. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X11, mRNA
+5,791 bp linear mRNA 
+XM_013238805.1 GI:908406753
+
+1378. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X12, mRNA
+5,785 bp linear mRNA 
+XM_013238813.1 GI:908406755
+
+1379. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X13, mRNA
+5,785 bp linear mRNA 
+XM_013238821.1 GI:908406757
+
+1380. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X14, mRNA
+5,761 bp linear mRNA 
+XM_013238827.1 GI:908406759
+
+1381. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X15, mRNA
+5,758 bp linear mRNA 
+XM_013238834.1 GI:908406761
+
+1382. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X16, mRNA
+5,749 bp linear mRNA 
+XM_013238842.1 GI:908406763
+
+1383. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X17, mRNA
+5,742 bp linear mRNA 
+XM_013238850.1 GI:908406765
+
+1384. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X18, mRNA
+5,757 bp linear mRNA 
+XM_013238857.1 GI:908406767
+
+1385. PREDICTED: Biomphalaria glabrata androglobin-like (LOC106078008), transcript variant X19, mRNA
+5,718 bp linear mRNA 
+XM_013238862.1 GI:908406769
+
+1386. PREDICTED: Stomoxys calcitrans globin CTT-VI (LOC106081907), transcript variant X1, mRNA
+1,078 bp linear mRNA 
+XM_013244170.1 GI:907635808
+
+1387. PREDICTED: Stomoxys calcitrans globin CTT-VI (LOC106081907), transcript variant X2, mRNA
+1,725 bp linear mRNA 
+XM_013244171.1 GI:907635814
+
+1388. PREDICTED: Stomoxys calcitrans globin CTT-VI (LOC106081907), transcript variant X3, mRNA
+1,034 bp linear mRNA 
+XM_013244172.1 GI:907635819
+
+1389. PREDICTED: Papilio polytes globin-like (LOC106107066), transcript variant X1, mRNA
+1,131 bp linear mRNA 
+XM_013287758.1 GI:909574977
+
+1390. PREDICTED: Papilio polytes globin-like (LOC106107066), transcript variant X2, mRNA
+1,175 bp linear mRNA 
+XM_013287759.1 GI:909574979
+
+1391. PREDICTED: Papilio polytes globin-like (LOC106107066), transcript variant X3, mRNA
+1,228 bp linear mRNA 
+XM_013287760.1 GI:909574981
+
+1392. PREDICTED: Papilio polytes globin-like (LOC106107066), transcript variant X4, mRNA
+1,314 bp linear mRNA 
+XM_013287761.1 GI:909574983
+
+1393. PREDICTED: Papilio polytes globin-like (LOC106107078), mRNA
+986 bp linear mRNA 
+XM_013287778.1 GI:909575016
+
+1394. PREDICTED: Papilio xuthus globin-like (LOC106118872), transcript variant X1, mRNA
+1,309 bp linear mRNA 
+XM_013313632.1 GI:910331510
+
+1395. PREDICTED: Papilio xuthus globin-like (LOC106118872), transcript variant X2, mRNA
+1,269 bp linear mRNA 
+XM_013313633.1 GI:910331512
+
+1396. PREDICTED: Papilio xuthus globin-like (LOC106118872), transcript variant X3, mRNA
+1,274 bp linear mRNA 
+XM_013313634.1 GI:910331514
+
+1397. PREDICTED: Papilio xuthus globin (LOC106118873), mRNA
+613 bp linear mRNA 
+XM_013313635.1 GI:910331516
+
+1398. PREDICTED: Amyelois transitella globin (LOC106142479), transcript variant X1, mRNA
+1,729 bp linear mRNA 
+XM_013344242.1 GI:913300624
+
+1399. PREDICTED: Amyelois transitella globin (LOC106142479), transcript variant X2, mRNA
+1,746 bp linear mRNA 
+XM_013344243.1 GI:913300626
+
+1400. PREDICTED: Amyelois transitella uncharacterized globin-like protein aq_211 (LOC106142480), transcript variant X1, mRNA
+1,501 bp linear mRNA 
+XM_013344244.1 GI:913300629
+
+1401. PREDICTED: Amyelois transitella uncharacterized globin-like protein aq_211 (LOC106142480), transcript variant X2, mRNA
+1,712 bp linear mRNA 
+XM_013344245.1 GI:913300631
+
+1402. PREDICTED: Amyelois transitella uncharacterized globin-like protein aq_211 (LOC106142480), transcript variant X3, mRNA
+1,500 bp linear mRNA 
+XM_013344246.1 GI:913300633
+
+1403. Necator americanus globin mRNA
+522 bp linear mRNA 
+XM_013435360.1 GI:915231800
+
+1404. Necator americanus globin mRNA
+585 bp linear mRNA 
+XM_013436437.1 GI:915235334
+
+1405. Necator americanus globin mRNA
+645 bp linear mRNA 
+XM_013436505.1 GI:915235559
+
+1406. Necator americanus hypothetical protein mRNA
+801 bp linear mRNA 
+XM_013440706.1 GI:915249212
+
+1407. Necator americanus hypothetical protein mRNA
+582 bp linear mRNA 
+XM_013441337.1 GI:915251441
+
+1408. Necator americanus globin mRNA
+714 bp linear mRNA 
+XM_013441687.1 GI:915252553
+
+1409. Necator americanus hypothetical protein mRNA
+387 bp linear mRNA 
+XM_013441996.1 GI:915253807
+
+1410. Necator americanus hypothetical protein mRNA
+849 bp linear mRNA 
+XM_013442159.1 GI:915254330
+
+1411. Necator americanus hypothetical protein partial mRNA
+261 bp linear mRNA 
+XM_013442612.1 GI:915255956
+
+1412. Necator americanus hypothetical protein mRNA
+597 bp linear mRNA 
+XM_013443616.1 GI:915259541
+
+1413. Necator americanus hypothetical protein partial mRNA
+549 bp linear mRNA 
+XM_013443650.1 GI:915259691
+
+1414. Necator americanus globin mRNA
+693 bp linear mRNA 
+XM_013444305.1 GI:915262038
+
+1415. Necator americanus globin partial mRNA
+711 bp linear mRNA 
+XM_013444404.1 GI:915262352
+
+1416. Necator americanus globin mRNA
+744 bp linear mRNA 
+XM_013444579.1 GI:915262942
+
+1417. Necator americanus globin mRNA
+711 bp linear mRNA 
+XM_013446019.1 GI:915267858
+
+1418. Necator americanus hypothetical protein mRNA
+486 bp linear mRNA 
+XM_013447495.1 GI:915273195
+
+1419. Necator americanus globin mRNA
+546 bp linear mRNA 
+XM_013447966.1 GI:915274829
+
+1420. Necator americanus hypothetical protein mRNA
+567 bp linear mRNA 
+XM_013448798.1 GI:915277703
+
+1421. Necator americanus globin mRNA
+525 bp linear mRNA 
+XM_013449587.1 GI:915280395
+
+1422. Necator americanus hypothetical protein mRNA
+309 bp linear mRNA 
+XM_013451808.1 GI:915287808
+
+1423. Necator americanus globin mRNA
+738 bp linear mRNA 
+XM_013453280.1 GI:915292532
+
+1424. Necator americanus hypothetical protein mRNA
+693 bp linear mRNA 
+XM_013454018.1 GI:915294930
+
+1425. PREDICTED: Lingula anatina uncharacterized LOC106153897 (LOC106153897), mRNA
+769 bp linear mRNA 
+XM_013528033.1 GI:919005133
+
+1426. PREDICTED: Lingula anatina globin-like (LOC106154532), mRNA
+640 bp linear mRNA 
+XM_013528903.1 GI:919095069
+
+1427. PREDICTED: Lingula anatina globin-like (LOC106154567), mRNA
+1,758 bp linear mRNA 
+XM_013528959.1 GI:919095253
+
+1428. PREDICTED: Lingula anatina uncharacterized LOC106178556 (LOC106178556), mRNA
+727 bp linear mRNA 
+XM_013561775.1 GI:919071828
+
+1429. PREDICTED: Lingula anatina androglobin-like (LOC106179853), mRNA
+6,666 bp linear mRNA 
+XM_013563643.1 GI:919003702
+
+1430. PREDICTED: Lingula anatina androglobin-like (LOC106180350), mRNA
+4,160 bp linear mRNA 
+XM_013564317.1 GI:919077305
+
+1431. PREDICTED: Limulus polyphemus globin-like (LOC106460849), mRNA
+1,518 bp linear mRNA 
+XM_013920595.1 GI:926621426
+
+1432. PREDICTED: Limulus polyphemus non-symbiotic hemoglobin 2-like (LOC106467029), mRNA
+528 bp linear mRNA 
+XM_013927338.1 GI:926633932
+
+1433. PREDICTED: Limulus polyphemus cytoglobin-2-like (LOC106469949), mRNA
+465 bp linear mRNA 
+XM_013930470.1 GI:926639709
+
+1434. PREDICTED: Limulus polyphemus globin C, coelomic-like (LOC106472497), mRNA
+1,068 bp linear mRNA 
+XM_013933152.1 GI:926644658
+
+1435. PREDICTED: Apteryx australis mantelli androglobin (ADGB), mRNA
+4,721 bp linear mRNA 
+XM_013945429.1 GI:926504101
+
+1436. PREDICTED: Apteryx australis mantelli myoglobin (MB), mRNA
+735 bp linear mRNA 
+XM_013947104.1 GI:926507292
+
+1437. PREDICTED: Capra hircus myoglobin (MB), transcript variant X1, mRNA
+1,190 bp linear mRNA 
+XM_013964067.2 GI:1062974007
+
+1438. PREDICTED: Sus scrofa androglobin (LOC100155164), transcript variant X1, mRNA
+4,682 bp linear mRNA 
+XM_013992504.1 GI:927093867
+
+1439. PREDICTED: Sus scrofa androglobin (LOC100155164), transcript variant X2, mRNA
+4,541 bp linear mRNA 
+XM_013992505.1 GI:927093869
+
+1440. PREDICTED: Sus scrofa androglobin (LOC100155164), transcript variant X3, mRNA
+4,435 bp linear mRNA 
+XM_013992506.1 GI:927093871
+
+1441. PREDICTED: Austrofundulus limnaeus myoglobin (mb), mRNA
+856 bp linear mRNA 
+XM_014004967.1 GI:928024429
+
+1442. PREDICTED: Thamnophis sirtalis androglobin (ADGB), mRNA
+3,552 bp linear mRNA 
+XM_014054730.1 GI:927131857
+
+1443. PREDICTED: Thamnophis sirtalis myoglobin (MB), mRNA
+465 bp linear mRNA 
+XM_014060542.1 GI:927150535
+
+1444. PREDICTED: Bactrocera oleae uncharacterized LOC106620939 (LOC106620939), mRNA
+730 bp linear mRNA 
+XM_014239612.1 GI:929370413
+
+1445. PREDICTED: Bactrocera oleae uncharacterized LOC106620949 (LOC106620949), mRNA
+675 bp linear mRNA 
+XM_014239625.1 GI:929370437
+
+1446. PREDICTED: Bactrocera oleae cytoglobin-1 (LOC106623344), transcript variant X1, mRNA
+952 bp linear mRNA 
+XM_014242811.1 GI:929376255
+
+1447. PREDICTED: Bactrocera oleae cytoglobin-1 (LOC106623344), transcript variant X2, mRNA
+1,069 bp linear mRNA 
+XM_014242813.1 GI:929376257
+
+1448. PREDICTED: Bactrocera oleae cytoglobin-1 (LOC106623344), transcript variant X3, mRNA
+926 bp linear mRNA 
+XM_014242814.1 GI:929376259
+
+1449. PREDICTED: Bactrocera oleae cytoglobin-1 (LOC106623344), transcript variant X4, mRNA
+1,110 bp linear mRNA 
+XM_014242815.1 GI:929376261
+
+1450. PREDICTED: Bactrocera oleae cytoglobin-1-like (LOC106625764), partial mRNA
+450 bp linear mRNA 
+XM_014245594.1 GI:929381274
+
+1451. PREDICTED: Zonotrichia albicollis myoglobin (MB), mRNA
+801 bp linear mRNA 
+XM_014268176.1 GI:929483445
+
+1452. PREDICTED: Falco cherrug androglobin (ADGB), mRNA
+4,791 bp linear mRNA 
+XM_014286133.1 GI:929498642
+
+1453. PREDICTED: Pan paniscus myoglobin (MB), transcript variant X3, mRNA
+1,217 bp linear mRNA 
+XM_014343315.1 GI:931610732
+
+1454. PREDICTED: Copidosoma floridanum globin (LOC106640825), mRNA
+2,692 bp linear mRNA 
+XM_014354989.1 GI:936561117
+
+1455. PREDICTED: Trichogramma pretiosum globin (LOC106658928), transcript variant X1, mRNA
+1,958 bp linear mRNA 
+XM_014381106.1 GI:936717318
+
+1456. PREDICTED: Trichogramma pretiosum globin (LOC106658928), transcript variant X2, mRNA
+1,997 bp linear mRNA 
+XM_014381107.1 GI:936717320
+
+1457. PREDICTED: Cimex lectularius neuroglobin-like (LOC106666107), mRNA
+976 bp linear mRNA 
+XM_014393014.1 GI:939257354
+
+1458. PREDICTED: Cimex lectularius uncharacterized LOC106673076 (LOC106673076), transcript variant X1, mRNA
+1,343 bp linear mRNA 
+XM_014405025.1 GI:939279834
+
+1459. PREDICTED: Halyomorpha halys uncharacterized LOC106680211 (LOC106680211), mRNA
+836 bp linear mRNA 
+XM_014419742.1 GI:939652602
+
+1460. PREDICTED: Halyomorpha halys cytoglobin-2-like (LOC106685364), mRNA
+1,145 bp linear mRNA 
+XM_014427990.1 GI:939674581
+
+1461. PREDICTED: Microplitis demolitor uncharacterized LOC103570446 (LOC103570446), mRNA
+1,072 bp linear mRNA 
+XM_014440395.1 GI:939646274
+
+1462. PREDICTED: Microplitis demolitor tissue inhibitor of metalloproteases (LOC103569669), transcript variant X2, mRNA
+1,156 bp linear mRNA 
+XM_014440615.1 GI:939648464
+
+1463. PREDICTED: Bos mutus myoglobin (MB), transcript variant X1, mRNA
+1,136 bp linear mRNA 
+XM_014478957.1 GI:942061100
+
+1464. PREDICTED: Bos mutus myoglobin (MB), transcript variant X3, mRNA
+1,059 bp linear mRNA 
+XM_014478958.1 GI:942061106
+
+1465. PREDICTED: Papilio machaon uncharacterized LOC106718010 (LOC106718010), mRNA
+774 bp linear mRNA 
+XM_014511999.1 GI:943971891
+
+1466. PREDICTED: Papilio machaon cytoglobin-1 (LOC106718152), mRNA
+807 bp linear mRNA 
+XM_014512162.1 GI:943972280
+
+1467. PREDICTED: Myotis brandtii myoglobin (MB), mRNA
+1,117 bp linear mRNA 
+XM_014532304.1 GI:946806645
+
+1468. PREDICTED: Pelodiscus sinensis androglobin (ADGB), mRNA
+4,840 bp linear mRNA 
+XM_014573086.1 GI:946610177
+
+1469. PREDICTED: Dinoponera quadriceps globin (LOC106746047), transcript variant X1, mRNA
+1,453 bp linear mRNA 
+XM_014622195.1 GI:951556445
+
+1470. PREDICTED: Dinoponera quadriceps globin (LOC106746047), transcript variant X2, mRNA
+1,432 bp linear mRNA 
+XM_014622196.1 GI:951556447
+
+1471. PREDICTED: Dinoponera quadriceps globin (LOC106746047), transcript variant X3, mRNA
+1,489 bp linear mRNA 
+XM_014622197.1 GI:951556450
+
+1472. PREDICTED: Dinoponera quadriceps globin (LOC106746047), transcript variant X4, mRNA
+1,426 bp linear mRNA 
+XM_014622198.1 GI:951556453
+
+1473. PREDICTED: Polistes canadensis globin CTT-E/E' (LOC106788884), mRNA
+923 bp linear mRNA 
+XM_014752582.1 GI:954568023
+
+1474. PREDICTED: Priapulus caudatus leghemoglobin-2-like (LOC106806629), mRNA
+1,369 bp linear mRNA 
+XM_014808631.1 GI:957828477
+
+1475. PREDICTED: Priapulus caudatus hemoglobin subunit mu-like (LOC106813237), transcript variant X1, mRNA
+1,008 bp linear mRNA 
+XM_014817330.1 GI:957819043
+
+1476. PREDICTED: Priapulus caudatus hemoglobin subunit mu-like (LOC106813237), transcript variant X2, mRNA
+782 bp linear mRNA 
+XM_014817336.1 GI:957819045
+
+1477. PREDICTED: Priapulus caudatus neuroglobin-like (LOC106816235), mRNA
+692 bp linear mRNA 
+XM_014820813.1 GI:957852416
+
+1478. PREDICTED: Priapulus caudatus neuroglobin-like (LOC106816532), mRNA
+658 bp linear mRNA 
+XM_014821158.1 GI:957853453
+
+1479. PREDICTED: Priapulus caudatus hemoglobin subunit epsilon-like (LOC106819334), partial mRNA
+388 bp linear mRNA 
+XM_014823979.1 GI:957862018
+
+1480. PREDICTED: Equus asinus myoglobin (MB), mRNA
+1,198 bp linear mRNA 
+XM_014832701.1 GI:958814313
+
+1481. PREDICTED: Sturnus vulgaris myoglobin (MB), mRNA
+1,222 bp linear mRNA 
+XM_014889297.1 GI:959081984
+
+1482. Drosophila ananassae uncharacterized protein, transcript variant B (Dana\GF16470), mRNA
+949 bp linear mRNA 
+XM_014910505.1 GI:964154720
+
+1483. PREDICTED: Octopus bimaculoides globin-like (LOC106874088), mRNA
+865 bp linear mRNA 
+XM_014921689.1 GI:961106036
+
+1484. PREDICTED: Octopus bimaculoides cytoglobin-1-like (LOC106879146), mRNA
+2,182 bp linear mRNA 
+XM_014928584.1 GI:961125539
+
+1485. PREDICTED: Octopus bimaculoides neuroglobin-like (LOC106879404), mRNA
+786 bp linear mRNA 
+XM_014928949.1 GI:961126589
+
+1486. PREDICTED: Calidris pugnax androglobin (ADGB), mRNA
+4,812 bp linear mRNA 
+XM_014950504.1 GI:960981576
+
+1487. PREDICTED: Calidris pugnax myoglobin (MB), mRNA
+1,269 bp linear mRNA 
+XM_014964335.1 GI:961007575
+
+1488. PREDICTED: Acinonyx jubatus myoglobin (MB), mRNA
+765 bp linear mRNA 
+XM_015079195.1 GI:961747879
+
+1489. PREDICTED: Macaca mulatta myoglobin (MB), transcript variant X1, mRNA
+1,195 bp linear mRNA 
+XM_015150179.1 GI:966969084
+
+1490. Drosophila erecta uncharacterized protein, transcript variant B (Dere\GG20278), mRNA
+1,203 bp linear mRNA 
+XM_015154677.1 GI:968011785
+
+1491. Drosophila erecta uncharacterized protein, transcript variant C (Dere\GG20278), mRNA
+917 bp linear mRNA 
+XM_015154678.1 GI:968011787
+
+1492. Drosophila mojavensis uncharacterized protein, transcript variant B (Dmoj\GI24641), mRNA
+859 bp linear mRNA 
+XM_015167012.1 GI:968062559
+
+1493. Drosophila virilis globin 1 (Dvir\glob1), transcript variant B, mRNA
+902 bp linear mRNA 
+XM_015171741.1 GI:968103473
+
+1494. Drosophila willistoni uncharacterized protein, transcript variant B (Dwil\GK11857), mRNA
+653 bp linear mRNA 
+XM_015177389.1 GI:968075162
+
+1495. Drosophila yakuba uncharacterized protein, transcript variant B (Dyak\GE26348), mRNA
+1,097 bp linear mRNA 
+XM_015192663.1 GI:969479237
+
+1496. Drosophila yakuba uncharacterized protein, transcript variant C (Dyak\GE26348), mRNA
+957 bp linear mRNA 
+XM_015192664.1 GI:969479241
+
+1497. Drosophila yakuba uncharacterized protein, transcript variant D (Dyak\GE26348), mRNA
+1,195 bp linear mRNA 
+XM_015192665.1 GI:969479245
+
+1498. Drosophila yakuba uncharacterized protein, transcript variant E (Dyak\GE26348), mRNA
+1,237 bp linear mRNA 
+XM_015192666.1 GI:969479248
+
+1499. PREDICTED: Diachasma alloeum globin (LOC107036403), mRNA
+2,079 bp linear mRNA 
+XM_015254346.1 GI:970889259
+
+1500. PREDICTED: Diachasma alloeum uncharacterized LOC107038182 (LOC107038182), mRNA
+1,050 bp linear mRNA 
+XM_015257107.1 GI:970894315
+
+1501. PREDICTED: Polistes dominula globin CTT-E/E' (LOC107068386), mRNA
+620 bp linear mRNA 
+XM_015324715.1 GI:972196560
+
+1502. PREDICTED: Lepisosteus oculatus androglobin (adgb), transcript variant X1, mRNA
+6,766 bp linear mRNA 
+XM_015349148.1 GI:972950485
+
+1503. PREDICTED: Lepisosteus oculatus androglobin (adgb), transcript variant X2, mRNA
+6,697 bp linear mRNA 
+XM_015349156.1 GI:972950487
+
+1504. PREDICTED: Gekko japonicus cytoglobin-2-like (LOC107109297), mRNA
+1,009 bp linear mRNA 
+XM_015409894.1 GI:975100558
+
+1505. PREDICTED: Gekko japonicus myoglobin (MB), mRNA
+950 bp linear mRNA 
+XM_015410198.1 GI:975101110
+
+1506. PREDICTED: Gekko japonicus androglobin (ADGB), mRNA
+4,971 bp linear mRNA 
+XM_015426312.1 GI:975131587
+
+1507. PREDICTED: Macaca fascicularis androglobin (ADGB), transcript variant X2, mRNA
+5,337 bp linear mRNA 
+XM_015448942.1 GI:982244194
+
+1508. PREDICTED: Macaca fascicularis androglobin (ADGB), transcript variant X3, mRNA
+5,515 bp linear mRNA 
+XM_015448943.1 GI:982244196
+
+1509. PREDICTED: Macaca fascicularis myoglobin (MB), transcript variant X3, mRNA
+1,118 bp linear mRNA 
+XM_015457261.1 GI:982272352
+
+1510. PREDICTED: Marmota marmota marmota myoglobin (Mb), mRNA
+997 bp linear mRNA 
+XM_015482776.1 GI:984094386
+
+1511. PREDICTED: Diuraphis noxia giant hemoglobins B chain-like (LOC107169503), mRNA
+627 bp linear mRNA 
+XM_015519257.1 GI:985418559
+
+1512. PREDICTED: Diuraphis noxia globin-like (LOC107169417), mRNA
+444 bp linear mRNA 
+XM_015522548.1 GI:985384528
+
+1513. PREDICTED: Myotis davidii myoglobin (MB), mRNA
+1,102 bp linear mRNA 
+XM_015566206.1 GI:987952785
+
+1514. PREDICTED: Dufourea novaeangliae globin (LOC107189880), mRNA
+534 bp linear mRNA 
+XM_015578562.1 GI:987900735
+
+1515. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X1, mRNA
+1,384 bp linear mRNA 
+XM_015591530.1 GI:989963504
+
+1516. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X2, mRNA
+1,383 bp linear mRNA 
+XM_015591531.1 GI:989963508
+
+1517. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X3, mRNA
+1,361 bp linear mRNA 
+XM_015591532.1 GI:989963512
+
+1518. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X4, mRNA
+1,280 bp linear mRNA 
+XM_015591533.1 GI:989963516
+
+1519. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X6, mRNA
+1,475 bp linear mRNA 
+XM_015591534.1 GI:989963522
+
+1520. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X7, mRNA
+1,306 bp linear mRNA 
+XM_015591535.1 GI:989963526
+
+1521. PREDICTED: Pteropus alecto myoglobin (MB), transcript variant X8, mRNA
+1,149 bp linear mRNA 
+XM_015591536.1 GI:989963530
+
+1522. PREDICTED: Astyanax mexicanus androglobin (adgb), transcript variant X2, mRNA
+4,878 bp linear mRNA 
+XM_015607434.1 GI:992219713
+
+1523. PREDICTED: Astyanax mexicanus androglobin (adgb), transcript variant X4, mRNA
+4,732 bp linear mRNA 
+XM_015607436.1 GI:992219716
+
+1524. PREDICTED: Parus major myoglobin (MB), mRNA
+1,245 bp linear mRNA 
+XM_015629426.1 GI:998694634
+
+1525. PREDICTED: Neodiprion lecontei hemoglobin-2 (LOC107223214), mRNA
+1,253 bp linear mRNA 
+XM_015662826.1 GI:998515183
+
+1526. PREDICTED: Cephus cinctus uncharacterized LOC107267726 (LOC107267726), mRNA
+1,339 bp linear mRNA 
+XM_015739750.1 GI:1000745019
+
+1527. PREDICTED: Cephus cinctus cytoglobin-1-like (LOC107270387), transcript variant X1, mRNA
+915 bp linear mRNA 
+XM_015745347.1 GI:1000755787
+
+1528. PREDICTED: Cephus cinctus cytoglobin-1-like (LOC107270387), transcript variant X2, mRNA
+891 bp linear mRNA 
+XM_015745348.1 GI:1000755789
+
+1529. PREDICTED: Cephus cinctus globin (LOC107270393), transcript variant X1, mRNA
+1,410 bp linear mRNA 
+XM_015745363.1 GI:1000755815
+
+1530. PREDICTED: Cephus cinctus globin (LOC107270393), transcript variant X2, mRNA
+1,426 bp linear mRNA 
+XM_015745364.1 GI:1000755817
+
+1531. PREDICTED: Cephus cinctus globin (LOC107270393), transcript variant X3, mRNA
+1,253 bp linear mRNA 
+XM_015745365.1 GI:1000755819
+
+1532. PREDICTED: Protobothrops mucrosquamatus androglobin-like (LOC107296556), mRNA
+3,943 bp linear mRNA 
+XM_015825883.1 GI:1002604315
+
+1533. PREDICTED: Protobothrops mucrosquamatus myoglobin (MB), mRNA
+1,165 bp linear mRNA 
+XM_015831771.1 GI:1002566533
+
+1534. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X1, mRNA
+4,998 bp linear mRNA 
+XM_015858174.1 GI:1003761279
+
+1535. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X2, mRNA
+4,983 bp linear mRNA 
+XM_015858175.1 GI:1003761281
+
+1536. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X3, mRNA
+4,940 bp linear mRNA 
+XM_015858176.1 GI:1003761283
+
+1537. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X4, mRNA
+4,936 bp linear mRNA 
+XM_015858177.1 GI:1003761285
+
+1538. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X5, mRNA
+4,376 bp linear mRNA 
+XM_015858178.1 GI:1003761287
+
+1539. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X6, mRNA
+4,497 bp linear mRNA 
+XM_015858179.1 GI:1003761289
+
+1540. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X7, mRNA
+5,140 bp linear mRNA 
+XM_015858180.1 GI:1003761291
+
+1541. PREDICTED: Coturnix japonica androglobin (ADGB), transcript variant X8, mRNA
+4,118 bp linear mRNA 
+XM_015858181.1 GI:1003761294
+
+1542. PREDICTED: Coturnix japonica myoglobin (MB), mRNA
+820 bp linear mRNA 
+XM_015863455.1 GI:1003715251
+
+1543. PREDICTED: Acropora digitifera neuroglobin-like (LOC107327251), transcript variant X1, mRNA
+1,671 bp linear mRNA 
+XM_015892000.1 GI:1005489541
+
+1544. PREDICTED: Acropora digitifera neuroglobin-like (LOC107327251), transcript variant X2, mRNA
+1,645 bp linear mRNA 
+XM_015892001.1 GI:1005489543
+
+1545. PREDICTED: Acropora digitifera cytoglobin-2-like (LOC107333525), mRNA
+1,635 bp linear mRNA 
+XM_015898355.1 GI:1005432555
+
+1546. PREDICTED: Acropora digitifera androglobin-like (LOC107350485), mRNA
+5,068 bp linear mRNA 
+XM_015916710.1 GI:1005470630
+
+1547. PREDICTED: Tetranychus urticae globin-like (LOC107366531), mRNA
+1,079 bp linear mRNA 
+XM_015934152.1 GI:1005962759
+
+1548. PREDICTED: Nothobranchius furzeri myoglobin (LOC107382316), transcript variant X1, mRNA
+608 bp linear mRNA 
+XM_015954428.1 GI:1007739062
+
+1549. PREDICTED: Nothobranchius furzeri myoglobin (LOC107382316), transcript variant X2, mRNA
+650 bp linear mRNA 
+XM_015954429.1 GI:1007739064
+
+1550. PREDICTED: Tribolium castaneum uncharacterized LOC663571 (LOC663571), mRNA
+1,337 bp linear mRNA 
+XM_015982962.1 GI:1008450105
+
+1551. PREDICTED: Parasteatoda tepidariorum globin-like (LOC107443060), mRNA
+948 bp linear mRNA 
+XM_016056804.1 GI:1009553764
+
+1552. PREDICTED: Parasteatoda tepidariorum globin-like (LOC107444428), mRNA
+600 bp linear mRNA 
+XM_016058556.1 GI:1009561537
+
+1553. PREDICTED: Rousettus aegyptiacus androglobin (ADGB), mRNA
+5,385 bp linear mRNA 
+XM_016160280.1 GI:1012213007
+
+1554. PREDICTED: Rousettus aegyptiacus myoglobin (MB), mRNA
+1,114 bp linear mRNA 
+XM_016161816.1 GI:1012219057
+
+1555. Drosophila simulans uncharacterized protein (Dsim\GD19540), mRNA
+851 bp linear mRNA 
+XM_016175883.1 GI:1013923980
+
+1556. Drosophila simulans uncharacterized protein, transcript variant B (Dsim\GD20318), mRNA
+990 bp linear mRNA 
+XM_016176630.1 GI:1013926526
+
+1557. Drosophila simulans uncharacterized protein, transcript variant C (Dsim\GD20318), mRNA
+1,277 bp linear mRNA 
+XM_016176631.1 GI:1013926528
+
+1558. Drosophila simulans uncharacterized protein, transcript variant D (Dsim\GD20318), mRNA
+1,028 bp linear mRNA 
+XM_016176632.1 GI:1013926530
+
+1559. Drosophila simulans uncharacterized protein, transcript variant E (Dsim\GD20318), mRNA
+1,084 bp linear mRNA 
+XM_016176633.1 GI:1013926532
+
+1560. PREDICTED: Erinaceus europaeus androglobin (ADGB), mRNA
+5,322 bp linear mRNA 
+XM_016185892.1 GI:1016613082
+
+1561. PREDICTED: Miniopterus natalensis myoglobin (MB), mRNA
+602 bp linear mRNA 
+XM_016223452.1 GI:1016641075
+
+1562. PREDICTED: Sinocyclocheilus grahami myoglobin (LOC107598471), mRNA
+864 bp linear mRNA 
+XM_016289813.1 GI:1020479777
+
+1563. PREDICTED: Sinocyclocheilus anshuiensis myoglobin (LOC107700840), mRNA
+863 bp linear mRNA 
+XM_016502655.1 GI:1025172698
+
+1564. PREDICTED: Pan troglodytes myoglobin (MB), mRNA
+1,094 bp linear mRNA 
+XM_016939073.1 GI:1034141060
+
+1565. PREDICTED: Ictalurus punctatus myoglobin (mb), mRNA
+1,831 bp linear mRNA 
+XM_017457123.1 GI:1042336075
+
+1566. PREDICTED: Cebus capucinus imitator myoglobin (MB), transcript variant X1, mRNA
+1,241 bp linear mRNA 
+XM_017504027.1 GI:1044415970
+
+1567. PREDICTED: Cebus capucinus imitator myoglobin (MB), transcript variant X2, mRNA
+1,117 bp linear mRNA 
+XM_017504028.1 GI:1044415972
+
+1568. PREDICTED: Cebus capucinus imitator myoglobin (MB), transcript variant X3, mRNA
+1,028 bp linear mRNA 
+XM_017504029.1 GI:1044415974
+
+1569. PREDICTED: Manis javanica myoglobin (MB), mRNA
+1,120 bp linear mRNA 
+XM_017667572.1 GI:1048490599
+
+1570. PREDICTED: Pygocentrus nattereri myoglobin (mb), mRNA
+1,381 bp linear mRNA 
+XM_017712805.1 GI:1049257259
+
+1571. PREDICTED: Lepidothrix coronata myoglobin (MB), mRNA
+1,328 bp linear mRNA 
+XM_017823459.1 GI:1051191901
+
+1572. PREDICTED: Rhinopithecus bieti myoglobin (MB), transcript variant X1, mRNA
+1,225 bp linear mRNA 
+XM_017890116.1 GI:1059178440
+
+1573. PREDICTED: Rhinopithecus bieti myoglobin (MB), transcript variant X2, mRNA
+1,115 bp linear mRNA 
+XM_017890117.1 GI:1059178442
+
+1574. PREDICTED: Papio anubis myoglobin (MB), transcript variant X1, mRNA
+1,130 bp linear mRNA 
+XM_017945277.1 GI:1060507534
+
+1575. Schistosoma mansoni myoglobin 1, putative partial mRNA
+598 bp linear mRNA 
+XM_018799753.1 GI:1084311258
+
+1576. PREDICTED: Gorilla gorilla gorilla myoglobin (MB), transcript variant X1, mRNA
+1,120 bp linear mRNA 
+XM_019018564.1 GI:1099213669
+
+1577. PREDICTED: Gorilla gorilla gorilla myoglobin (MB), transcript variant X2, mRNA
+1,231 bp linear mRNA 
+XM_019018565.1 GI:1099213674
+
+1578. PREDICTED: Cyprinus carpio myoglobin (LOC109097774), mRNA
+1,326 bp linear mRNA 
+XM_019111401.1 GI:1101604571
+
+1579. PREDICTED: Panthera pardus myoglobin (MB), mRNA
+926 bp linear mRNA 
+XM_019446734.1 GI:1111118237
+
+1580. PREDICTED: Alligator mississippiensis myoglobin (MB), transcript variant X2, mRNA
+1,493 bp linear mRNA 
+XM_019489231.1 GI:1113759315
+
+1581. PREDICTED: Gavialis gangeticus myoglobin (MB), transcript variant X1, mRNA
+1,574 bp linear mRNA 
+XM_019515306.1 GI:1117328637
+
+1582. PREDICTED: Gavialis gangeticus myoglobin (MB), transcript variant X2, mRNA
+1,489 bp linear mRNA 
+XM_019515307.1 GI:1117328640
+
+1583. PREDICTED: Crocodylus porosus myoglobin (MB), transcript variant X1, mRNA
+1,567 bp linear mRNA 
+XM_019544822.1 GI:1121879053
+
+1584. PREDICTED: Crocodylus porosus myoglobin (MB), transcript variant X2, mRNA
+1,477 bp linear mRNA 
+XM_019544823.1 GI:1121879055
+
+1585. PREDICTED: Hipposideros armiger myoglobin (MB), mRNA
+530 bp linear mRNA 
+XM_019634059.1 GI:1121956928
+
+1586. PREDICTED: Rhinolophus sinicus myoglobin (MB), mRNA
+1,108 bp linear mRNA 
+XM_019728404.1 GI:1123940093
+
+1587. PREDICTED: Hippocampus comes myoglobin (mb), transcript variant X1, mRNA
+804 bp linear mRNA 
+XM_019862141.1 GI:1130005058
+
+1588. PREDICTED: Hippocampus comes myoglobin (mb), transcript variant X2, mRNA
+977 bp linear mRNA 
+XM_019862142.1 GI:1130005060
+
+1589. PREDICTED: Hippocampus comes myoglobin (mb), transcript variant X3, mRNA
+850 bp linear mRNA 
+XM_019862143.1 GI:1130005062
+
+1590. PREDICTED: Hippocampus comes myoglobin (mb), transcript variant X4, mRNA
+944 bp linear mRNA 
+XM_019862145.1 GI:1130005064
+
+1591. PREDICTED: Tursiops truncatus myoglobin (MB), mRNA
+1,071 bp linear mRNA 
+XM_019952116.1 GI:1131267473
+
+1592. PREDICTED: Bos indicus myoglobin (MB), mRNA
+1,098 bp linear mRNA 
+XM_019961276.1 GI:1131277978
+
+1593. PREDICTED: Crassostrea gigas myoglobin (LOC105347935), transcript variant X3, mRNA
+2,503 bp linear mRNA 
+XM_020075174.1 GI:1139838385
+
+1594. PREDICTED: Paralichthys olivaceus myoglobin (mb), mRNA
+797 bp linear mRNA 
+XM_020109596.1 GI:1143422129
+
+1595. PREDICTED: Castor canadensis myoglobin (Mb), mRNA
+1,038 bp linear mRNA 
+XM_020173932.1 GI:1147355073
+
+1596. PREDICTED: Rhincodon typus myoglobin (mb), mRNA
+1,808 bp linear mRNA 
+XM_020515584.1 GI:1160139925
+
+1597. PREDICTED: Labrus bergylta myoglobin (mb), mRNA
+535 bp linear mRNA 
+XM_020647691.1 GI:1168920591
+
+1598. PREDICTED: Pogona vitticeps myoglobin (MB), mRNA
+1,405 bp linear mRNA 
+XM_020787594.1 GI:1176282280
+
+1599. PREDICTED: Odocoileus virginianus texanus myoglobin (MB), transcript variant X1, mRNA
+1,187 bp linear mRNA 
+XM_020883907.1 GI:1187571448
+
+1600. PREDICTED: Odocoileus virginianus texanus myoglobin (MB), transcript variant X2, mRNA
+1,065 bp linear mRNA 
+XM_020883909.1 GI:1187571450
+
+1601. PREDICTED: Gallus gallus androglobin (ADGB), mRNA
+5,092 bp linear mRNA 
+XM_419656.5 GI:971388351
+
+1602. Anopheles gambiae str. PEST AGAP008434-PA (AgaP_AGAP008434) mRNA, complete cds
+651 bp linear mRNA 
+XM_555006.2 GI:158296657

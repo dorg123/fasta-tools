@@ -1,0 +1,230 @@
+LOCUS       NM_203378               1153 bp    mRNA    linear   PRI 07-MAY-2017
+DEFINITION  Homo sapiens myoglobin (MB), transcript variant 3, mRNA.
+ACCESSION   NM_203378
+VERSION     NM_203378.1  GI:44955887
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1153)
+  AUTHORS   Xu M, Lin J, Lei C, Liu J, Yuan R, Tan G and Liu M.
+  TITLE     High Level of Serum Myoglobin in Human Intracerebral Hemorrhage:
+            Implications for Large Hematoma Volume and Growth
+  JOURNAL   J Stroke Cerebrovasc Dis 25 (7), 1582-1589 (2016)
+   PUBMED   27056440
+  REMARK    GeneRIF: Myoglobin is associated with larger hematoma volume and
+            growth after adjusting potential confounding factors in
+            intracerebral hemorrhage.
+REFERENCE   2  (bases 1 to 1153)
+  AUTHORS   Taghdisi SM, Danesh NM, Ramezani M, Emrani AS and Abnous K.
+  TITLE     A novel electrochemical aptasensor based on Y-shape structure of
+            dual-aptamer-complementary strand conjugate for ultrasensitive
+            detection of myoglobin
+  JOURNAL   Biosens Bioelectron 80, 532-537 (2016)
+   PUBMED   26894983
+  REMARK    GeneRIF: In the absence of Mb, the Y-shape structure remains
+            intact. So, a weak electrochemical signal is observed. Upon
+            addition of target, the DApt leave the CS and bind to Mb, leading
+            to disassembly of Y-shape structure and following the addition of
+            Exo I, a strong electrochemical signal could be recorded.
+REFERENCE   3  (bases 1 to 1153)
+  AUTHORS   Cui T and Jiang MS.
+  TITLE     Myoglobin A79G polymorphism association with exercise-induced
+            skeletal muscle damage
+  JOURNAL   Genet. Mol. Res. 15 (2) (2016)
+   PUBMED   27323063
+  REMARK    GeneRIF: we found that the A79G polymorphism of the MB gene plays
+            an important role in influencing the development of
+            exercise-induced skeletal muscle damage.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1153)
+  AUTHORS   Shumyantseva VV, Bulko TV, Sigolaeva LV, Kuzikov AV and Archakov
+            AI.
+  TITLE     Electroanalysis of myoglobin based on electropolymerized
+            molecularly imprinted polymer poly-o-phenylenediamine and carbon
+            nanotubes/screen printed electrode
+  JOURNAL   Dokl. Biochem. Biophys. 468 (1), 213-216 (2016)
+   PUBMED   27417724
+  REMARK    GeneRIF: Electroanalysis of myoglobin as a marker of acute
+            myocardial infarction by means of screenprinted electrodes modified
+            with multiwalled carbon nanotubes and polymeric artificial
+            antibodies is developed. Plastic antibodies to myoglobin
+            (molecularly imprinted polymers, MIPs) based on o-phenylenediamine
+            were produced by electropolymerization. Molecular imprinting
+            technology in biosensor analysis was used.
+REFERENCE   5  (bases 1 to 1153)
+  AUTHORS   Bicker A, Brahmer AM, Meller S, Kristiansen G, Gorr TA and Hankeln
+            T.
+  TITLE     The Distinct Gene Regulatory Network of Myoglobin in Prostate and
+            Breast Cancer
+  JOURNAL   PLoS ONE 10 (11), E0142662 (2015)
+   PUBMED   26559958
+  REMARK    GeneRIF: analysis of myoglobin gene regulatory networks in breast
+            and prostate cancer
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1153)
+  AUTHORS   Hubbard SR, Hendrickson WA, Lambright DG and Boxer SG.
+  TITLE     X-ray crystal structure of a recombinant human myoglobin mutant at
+            2.8 A resolution
+  JOURNAL   J. Mol. Biol. 213 (2), 215-218 (1990)
+   PUBMED   2342104
+REFERENCE   7  (bases 1 to 1153)
+  AUTHORS   Akaboshi,E.
+  TITLE     Cloning of the human myoglobin gene
+  JOURNAL   Gene 33 (3), 241-249 (1985)
+   PUBMED   2989088
+REFERENCE   8  (bases 1 to 1153)
+  AUTHORS   Lundholm,K. and Schersten,T.
+  TITLE     Protein synthesis in isolated human skeletal muscle tissue:
+            evaluation of an experimental model
+  JOURNAL   Clin. Sci. 57 (2), 221-223 (1979)
+   PUBMED   477257
+REFERENCE   9  (bases 1 to 1153)
+  AUTHORS   Romero Herrera,A.E. and Lehmann,H.
+  TITLE     The myoglobin of primates. II. Pan Troglodytes (chimpanzee)
+  JOURNAL   Biochim. Biophys. Acta 278 (1), 62-67 (1972)
+   PUBMED   4627044
+REFERENCE   10 (bases 1 to 1153)
+  AUTHORS   Herrera,A.E. and Lehmann,H.
+  TITLE     Primary structure of human myoglobin
+  JOURNAL   Nature New Biol. 232 (31), 149-152 (1971)
+   PUBMED   5285572
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BQ925917.1 and BC014547.1.
+            
+            Summary: This gene encodes a member of the globin superfamily and
+            is expressed in skeletal and cardiac muscles. The encoded protein
+            is a haemoprotein contributing to intracellular oxygen storage and
+            transcellular facilitated diffusion of oxygen. At least three
+            alternatively spliced transcript variants encoding the same protein
+            have been reported. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (3) differs in the 5' UTR compared
+            to variant 1. All three variants encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: ERR279829.2648.1, ERR279865.2556.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2151741, SAMEA2154361
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-374               BQ925917.1         50-423
+            375-1153            BC014547.1         296-1074
+FEATURES             Location/Qualifiers
+     source          1..1153
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="22"
+                     /map="22q12.3"
+     gene            1..1153
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /note="myoglobin"
+                     /db_xref="GeneID:4151"
+                     /db_xref="HGNC:HGNC:6915"
+                     /db_xref="MIM:160000"
+     exon            1..147
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    39..41
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /note="upstream in-frame stop codon"
+     exon            148..250
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             156..620
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /codon_start=1
+                     /product="myoglobin"
+                     /protein_id="NP_976312.1"
+                     /db_xref="GI:44955888"
+                     /db_xref="CCDS:CCDS13917.1"
+                     /db_xref="GeneID:4151"
+                     /db_xref="HGNC:HGNC:6915"
+                     /db_xref="MIM:160000"
+                     /translation="MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKF
+                     DKFKHLKSEDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPV
+                     KYLEFISECIIQVLQSKHPGDFGADAQGAMNKALELFRKDMASNYKELGFQG"
+     misc_feature    165..167
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000250|UniProtKB:Q9QZ76};
+                     propagated from UniProtKB/Swiss-Prot (P02144.2);
+                     phosphorylation site"
+     misc_feature    357..359
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000250|UniProtKB:P04247};
+                     propagated from UniProtKB/Swiss-Prot (P02144.2);
+                     phosphorylation site"
+     exon            251..473
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /inference="alignment:Splign:1.39.8"
+     STS             256..452
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /standard_name="MB"
+                     /db_xref="UniSTS:253987"
+     exon            474..1153
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /inference="alignment:Splign:1.39.8"
+     STS             866..970
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /standard_name="D22S1549"
+                     /db_xref="UniSTS:55851"
+     STS             934..1082
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+                     /standard_name="D22S978E"
+                     /db_xref="UniSTS:86546"
+     regulatory      1130..1135
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+     polyA_site      1153
+                     /gene="MB"
+                     /gene_synonym="myoglobgin; PVALB"
+ORIGIN      
+        1 aatggcacct gccctaaaat agcttcccat gtgagggcta gagaaaggaa aagattagac
+       61 cctccctgga tgagagagag aaagtgaagg agggcagggg agggggacag cgagccattg
+      121 agcgatcttt gtcaagcatc ccagaagact gcgccatggg gctcagcgac ggggaatggc
+      181 agttggtgct gaacgtctgg gggaaggtgg aggctgacat cccaggccat gggcaggaag
+      241 tcctcatcag gctctttaag ggtcacccag agactctgga gaagtttgac aagttcaagc
+      301 acctgaagtc agaggacgag atgaaggcgt ctgaggactt aaagaagcat ggtgccaccg
+      361 tgctcaccgc cctgggtggc atccttaaga agaaggggca tcatgaggca gagattaagc
+      421 ccctggcaca gtcgcatgcc accaagcaca agatccccgt gaagtacctg gagttcatct
+      481 cggaatgcat catccaggtt ctgcagagca agcatcccgg ggactttggt gctgatgccc
+      541 agggggccat gaacaaggcc ctggagctgt tccggaagga catggcctcc aactacaagg
+      601 agctgggctt ccagggctag gcccctgccg ctcccacccc cacccatctg ggccccgggt
+      661 tcaagagaga gcggggtctg atctcgtgta gccatataga gtttgcttct gagtgtctgc
+      721 tttgtttagt agaggtgggc aggaggagct gaggggctgg ggctggggtg ttgaagttgg
+      781 ctttgcatgc ccagcgatgc gcctccctgt gggatgtcat caccctggga accgggagtg
+      841 gcccttggct cactgtgttc tgcatggttt ggatctgaat taattgtcct ttcttctaaa
+      901 tcccaaccga acttcttcca acctccaaac tggctgtaac cccaaatcca agccattaac
+      961 tacacctgac agtagcaatt gtctgattaa tcactggccc cttgaagaca gcagaatgtc
+     1021 cctttgcaat gaggaggaga tctgggctgg gcgggccagc tggggaagca tttgactatc
+     1081 tggaacttgt gtgtgcctcc tcaggtatgg cagtgactca cctggtttta ataaaacaac
+     1141 ctgcaacatc tca
+//
+
