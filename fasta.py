@@ -569,3 +569,28 @@ def translate_sequence(sequence, cut=True):
     start = sequence.find('AUG')
     aas = ''.join(codon_to_aa_dict.get(sequence[i:i + 3], '') for i in range(start, len(sequence), 3))
     return aas[:aas.find('*')] if cut else aas
+
+
+def complementary_dna(dna_seq):
+    switch_dict = {'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C'}
+    return ''.join(switch_dict[b] for b in dna_seq)
+
+
+def transcript(dna_seq):
+    return dna_seq.replace('T', 'U')
+
+
+def reverse_transcript(rna_seq):
+    return rna_seq.replace('U', 'T')
+
+
+def reverse_sequence(seq):
+    return seq[::-1]
+
+
+def find_sequence(outer, inner):
+    inner_len = len(inner)
+    l = []
+    for i in range(len(outer) - len(inner)):
+        l.append(compare_sequences(outer[i:i + inner_len], inner))
+    return max(l, lambda x: x[2])
