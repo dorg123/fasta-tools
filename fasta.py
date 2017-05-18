@@ -589,8 +589,11 @@ def reverse_sequence(seq):
 
 
 def find_sequence(outer, inner):
+    diff = len(outer) - len(inner)
+    if diff < 0:
+        return '', 0, 0
     inner_len = len(inner)
     l = []
-    for i in range(len(outer) - len(inner)):
+    for i in range(diff):
         l.append(compare_sequences(outer[i:i + inner_len], inner))
-    return max(l, lambda x: x[2])
+    return max(l, key=lambda x: x[2])
