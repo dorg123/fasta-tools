@@ -590,7 +590,7 @@ def reverse_sequence(seq):
 
 def find_sequence(outer, inner):
     diff = len(outer) - len(inner)
-    if diff < 0:
+    if diff <= 0:
         return '', 0, 0
     inner_len = len(inner)
     l = []
