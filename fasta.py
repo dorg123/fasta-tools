@@ -252,17 +252,27 @@ class DavidReader(FileReader):
         with open(self._filename, 'r') as f:
             lines = list(l.strip('\n') for l in f.readlines())
         flag = True
-        self._data = dict()
+        self._data = list()
+        self._accessions = dict()
+        index = -1
         for line in lines:
             if flag:
+                index += 1
                 caption, _, data = line.partition('\t')
-                self._data[caption] = {'': data}
+                self._data.append({caption: data})
+                self._accessions.update((acc, index) for acc in caption.split(', '))
                 flag = False
             elif line == '':
                 flag = True
             else:
                 title, _, data = line.partition('\t')
-                self._data[caption][title] = data
+                self._data[index][title] = data
+
+    def get_entry(self, accession):
+        try:
+            return self._data[self._accessions[accession]]
+        except KeyError:
+            return dict()
 
     def __str__(self):
         return 'fasta.DavidReader: {}, {} entries' \
@@ -597,3 +607,7 @@ def find_sequence(outer, inner):
     for i in range(diff):
         l.append(compare_sequences(outer[i:i + inner_len], inner))
     return max(l, key=lambda x: x[2])
+
+
+def distribute(lst):
+    return list((key, lst.count(key)) for key in sorted(set(lst)))
