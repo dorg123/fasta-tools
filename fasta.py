@@ -608,7 +608,7 @@ def find_best_match(s, sub, start=-1, end=-1):
     else:
         comps = []
         for i in range(len(main) - len(sub)):
-            a, b, c = compare_sequences()
+            a, b, c = compare_sequences(main[i:i + len(sub)], sub)
             comps.append((i, a, b, c))
         return max(comps, key=lambda x: x[3])
 
@@ -623,7 +623,7 @@ def count_matches(s, sub, similarity_range, start=-1, end=-1):
     else:
         comps = []
         for i in range(len(main) - len(sub)):
-            a, b, c = compare_sequences()
+            a, b, c = compare_sequences(main[i:i + len(sub)], sub)
             comps.append((i, a, b, c))
         comps = list(filter(lambda x: similarity_range[0] <= x[3] <= similarity_range[1], comps))
         return len(comps), comps
