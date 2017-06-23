@@ -598,15 +598,35 @@ def reverse_sequence(seq):
     return seq[::-1]
 
 
-def find_sequence(outer, inner):
-    diff = len(outer) - len(inner)
-    if diff <= 0:
-        return '', 0, 0
-    inner_len = len(inner)
-    l = []
-    for i in range(diff):
-        l.append(compare_sequences(outer[i:i + inner_len], inner))
-    return max(l, key=lambda x: x[2])
+def find_best_match(s, sub, start=-1, end=-1):
+    main = s[start if start != -1 else 0:end if end != -1 else len(s)]
+    if len(main) < len(sub):
+        return 0, '', 0, 0
+    elif len(main) == len(sub):
+        a, b, c = compare_sequences(main, sub)
+        return 0, a, b, c
+    else:
+        comps = []
+        for i in range(len(main) - len(sub)):
+            a, b, c = compare_sequences()
+            comps.append((i, a, b, c))
+        return max(comps, key=lambda x: x[3])
+
+
+def count_matches(s, sub, similarity_range, start=-1, end=-1):
+    main = s[start if start != -1 else 0:end if end != -1 else len(s)]
+    if len(main) < len(sub):
+        return 0, '', 0, 0
+    elif len(main) == len(sub):
+        a, b, c = compare_sequences(main, sub)
+        return 0, a, b, c
+    else:
+        comps = []
+        for i in range(len(main) - len(sub)):
+            a, b, c = compare_sequences()
+            comps.append((i, a, b, c))
+        comps = list(filter(lambda x: similarity_range[0] <= x[3] <= similarity_range[1], comps))
+        return len(comps), comps
 
 
 def distribute(lst):
