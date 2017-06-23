@@ -616,10 +616,10 @@ def find_best_match(s, sub, start=-1, end=-1):
 def count_matches(s, sub, similarity_range, start=-1, end=-1):
     main = s[start if start != -1 else 0:end if end != -1 else len(s)]
     if len(main) < len(sub):
-        return 0, '', 0, 0
+        return 0, []
     elif len(main) == len(sub):
         a, b, c = compare_sequences(main, sub)
-        return 0, a, b, c
+        return 1, [(0, a, b, c)] if similarity_range[0] <= c <= similarity_range[1] else 0, []
     else:
         comps = []
         for i in range(len(main) - len(sub)):
