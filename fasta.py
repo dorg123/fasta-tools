@@ -259,7 +259,9 @@ class DavidReader(FileReader):
             if flag:
                 index += 1
                 caption, _, data = line.partition('\t')
-                self._data.append({caption: data})
+                pieces = data.split('$')[1:]
+                pieces = list(p[:p.rfind(',')] for p in pieces[:len(pieces) - 1]) + [pieces[-1]]
+                self._data.append({caption: pieces})
                 self._accessions.update((acc, index) for acc in caption.split(', '))
                 flag = False
             elif line == '':
