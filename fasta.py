@@ -31,7 +31,12 @@ class FileReader:
         return self._data
 
     def __getitem__(self, item):
-        return self._data[item]
+        try:
+            return self._data[item]
+        except KeyError:
+            return None
+        except IndexError:
+            return None
 
 
 class FastaReader(FileReader):
