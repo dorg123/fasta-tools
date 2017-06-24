@@ -30,6 +30,9 @@ class FileReader:
     def data(self):
         return self._data
 
+    def __getitem__(self, item):
+        return self._data[item]
+
 
 class FastaReader(FileReader):
     def _read(self):
