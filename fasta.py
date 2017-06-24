@@ -262,16 +262,16 @@ class DavidReader(FileReader):
             if flag:
                 index += 1
                 caption, _, data = line.partition('\t')
-                pieces = data.split('$')[1:]
-                pieces = list(p[:p.rfind(',')] for p in pieces[:len(pieces) - 1]) + [pieces[-1]]
-                self._data.append({caption: pieces})
+                self._data.append({caption: data})
                 self._accessions.update((acc, index) for acc in caption.split(', '))
                 flag = False
             elif line == '':
                 flag = True
             else:
                 title, _, data = line.partition('\t')
-                self._data[index][title] = data
+                pieces = data.rstrip(',').split('$')[1:]
+                pieces = list(p[:p.rfind(',')] for p in pieces[:-1]) + [pieces[-1]]
+                self._data[index][title] = pieces
 
     def get_entry(self, accession):
         try:
