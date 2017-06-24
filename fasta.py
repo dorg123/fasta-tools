@@ -98,6 +98,21 @@ class TabReader(FileReader):
             .format(self.filename, len(self.data), self.head)
 
 
+class SimplifiedTabReader(FileReader):
+    def _read(self):
+        with open(self._filename, 'r') as f:
+            lines = f.readlines()
+        self._data = dict((a, b) for a, _, b in (l.partition('\t') for l in lines))
+
+    def __str__(self):
+        return 'fasta.SimplifiedTabReader: {}, {} entries' \
+            .format(self.filename, len(self.data))
+
+    def __repr__(self):
+        return 'fasta.SimplifiedTabReader({})<length: {}>' \
+            .format(self.filename, len(self.data))
+
+
 class FastqReader(FileReader):
     def _read(self):
         with open(self.filename, 'r') as f:
@@ -278,6 +293,9 @@ class DavidReader(FileReader):
             return self._data[self._accessions[accession]]
         except KeyError:
             return dict()
+
+    def __getitem__(self, item):
+        return self.get_entry(item)
 
     def __str__(self):
         return 'fasta.DavidReader: {}, {} entries' \
