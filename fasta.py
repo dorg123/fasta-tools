@@ -107,7 +107,7 @@ class SimplifiedTabReader(FileReader):
     def _read(self):
         with open(self._filename, 'r') as f:
             lines = f.readlines()
-        self._data = dict((a, b) for a, _, b in (l.partition('\t') for l in lines))
+        self._data = dict((a, b.replace('\t', ' - ')) for a, _, b in (l.rstrip('\n').partition('\t') for l in lines))
 
     def __str__(self):
         return 'fasta.SimplifiedTabReader: {}, {} entries' \
@@ -466,6 +466,9 @@ class FastaWriter(FileWriter):
 
     def write(self, head, body, lim=60):
         self._file.write('>{}\n'.format(head))
+        if lim == -1:
+            self._file.write('{}\n'.format(body))
+            return
         l = len(body)
         for i in range(0, l, lim):
             if l - i > lim:
