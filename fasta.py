@@ -50,7 +50,7 @@ class FastaReader(FileReader):
                 info = line.lstrip('>')
                 self._data[info] = ''
             else:
-                self._data[info] += line.upper()
+                self._data[info] += line
 
     @staticmethod
     def read_head(head, raw=False):
