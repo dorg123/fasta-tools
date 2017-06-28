@@ -38,6 +38,14 @@ class FileReader:
         except IndexError:
             return None
 
+    def __str__(self):
+        return 'fasta.FileReader: {}, {} entries' \
+            .format(self._filename, len(self._data))
+
+    def __repr__(self):
+        return 'fasta.FastaReader({})<length: {}>' \
+            .format(self._filename, len(self._data))
+
 
 class FastaReader(FileReader):
     def _read(self):
@@ -103,7 +111,7 @@ class TabReader(FileReader):
             .format(self.filename, len(self.data), self.head)
 
 
-class SimplifiedTabReader(FileReader):
+class MapReader(FileReader):
     def _read(self):
         with open(self._filename, 'r') as f:
             lines = f.readlines()
