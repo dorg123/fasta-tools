@@ -549,7 +549,7 @@ class FastqWriter(FileWriter):
             .format(self.filename, 'open' if self.is_open else 'close')
 
 
-def compare_sequences(*seqs):
+def raw_compare_sequences(*seqs):
     differ_sign = '-'
 
     def differ(*objects):
@@ -642,12 +642,12 @@ def find_best_match(s, sub, start=-1, end=-1):
     if len(main) < len(sub):
         return 0, '', 0, 0
     elif len(main) == len(sub):
-        a, b, c = compare_sequences(main, sub)
+        a, b, c = raw_compare_sequences(main, sub)
         return 0, a, b, c
     else:
         comps = []
         for i in range(len(main) - len(sub)):
-            a, b, c = compare_sequences(main[i:i + len(sub)], sub)
+            a, b, c = raw_compare_sequences(main[i:i + len(sub)], sub)
             comps.append((i, a, b, c))
         return max(comps, key=lambda x: x[3])
 
@@ -657,12 +657,12 @@ def count_matches(s, sub, similarity_range, start=-1, end=-1):
     if len(main) < len(sub):
         return 0, []
     elif len(main) == len(sub):
-        a, b, c = compare_sequences(main, sub)
+        a, b, c = raw_compare_sequences(main, sub)
         return 1, [(0, a, b, c)] if similarity_range[0] <= c <= similarity_range[1] else 0, []
     else:
         comps = []
         for i in range(len(main) - len(sub)):
-            a, b, c = compare_sequences(main[i:i + len(sub)], sub)
+            a, b, c = raw_compare_sequences(main[i:i + len(sub)], sub)
             comps.append((i, a, b, c))
         comps = list(filter(lambda x: similarity_range[0] <= x[3] <= similarity_range[1], comps))
         return len(comps), comps
@@ -670,3 +670,46 @@ def count_matches(s, sub, similarity_range, start=-1, end=-1):
 
 def distribute(lst):
     return list((key, lst.count(key)) for key in sorted(set(lst)))
+
+
+def blast(seq1, seq2):
+    # Set up the matrix
+    matrix = [[(None, None, None) for i in range(len(seq2) + 1)] for j in range(len(seq1) + 1)]
+    # fill initial values
+    matrix[0][0] = 0, None, None
+    for i in range(1, len(seq1) + 1):
+        matrix[i][0] = -2 * i, i - 1, 0
+    for i in range(1, len(seq2) + 1):
+        matrix[0][i] = -2 * i, 0, i - 1
+    # fill the matrix
+    for i in range(1, len(seq1) + 1):
+        for j in range(1, len(seq2) + 1):
+            # calculate options
+            up = matrix[i][j - 1][0] - 2, i, j - 1
+            left = matrix[i - 1][j][0] - 2, i - 1, j
+            across = matrix[i - 1][j - 1][0] + (1 if seq1[i - 1] == seq2[j - 1] else -1), i - 1, j - 1
+            # and choose the best one
+            matrix[i][j] = max(up, left, across, key=lambda _: _[0])
+    # Set up run
+    x = len(seq1)
+    y = len(seq2)
+    nseq1 = ''
+    nseq2 = ''
+    # Run through the matrix to find the sequences
+    while x != 0 and y != 0:
+        _, nx, ny = matrix[x][y]
+        if x == nx:
+            nseq1 = '-' + nseq1
+            nseq2 = seq2[y - 1] + nseq2
+        elif y == ny:
+            nseq1 = seq1[x - 1] + nseq1
+            nseq2 = '-' + nseq2
+        else:
+            nseq1 = seq1[x - 1] + nseq1
+            nseq2 = seq2[y - 1] + nseq2
+        x = nx
+        y = ny
+    # Compare the sequences
+    cseq, mnum, pper = raw_compare_sequences(nseq1, nseq2)
+    # And return the results
+    return nseq1, cseq, nseq2, matrix[len(seq1)][len(seq2)][0], mnum, pper
