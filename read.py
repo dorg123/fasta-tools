@@ -1,22 +1,3 @@
-codon_to_aa_dict = \
-    {'UUU': 'F', 'UCU': 'S', 'UAU': 'Y', 'UGU': 'C', 'UUC': 'F', 'UCC': 'S', 'UAC': 'Y', 'UGC': 'C',
-     'UUA': 'L', 'UCA': 'S', 'UAA': '*', 'UGA': '*', 'UUG': 'L', 'UCG': 'S', 'UAG': '*', 'UGG': 'W',
-     'CUU': 'L', 'CCU': 'P', 'CAU': 'H', 'CGU': 'R', 'CUC': 'L', 'CCC': 'P', 'CAC': 'H', 'CGC': 'R',
-     'CUA': 'L', 'CCA': 'P', 'CAA': 'Q', 'CGA': 'R', 'CUG': 'L', 'CCG': 'P', 'CAG': 'Q', 'CGG': 'R',
-     'AUU': 'I', 'ACU': 'T', 'AAU': 'N', 'AGU': 'S', 'AUC': 'I', 'ACC': 'T', 'AAC': 'N', 'AGC': 'S',
-     'AUA': 'I', 'ACA': 'T', 'AAA': 'K', 'AGA': 'R', 'AUG': 'M', 'ACG': 'T', 'AAG': 'K', 'AGG': 'R',
-     'GUU': 'V', 'GCU': 'A', 'GAU': 'D', 'GGU': 'G', 'GUC': 'V', 'GCC': 'A', 'GAC': 'D', 'GGC': 'G',
-     'GUA': 'V', 'GCA': 'A', 'GAA': 'E', 'GGA': 'G', 'GUG': 'V', 'GCG': 'A', 'GAG': 'E', 'GGG': 'G'}
-aa_to_codons_dict = \
-    {'*': ['UAA', 'UGA', 'UAG'], 'A': ['GCU', 'GCC', 'GCA', 'GCG'], 'C': ['UGU', 'UGC'],
-     'D': ['GAU', 'GAC'], 'E': ['GAA', 'GAG'], 'F': ['UUU', 'UUC'], 'G': ['GGU', 'GGC', 'GGA', 'GGG'],
-     'H': ['CAU', 'CAC'], 'I': ['AUU', 'AUC', 'AUA'], 'K': ['AAA', 'AAG'],
-     'L': ['UUA', 'UUG', 'CUU', 'CUC', 'CUA', 'CUG'], 'M': ['AUG'], 'N': ['AAU', 'AAC'],
-     'P': ['CCU', 'CCC', 'CCA', 'CCG'], 'Q': ['CAA', 'CAG'], 'Y': ['UAU', 'UAC'],
-     'R': ['CGU', 'CGC', 'CGA', 'CGG', 'AGA', 'AGG'], 'S': ['UCU', 'UCC', 'UCA', 'UCG', 'AGU', 'AGC'],
-     'T': ['ACU', 'ACC', 'ACA', 'ACG'], 'V': ['GUU', 'GUC', 'GUA', 'GUG'], 'W': ['UGG']}
-
-
 class FileReader:
     def __init__(self, filename):
         self._filename = filename
@@ -48,17 +29,16 @@ class FileReader:
 
 
 class FastaReader(FileReader):
-    def _read(self):
+    def _read(self, read_head=lambda x: x):
         with open(self._filename, 'r') as f:
             lines = list(line.rstrip('\n') for line in f.readlines())
         info = None
         self._data = dict()
         for line in lines:
             if line.startswith('>'):
-                info = line.lstrip('>')
-                self._data[info] = ''
+                info = read_head(line.lstrip('>'))
             else:
-                self._data[info] += line
+                self._data[info] = self._data.get(info, '') + line
 
     @staticmethod
     def read_head(head, raw=False):
@@ -128,7 +108,7 @@ class MapReader(FileReader):
 
 class FastqReader(FileReader):
     def _read(self):
-        with open(self.filename, 'r') as f:
+        with open(self._filename, 'r') as f:
             lines = list(line.rstrip('\n') for line in f.readlines())
         self._data = dict()
         head = ''
@@ -428,288 +408,11 @@ class GenBankRecord:
             .format(self.version, self.source, len(self.sequence))
 
 
-class FileWriter:
-    def __init__(self, filename, open_file=False):
-        self._open = False
-        self._filename = filename
-        self._file = None
-        if open_file:
-            self.open()
-
-    def __enter__(self):
-        self.open()
-        return self
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.close()
-
-    def open(self):
-        self._open = True
-        self._file = open(self._filename, 'w')
-
-    def close(self):
-        try:
-            self._file.close()
-        except AttributeError:
-            raise ValueError('File is not open.')
-        finally:
-            self._open = False
-
-    @property
-    def filename(self):
-        return self._filename
-
-    @property
-    def is_open(self):
-        return self._open
-
-
-class FastaWriter(FileWriter):
-    def mass_write(self, entries, lim=60):
-        try:
-            for head, body in entries:
-                self.write(head, body, lim)
-        except ValueError:
-            raise ValueError("The given input is either not an iterable or its elements aren't all 2-part tuples.")
-
-    def write(self, head, body, lim=60):
-        self._file.write('>{}\n'.format(head))
-        if lim == -1:
-            self._file.write('{}\n'.format(body))
-            return
-        l = len(body)
-        for i in range(0, l, lim):
-            if l - i > lim:
-                self._file.write('{}\n'.format(body[i:i + lim]))
-            else:
-                self._file.write('{}\n'.format(body[i:]))
-
-    def __str__(self):
-        return 'fasta.FastaWriter: {}, currently {}' \
-            .format(self.filename, 'open' if self.is_open else 'close')
-
-    def __repr__(self):
-        return 'fasta.FastaWriter({})<{}>' \
-            .format(self.filename, 'open' if self.is_open else 'close')
-
-
-class TabWriter(FileWriter):
-    def __init__(self, filename, head, open_file=False):
-        self._head = head
-        super().__init__(filename, open_file)
-
-    @property
-    def head(self):
-        return self._head
-
-    def open(self):
-        super().open()
-        self._file.write('\t'.join(self._head) + '\n')
-
-    def write(self, line):
-        self._file.write('\t'.join(line[col] for col in self._head) + '\n')
-
-    def mass_write(self, *lines):
+class PdbReader(FileReader):
+    def _read(self):
+        with open(self._filename, 'r') as f:
+            lines = list(line.strip().split() for line in f.readlines())
+        d = dict(map(lambda x: (x, []), set(map(lambda x: x[0], lines))))
         for line in lines:
-            self.write(line)
-
-    def __str__(self):
-        return 'fasta.TabWriter: {} ({}), currently {}' \
-            .format(self.filename, ', '.join(self.head), 'open' if self.is_open else 'close')
-
-    def __repr__(self):
-        return 'fasta.TabWriter({}, {})<{}>' \
-            .format(self.filename, self.head, 'open' if self.is_open else 'close')
-
-
-class FastqWriter(FileWriter):
-    def mass_write(self, entries, lim=60):
-        try:
-            for head, seq, annotation in entries:
-                self.write(head, seq, annotation, lim)
-        except ValueError:
-            raise ValueError("The given input is either not an iterable or its elements aren't all 3-part tuples.")
-
-    def write(self, head, seq, annotation, lim=60):
-        self._file.write('@{}\n'.format(head))
-        l = len(seq)
-        for i in range(0, l, lim):
-            if l - i > lim:
-                self._file.write('{}\n'.format(seq[i:i + lim]))
-            else:
-                self._file.write('{}\n'.format(seq[i:]))
-        self._file.write('+\n{}\n'.format(annotation))
-
-    def __str__(self):
-        return 'fasta.FastqWriter: {}, currently {}' \
-            .format(self.filename, 'open' if self.is_open else 'close')
-
-    def __repr__(self):
-        return 'fasta.FastqWriter({})<{}>' \
-            .format(self.filename, 'open' if self.is_open else 'close')
-
-
-def raw_compare_sequences(*seqs):
-    differ_sign = '-'
-
-    def differ(*objects):
-        if all(objects[0] == obj for obj in objects):
-            return objects[0]
-        else:
-            return differ_sign
-
-    new_seq = ''.join(map(differ, *seqs)) + differ_sign * (max(map(len, seqs)) - min(map(len, seqs)))
-    num = new_seq.count(differ_sign)
-    return new_seq, num, 100 - num / max(map(len, seqs)) * 100
-
-
-def get_segments(sequence):
-    dash = True
-    last = 0
-    for i in range(len(sequence)):
-        if (sequence[i] == '-') == dash:
-            yield sequence[last:i]
-            last = i
-            dash = not dash
-
-
-def average_sequence(*seqs):
-    max_len = max(map(len, seqs))
-    new_seqs = list(map(lambda seq: list(seq + '-' * (max_len - len(seq))), seqs))
-    distribution_list = list(max(list((aa, pos.count(aa)) for aa in set(pos)),
-                                 key=lambda x: x[1])[0] for pos in zip(*new_seqs))
-    return ''.join(distribution_list).rstrip('-')
-
-
-def create_mass_sequences(seqs, func):
-    return list(map(func, seqs))
-
-
-def mutate_sequence(sequence):
-    import random
-
-    def mutation(f):
-        def wrap(seq):
-            seq = list(seq)
-            f(seq)
-            return ''.join(seq)
-
-        return wrap
-
-    @mutation
-    def remove(seq):
-        del seq[random.randrange(len(seq))]
-
-    @mutation
-    def insert(seq):
-        seq.insert(random.randrange(len(seq)), random.choice(nuc))
-
-    @mutation
-    def replace(seq):
-        y = random.randrange(len(seq))
-        seq[y] = random.choice(nuc)
-
-    nuc = sorted(list(set(sequence)))
-    z = random.randrange(3)
-    return {0: remove, 1: insert, 2: replace}[z](sequence)
-
-
-def translate_sequence(sequence, cut=True):
-    start = sequence.find('AUG')
-    aas = ''.join(codon_to_aa_dict.get(sequence[i:i + 3], '') for i in range(start, len(sequence), 3))
-    return aas[:aas.find('*')] if cut else aas
-
-
-def complementary_dna(dna_seq):
-    switch_dict = {'A': 'T', 'T': 'A', 'C': 'G', 'G': 'C'}
-    return ''.join(switch_dict[b] for b in dna_seq)
-
-
-def transcript(dna_seq):
-    return dna_seq.replace('T', 'U')
-
-
-def reverse_transcript(rna_seq):
-    return rna_seq.replace('U', 'T')
-
-
-def reverse_sequence(seq):
-    return seq[::-1]
-
-
-def find_best_match(s, sub, start=-1, end=-1):
-    main = s[start if start != -1 else 0:end if end != -1 else len(s)]
-    if len(main) < len(sub):
-        return 0, '', 0, 0
-    elif len(main) == len(sub):
-        a, b, c = raw_compare_sequences(main, sub)
-        return 0, a, b, c
-    else:
-        comps = []
-        for i in range(len(main) - len(sub)):
-            a, b, c = raw_compare_sequences(main[i:i + len(sub)], sub)
-            comps.append((i, a, b, c))
-        return max(comps, key=lambda x: x[3])
-
-
-def count_matches(s, sub, similarity_range, start=-1, end=-1):
-    main = s[start if start != -1 else 0:end if end != -1 else len(s)]
-    if len(main) < len(sub):
-        return 0, []
-    elif len(main) == len(sub):
-        a, b, c = raw_compare_sequences(main, sub)
-        return 1, [(0, a, b, c)] if similarity_range[0] <= c <= similarity_range[1] else 0, []
-    else:
-        comps = []
-        for i in range(len(main) - len(sub)):
-            a, b, c = raw_compare_sequences(main[i:i + len(sub)], sub)
-            comps.append((i, a, b, c))
-        comps = list(filter(lambda x: similarity_range[0] <= x[3] <= similarity_range[1], comps))
-        return len(comps), comps
-
-
-def distribute(lst):
-    return list((key, lst.count(key)) for key in sorted(set(lst)))
-
-
-def blast(seq1, seq2):
-    # Set up the matrix
-    matrix = [[(None, None, None) for i in range(len(seq2) + 1)] for j in range(len(seq1) + 1)]
-    # fill initial values
-    matrix[0][0] = 0, None, None
-    for i in range(1, len(seq1) + 1):
-        matrix[i][0] = -2 * i, i - 1, 0
-    for i in range(1, len(seq2) + 1):
-        matrix[0][i] = -2 * i, 0, i - 1
-    # fill the matrix
-    for i in range(1, len(seq1) + 1):
-        for j in range(1, len(seq2) + 1):
-            # calculate options
-            up = matrix[i][j - 1][0] - 2, i, j - 1
-            left = matrix[i - 1][j][0] - 2, i - 1, j
-            across = matrix[i - 1][j - 1][0] + (1 if seq1[i - 1] == seq2[j - 1] else -1), i - 1, j - 1
-            # and choose the best one
-            matrix[i][j] = max(up, left, across, key=lambda _: _[0])
-    # Set up run
-    x = len(seq1)
-    y = len(seq2)
-    nseq1 = ''
-    nseq2 = ''
-    # Run through the matrix to find the sequences
-    while x != 0 and y != 0:
-        _, nx, ny = matrix[x][y]
-        if x == nx:
-            nseq1 = '-' + nseq1
-            nseq2 = seq2[y - 1] + nseq2
-        elif y == ny:
-            nseq1 = seq1[x - 1] + nseq1
-            nseq2 = '-' + nseq2
-        else:
-            nseq1 = seq1[x - 1] + nseq1
-            nseq2 = seq2[y - 1] + nseq2
-        x = nx
-        y = ny
-    # Compare the sequences
-    cseq, mnum, pper = raw_compare_sequences(nseq1, nseq2)
-    # And return the results
-    return nseq1, cseq, nseq2, matrix[len(seq1)][len(seq2)][0], mnum, pper
+            d[line[0]].append(line[1:])
+        self._data = d
