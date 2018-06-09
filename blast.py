@@ -27,7 +27,7 @@ def align(seq1, seq2):
     nseq1 = ''
     nseq2 = ''
     # Run through the matrix to find the sequences
-    while x != 0 and y != 0:
+    while x > 0 and y > 0:
         _, nx, ny = matrix[x][y]
         if x == nx:
             nseq1 = '-' + nseq1
@@ -106,6 +106,3 @@ def align_nd(*seqs):
             else:
                 letters.append(seqs[i][idx1[i]])
         letters = histogram(letters)
-
-
-

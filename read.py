@@ -1,7 +1,7 @@
 class FileReader:
-    def __init__(self, filename):
+    def __init__(self, filename, accession=None):
         self._filename = filename
-        self._read()
+        self._read(accession)
 
     @property
     def filename(self):
@@ -29,16 +29,21 @@ class FileReader:
 
 
 class FastaReader(FileReader):
-    def _read(self, read_head=lambda x: x):
+    def _read(self, accession=None, read_head=lambda x: x):
         with open(self._filename, 'r') as f:
-            lines = list(line.rstrip('\n') for line in f.readlines())
-        info = None
-        self._data = dict()
-        for line in lines:
-            if line.startswith('>'):
-                info = read_head(line.lstrip('>'))
-            else:
-                self._data[info] = self._data.get(info, '') + line
+            info = None
+            self._data = dict()
+            flag = False
+            for line in f:
+                if line.startswith('>'):
+                    if flag:
+                        break
+                    info = read_head(line.rstrip('\n').lstrip('>'))
+                    if info == accession:
+                        flag = True
+                else:
+                    if accession is None or flag:
+                        self._data[info] = self._data.get(info, '') + line.rstrip('\n')
 
     @staticmethod
     def read_head(head, raw=False):
