@@ -125,3 +125,11 @@ def match(s, sub, similarity_range, start=-1, end=-1):
 
 def histogram(lst):
     return list((key, lst.count(key)) for key in sorted(set(lst)))
+
+
+def subsequences(sequence, length):
+    if len(sequence) <= length:
+        return [sequence] if len(sequence == length) else []
+    else:
+        for i in range(len(sequence) - length):
+            yield sequence[i:i + length]
